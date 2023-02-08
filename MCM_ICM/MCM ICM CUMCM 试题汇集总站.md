@@ -13,7 +13,7 @@ banner_y: 0.656
 
 [[2022 A Power Profile of a Cyclist|Power Profile of a Cyclist/功率曲线]] [+1]
 [[2022 B Water and Hydroelectric Power Sharing|Water and Hydroelectric Power Sharing/水电共享]]
-[[2022 C Trading Strategies|Trading Strategies/交易策略]] [+2]
+[[2022 C Trading Strategies|Trading Strategies/交易策略]] [+3]
 [[2022 D Data Paralysis?Use Our Analysis!|Data Paralysis?Use Our Analysis!/数据系统]]
 [[2022 E Forestry for Carbon Sequestration|Forestry for Carbon Sequestration/造林固碳]]
 [[2022 F All for One and One (Space) for All!|All for One and One (Space) for All!/异星矿场]]
@@ -23,7 +23,7 @@ banner_y: 0.656
 [[2021 A Fungi|Fungi/真菌生长]] [+1]
 [[2021 B Fighting Wildfires|Fighting Wildfires/野火之战]]
 [[2021 C Confirming the Buzz about Hornets|Confirming the Buzz about Hornets/奇袭大黄蜂]]
-[[2021 D The Influence of Music|The Influence of Music/音乐之网]] [+1]
+[[2021 D The Influence of Music|The Influence of Music/音乐之网]] [+1] ==（施工中）==
 
 
 ## 2020
@@ -46,3 +46,8 @@ banner_y: 0.656
 
 # CUMCM
 
+
+# 自产自销——BITMCM
+
+
+# 随手笔记与杂谈
