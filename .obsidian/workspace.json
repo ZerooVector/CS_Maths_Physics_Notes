@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCM_ICM/2022 A Power Profile of a Cyclist.md",
+                "file": "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCM_ICM/2022 A Power Profile of a Cyclist.md",
+                "file": "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCM_ICM/2022 A Power Profile of a Cyclist.md"
+                "file": "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md"
               }
             }
           },
@@ -182,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3cea373d2145dc11",
+  "active": "70ced37221e0a701",
   "lastOpenFiles": [
     "MCM_ICM/2022 A Power Profile of a Cyclist.md",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",

@@ -11,7 +11,7 @@ banner_y: 0.656
 # MCM/ICM
 ## 2022
 
-[[2022 A Power Profile of a Cyclist|Power Profile of a Cyclist/功率曲线]]
+[[2022 A Power Profile of a Cyclist|Power Profile of a Cyclist/功率曲线]] [+1]
 [[2022 B Water and Hydroelectric Power Sharing|Water and Hydroelectric Power Sharing/水电共享]]
 [[2022 C Trading Strategies|Trading Strategies/交易策略]] [+2]
 [[2022 D Data Paralysis?Use Our Analysis!|Data Paralysis?Use Our Analysis!/数据系统]]
