@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "163a71fab72ecbe3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5019c265eba3091",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70ced37221e0a701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65d069688a93e564",
+    "type": "split",
+    "children": [
+      {
+        "id": "34c7d88871b14e35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb923f61563ef704",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb6f5d14240010d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f97b19e1a60b8c2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "428277d9ef015b52",
+    "type": "split",
+    "children": [
+      {
+        "id": "9074fdc2d2efd03c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a82beddfda484f79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b6a695ed8acb9565",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0dbab702b11bfbbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ca79f3e9610869b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md"
+              }
+            }
+          },
+          {
+            "id": "d5ed5631b37a77ff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8dabb9d83a97936",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "canvas:Create new canvas": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "70ced37221e0a701",
+  "lastOpenFiles": [
+    "MCM_ICM/2020 D Teaming Strategies.md",
+    "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
+    "MCM_ICM/2022 C Trading Strategies.md",
+    "MCM_ICM/2020 A Moving North.md",
+    "MCM_ICM/2020 B The Longest Lasting Sandcastle.md",
+    "MCM_ICM/2021 D The Influence of Music.md",
+    "MCM_ICM/2020 C Wealth of Data.md",
+    "MCM_ICM/2019 C Opioid Crisis.md",
+    "MCM_ICM/2021 A Fungi.md",
+    "MCM_ICM/2022 A Power Profile of a Cyclist.md"
+  ]
+}
