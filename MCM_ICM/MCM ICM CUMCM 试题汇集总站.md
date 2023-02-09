@@ -11,7 +11,7 @@ banner_y: 0.656
 # MCM/ICM
 ## 2022
 
-[[2022 A Power Profile of a Cyclist|Power Profile of a Cyclist/功率曲线]] [+1]
+[[2022 A Power Profile of a Cyclist|Power Profile of a Cyclist/功率曲线]] [+2]
 [[2022 B Water and Hydroelectric Power Sharing|Water and Hydroelectric Power Sharing/水电共享]]
 [[2022 C Trading Strategies|Trading Strategies/交易策略]] [+3]
 [[2022 D Data Paralysis?Use Our Analysis!|Data Paralysis?Use Our Analysis!/数据系统]]
@@ -20,10 +20,10 @@ banner_y: 0.656
 
 ## 2021
 
-[[2021 A Fungi|Fungi/真菌生长]] [+1]
+[[2021 A Fungi|Fungi/真菌生长]] [+2]
 [[2021 B Fighting Wildfires|Fighting Wildfires/野火之战]]
 [[2021 C Confirming the Buzz about Hornets|Confirming the Buzz about Hornets/奇袭大黄蜂]]
-[[2021 D The Influence of Music|The Influence of Music/音乐之网]] [+1] ==（施工中）==
+[[2021 D The Influence of Music|The Influence of Music/音乐之网]] [+2] **（近年最卷）** 
 
 
 ## 2020
