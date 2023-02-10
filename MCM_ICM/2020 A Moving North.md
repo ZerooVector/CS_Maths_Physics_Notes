@@ -3,7 +3,7 @@ banner: "![[banner18.png]]"
 ---
 #MCM 
 
-[]
+[[Commentary on 2020 A|裁判评价]]
 
 ## 2004833
 

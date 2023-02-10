@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCM_ICM/2020 A Moving North.md",
+                "file": "MCM_ICM/2020 B The Longest Lasting Sandcastle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f6063457cfb1f21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCM_ICM/Commentary on 2020 B.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCM_ICM/2020 A Moving North.md",
+                "file": "MCM_ICM/Commentary on 2020 B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCM_ICM/2020 A Moving North.md",
+                "file": "MCM_ICM/Commentary on 2020 B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCM_ICM/2020 A Moving North.md"
+                "file": "MCM_ICM/Commentary on 2020 B.md"
               }
             }
           },
@@ -169,17 +182,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77c94354accf5a06",
+  "active": "6f6063457cfb1f21",
   "lastOpenFiles": [
+    "MCM_ICM/2020 B The Longest Lasting Sandcastle.md",
+    "MCM_ICM/Commentary on 2020 B.md",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
+    "MCM_ICM/2020 A Moving North.md",
+    "MCM_ICM/2020 C Wealth of Data.md",
+    "MCM_ICM/Commentary on 2020 A.md",
     "MCM_ICM/2020 D Teaming Strategies.md",
     "MCM_ICM/2021 C Confirming the Buzz about Hornets.md",
     "MCM_ICM/2021 D The Influence of Music.md",
-    "MCM_ICM/2021 A Fungi.md",
-    "MCM_ICM/2022 F All for One and One (Space) for All!.md",
-    "MCM_ICM/2022 A Power Profile of a Cyclist.md",
-    "MCM_ICM/2019 A Game of Ecology.md",
-    "MCM_ICM/2022 E Forestry for Carbon Sequestration.md",
-    "MCM_ICM/2022 C Trading Strategies.md"
+    "MCM_ICM/2021 A Fungi.md"
   ]
 }
