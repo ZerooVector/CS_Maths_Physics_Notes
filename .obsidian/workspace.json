@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "MCM_ICM/2020 C Wealth of Data.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c96fe9b8555373ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCM_ICM/Commentary on 2020 C.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCM_ICM/2020 C Wealth of Data.md",
+                "file": "MCM_ICM/Commentary on 2020 C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCM_ICM/2020 C Wealth of Data.md",
+                "file": "MCM_ICM/Commentary on 2020 C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCM_ICM/2020 C Wealth of Data.md"
+                "file": "MCM_ICM/Commentary on 2020 C.md"
               }
             }
           },
@@ -169,14 +182,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77c94354accf5a06",
+  "active": "c96fe9b8555373ec",
   "lastOpenFiles": [
+    "MCM_ICM/2020 C Wealth of Data.md",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "MCM_ICM/2022 E Forestry for Carbon Sequestration.md",
     "MCM_ICM/2020 B The Longest Lasting Sandcastle.md",
     "MCM_ICM/Commentary on 2020 B.md",
     "MCM_ICM/2020 A Moving North.md",
-    "MCM_ICM/2020 C Wealth of Data.md",
     "MCM_ICM/Commentary on 2020 A.md",
     "MCM_ICM/2020 D Teaming Strategies.md",
     "MCM_ICM/2021 C Confirming the Buzz about Hornets.md",
