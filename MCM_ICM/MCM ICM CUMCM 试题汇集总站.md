@@ -9,6 +9,8 @@ banner_y: 0.656
 ==离 2023MCM 仅有不足 10 天，兄弟们加油冲冲冲！==
 
 # MCM/ICM
+[[MCM ICM CUMCM 试题汇集总站]]
+
 ## 2022
 
 [[2022 A Power Profile of a Cyclist|Power Profile of a Cyclist/功率曲线]] [+2]
@@ -51,3 +53,7 @@ banner_y: 0.656
 
 
 # 随手笔记与杂谈
+
+
+#MCM 
+
