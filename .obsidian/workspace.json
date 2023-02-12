@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "369329caf032d6c6",
+        "id": "518ef1d93fe85a54",
         "type": "tabs",
         "children": [
           {
-            "id": "bd711508ebb579bc",
+            "id": "73cccf669c946f25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCM_ICM/2023 MCM ICM 速查手册.md",
+                "file": "MCM_ICM/2022 A Power Profile of a Cyclist.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6c20a55d226fc7b8",
+            "id": "840647b1b6682c68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCM_ICM/2020 A Moving North.md",
+                "file": "MCM_ICM/Commentary on 2022 A.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCM_ICM/2020 A Moving North.md",
+                "file": "MCM_ICM/Commentary on 2022 A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCM_ICM/2020 A Moving North.md",
+                "file": "MCM_ICM/Commentary on 2022 A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCM_ICM/2020 A Moving North.md"
+                "file": "MCM_ICM/Commentary on 2022 A.md"
               }
             }
           },
@@ -182,8 +182,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c20a55d226fc7b8",
+  "active": "840647b1b6682c68",
   "lastOpenFiles": [
+    "MCM_ICM/2022 A Power Profile of a Cyclist.md",
     "MCM_ICM/2023 MCM ICM 速查手册.md",
     "MCM_ICM/2020 A Moving North.md",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
@@ -192,7 +193,6 @@
     "MCM_ICM/Commentary on 2020 B.md",
     "MCM_ICM/Commentary on 2020 C.md",
     "MCM_ICM/2021 A Fungi.md",
-    "2023 MCM/ICM 速查手册.md",
-    "MCM_ICM/2023 美赛守则（速查手册）.md"
+    "2023 MCM/ICM 速查手册.md"
   ]
 }

@@ -2,6 +2,7 @@
 banner: "![[banner2.png]]"
 ---
 #MCM 
+[[Commentary on 2022 A | 裁判评价]]
 ## 2210307
 ### 0 名词解释
 - NP 
