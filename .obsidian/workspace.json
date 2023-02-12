@@ -11,51 +11,24 @@
             "id": "bd711508ebb579bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCM_ICM/Commentary on 2021 A.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "3d67199845636380",
+            "id": "6c20a55d226fc7b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCM_ICM/Commentary on 2020 C.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af35bd189b12a70a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCM_ICM/Commentary on 2020 B.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d21ab33cb34bc41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCM_ICM/Commentary on 2020 A.md",
+                "file": "MCM_ICM/2020 A Moving North.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCM_ICM/Commentary on 2021 A.md",
+                "file": "MCM_ICM/2020 A Moving North.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCM_ICM/Commentary on 2021 A.md",
+                "file": "MCM_ICM/2020 A Moving North.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCM_ICM/Commentary on 2021 A.md"
+                "file": "MCM_ICM/2020 A Moving North.md"
               }
             }
           },
@@ -205,13 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd711508ebb579bc",
+  "active": "6c20a55d226fc7b8",
   "lastOpenFiles": [
-    "MCM_ICM/2023 MCM ICM 速查手册.md",
     "MCM_ICM/Commentary on 2021 A.md",
-    "MCM_ICM/Commentary on 2020 C.md",
+    "MCM_ICM/2023 MCM ICM 速查手册.md",
     "MCM_ICM/Commentary on 2020 B.md",
     "MCM_ICM/Commentary on 2020 A.md",
+    "MCM_ICM/Commentary on 2020 C.md",
     "MCM_ICM/2021 A Fungi.md",
     "2023 MCM/ICM 速查手册.md",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
