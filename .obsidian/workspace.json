@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCM_ICM/2022 A Power Profile of a Cyclist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "840647b1b6682c68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "MCM_ICM/Commentary on 2022 A.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,17 +169,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "840647b1b6682c68",
+  "active": "73cccf669c946f25",
   "lastOpenFiles": [
-    "MCM_ICM/2022 A Power Profile of a Cyclist.md",
-    "MCM_ICM/Commentary on 2022 A.md",
     "MCM_ICM/2023 MCM ICM 速查手册.md",
+    "MCM_ICM/2022 A Power Profile of a Cyclist.md",
+    "MCM_ICM/Untitled.canvas",
+    "MCM_ICM/Commentary on 2022 A.md",
     "MCM_ICM/2020 A Moving North.md",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "MCM_ICM/Commentary on 2020 A.md",
     "MCM_ICM/Commentary on 2021 A.md",
     "MCM_ICM/Commentary on 2020 B.md",
-    "MCM_ICM/Commentary on 2020 C.md",
-    "MCM_ICM/2021 A Fungi.md"
+    "MCM_ICM/Commentary on 2020 C.md"
   ]
 }
