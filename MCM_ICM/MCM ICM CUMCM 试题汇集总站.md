@@ -30,7 +30,7 @@ banner_y: 0.656
 
 ## 2020
 
-[[2020 A Moving North|Moving North/一路向北]] [+1]
+[[2020 A Moving North|Moving North/一路向北]] [+2]
 [[2020 B The Longest Lasting Sandcastle|The Longest Lasting Sandcastle/屹立不倒]] [+1]
 [[2020 C Wealth of Data|Wealth of Data/数据生财]] [+1]
 [[2020 D Teaming Strategies|Teaming Strategies/团队协作]] [+2]
