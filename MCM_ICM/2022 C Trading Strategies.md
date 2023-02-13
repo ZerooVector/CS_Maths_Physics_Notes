@@ -1,6 +1,9 @@
 ---
 banner: "![[banner3.png]]"
+banner_y: 0.5
 ---
+[[Commentary on 2022 C|裁判评价]]
+
 #MCM 
 ## 2208834
 一句话简介：利用序列之间的协整性进行配对交易
