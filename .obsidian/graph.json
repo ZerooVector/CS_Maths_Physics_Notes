@@ -18,7 +18,7 @@
       "query": "tag:#ML_DS",
       "color": {
         "a": 1,
-        "rgb": 3131108
+        "rgb": 4904690
       }
     },
     {
@@ -81,6 +81,6 @@
   "repelStrength": 9.38144329896907,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.8085388464227551,
+  "scale": 1.5892284177345182,
   "close": true
 }
