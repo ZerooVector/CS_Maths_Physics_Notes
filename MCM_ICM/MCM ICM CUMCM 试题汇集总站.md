@@ -24,7 +24,7 @@ banner_y: 0.656
 
 [[2021 A Fungi|Fungi/真菌生长]] [+2]
 [[2021 B Fighting Wildfires|Fighting Wildfires/野火之战]]
-[[2021 C Confirming the Buzz about Hornets|Confirming the Buzz about Hornets/奇袭大黄蜂]]
+[[2021 C Confirming the Buzz about Hornets|Confirming the Buzz about Hornets/奇袭大黄蜂]]**(卷死我算了)**
 [[2021 D The Influence of Music|The Influence of Music/音乐之网]] [+2] **（近年最卷）** 
 
 
