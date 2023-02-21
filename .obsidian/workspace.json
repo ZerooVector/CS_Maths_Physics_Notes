@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -182,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb923f61563ef704",
+  "active": "e17690648cdda185",
   "lastOpenFiles": [
     "Reinforcement Learning/Ep.1 Introduction to RL.md",
     "MCM_ICM/2023MCM直播笔记.md",
