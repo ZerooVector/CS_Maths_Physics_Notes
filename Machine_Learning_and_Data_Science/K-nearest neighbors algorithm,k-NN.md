@@ -49,4 +49,8 @@ sklearn.neighbors.NearestCentroid(shrink_thershold = )
 ```
 收缩阈值是控制**样本质心向着总体质心收缩程度的参数**
 
+![[Pasted image 20230222172543.png|400]]
+
+
 # 如果讲到了，请在下面记笔记
+
