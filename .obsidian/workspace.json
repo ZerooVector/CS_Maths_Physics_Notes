@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a38cdfaf92a9219",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +192,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e11d90c6526c5a4e",
+  "active": "2a38cdfaf92a9219",
   "lastOpenFiles": [
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Logistic Regression.md",
