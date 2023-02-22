@@ -25,7 +25,7 @@
       "query": "tag:#MCM",
       "color": {
         "a": 1,
-        "rgb": 6276620
+        "rgb": 9755179
       }
     },
     {
@@ -36,24 +36,17 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#MA",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 8848069
       }
     },
     {
-      "query": "",
+      "query": "tag:#Python",
       "color": {
         "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
+        "rgb": 7230176
       }
     },
     {
@@ -81,6 +74,6 @@
   "repelStrength": 9.38144329896907,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.8085388464227551,
-  "close": true
+  "scale": 0.7514787123635545,
+  "close": false
 }

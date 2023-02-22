@@ -11,6 +11,15 @@ banner_y: 0.656
 # MCM/ICM
 [[2023 MCM ICM 速查手册]]
 
+## 2023（无答案）
+
+->植物大战干旱
+->重塑马赛马拉
+->趣味填字游戏
+->排列发展路线
+->治理光污染
+->绿色 GDP
+
 ## 2022
 
 [[2022 A Power Profile of a Cyclist|Power Profile of a Cyclist/功率曲线]] [+2]

@@ -4,35 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "55a8712b56b44e0b",
+        "id": "0c938af5a727a2ff",
         "type": "tabs",
         "children": [
           {
-            "id": "bba11a7e91690f2d",
+            "id": "928b73198f8fc394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e17690648cdda185",
+            "id": "6739c81361a3221d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCM_ICM/2023MCM直播笔记.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCM_ICM/2023MCM直播笔记.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCM_ICM/2023MCM直播笔记.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCM_ICM/2023MCM直播笔记.md"
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
               }
             }
           },
@@ -163,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,17 +175,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e17690648cdda185",
+  "active": "928b73198f8fc394",
   "lastOpenFiles": [
-    "Reinforcement Learning/Ep.1 Introduction to RL.md",
-    "MCM_ICM/2023MCM直播笔记.md",
-    "Attachments/2023MCM直播笔记 2023-02-17 14.56.39.excalidraw.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Untitled.md",
+    "Python/Ep 1.3 Control.md",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
+    "MCM_ICM/2023MCM直播笔记.md",
+    "Reinforcement Learning/Ep.1 Introduction to RL.md",
+    "Attachments/2023MCM直播笔记 2023-02-17 14.56.39.excalidraw.md",
     "MCM_ICM/2021 A Fungi.md",
     "MCM_ICM/2023 MCM ICM 速查手册.md",
-    "MCM_ICM/2020 A Moving North.md",
-    "MCM_ICM/2021 D The Influence of Music.md",
-    "MCM_ICM/2020 D Teaming Strategies.md",
-    "MCM_ICM/Commentary on 2021 A.md"
+    "MCM_ICM/2020 A Moving North.md"
   ]
 }
