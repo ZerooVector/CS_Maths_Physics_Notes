@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/Basic Appointment in Digital Circuit.md",
+                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/Basic Appointment in Digital Circuit.md",
+                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/Basic Appointment in Digital Circuit.md",
+                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/Basic Appointment in Digital Circuit.md"
+                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md"
               }
             }
           },
@@ -192,12 +191,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9173bf5ab45af022",
+  "active": "a284056d382471a9",
   "lastOpenFiles": [
-    "Digital_circuit/Index of digital circuit.md",
-    "Digital_circuit/Basic Appointment in Digital Circuit.md",
-    "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
+    "Excalidraw/Drawing 2023-02-23 19.13.03.excalidraw.md",
     "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
+    "Excalidraw/Drawing 2023-02-23 19.12.37.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-23 19.11.56.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-23 19.10.19.excalidraw.md",
+    "Banners_and_Ornaments/Minecraft AE(支持中文).ttf",
+    "Excalidraw/Drawing 2023-02-23 19.08.16.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-23 19.07.39.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-23 19.06.39.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-23 19.05.17.excalidraw.md",
+    "Banners_and_Ornaments/AaManYuShouXieTi-2.ttf",
+    "新建文件夹",
+    "Digital_circuit/Basic Appointment in Digital Circuit.md",
+    "Digital_circuit/Index of digital circuit.md",
+    "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
     "Miscellaneous/2022-2023 课程表.md",
     "Attachments/Pasted image 20230223172541.png",
     "Attachments/Pasted image 20230223171855.png",
@@ -221,16 +231,9 @@
     "Reinforcement Learning/Ep.1 Introduction to RL.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Geometric Transformations.md",
-    "Reinforcement Learning/Index of RL.md",
-    "Econometrics/Singal Var Ordinary Least Squre.md",
-    "Econometrics/Multi Vars OLS.md",
     "Attachments/Pasted image 20230223090001.png",
     "Attachments/Pasted image 20230223085052.png",
     "Attachments/52587c4edf068d17541253be20b83f1.png",
-    "Miscellaneous",
-    "Python/Index of Python.md",
-    "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
-    "Machine_Learning_and_Data_Science/K-nearest neighbors algorithm,k-NN.md",
-    "Machine_Learning_and_Data_Science/Something about Distance.md"
+    "Miscellaneous"
   ]
 }
