@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#RL",
       "color": {
         "a": 1,
         "rgb": 11621088
@@ -74,6 +74,6 @@
   "repelStrength": 9.38144329896907,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 1.0459339833430314,
-  "close": false
+  "scale": 0.9454257102284668,
+  "close": true
 }

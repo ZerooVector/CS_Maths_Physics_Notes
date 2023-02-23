@@ -27,6 +27,7 @@ Syllabus:
 ## Index
 
 [[Chapter 1 Linear Space and Transformation]]
-
+[[Geometric Transformations]]
+[[Orthogonal Projection]]
 
 
