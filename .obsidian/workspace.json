@@ -16,6 +16,42 @@
             }
           },
           {
+            "id": "6b5eb1a6b1efea5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital_circuit/Index of digital circuit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c109b644eb7f906e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f5122e65d2c6239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2484758f235253aa",
             "type": "leaf",
             "state": {
@@ -174,12 +210,17 @@
   },
   "active": "f605456b56e7acb3",
   "lastOpenFiles": [
+    "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Digital_circuit/Basic Appointment in Digital Circuit.md",
+    "Digital_circuit/Index of digital circuit.md",
+    "Miscellaneous/2022-2023 课程表.md",
+    "Digital_circuit",
     "Matrix_Analysis/Orthogonal Projection.md",
     "Reinforcement Learning/Ep.1 Introduction to RL.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Geometric Transformations.md",
     "Reinforcement Learning/Index of RL.md",
-    "Miscellaneous/2022-2023 课程表.md",
     "Econometrics/Singal Var Ordinary Least Squre.md",
     "Econometrics/Multi Vars OLS.md",
     "Attachments/Pasted image 20230223090001.png",
@@ -192,7 +233,6 @@
     "Attachments/Pasted image 20230223082642.png",
     "Python/Index of Python.md",
     "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/K-nearest neighbors algorithm,k-NN.md",
     "Machine_Learning_and_Data_Science/Something about Distance.md",
     "Attachments/Pasted image 20230223081751.png",
