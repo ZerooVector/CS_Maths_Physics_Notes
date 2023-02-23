@@ -1,6 +1,7 @@
 ---
 banner: "![[banner21.png]]"
 ---
+#MA
 
 # 课堂教授内容
 ## Vector 
