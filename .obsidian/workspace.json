@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,6 +202,7 @@
   },
   "active": "3122b455ff4f34c4",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230223163128.png",
     "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
     "Optimization method and Ops Rsch/Introduction to Optimization Method.md",
     "Miscellaneous/2022-2023 课程表.md",
@@ -240,7 +240,6 @@
     "Attachments/Pasted image 20230223081751.png",
     "Attachments/Pasted image 20230223081714.png",
     "Machine_Learning_and_Data_Science/Logistic Regression.md",
-    "Excalidraw/Drawing 2023-02-05 11.06.48.excalidraw.md",
-    "Matrix_Analysis/Chapter 1.md"
+    "Excalidraw/Drawing 2023-02-05 11.06.48.excalidraw.md"
   ]
 }
