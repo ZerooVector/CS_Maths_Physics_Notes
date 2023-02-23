@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f605456b56e7acb3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "a284056d382471a9",
             "type": "leaf",
             "state": {
@@ -28,12 +20,12 @@
             }
           },
           {
-            "id": "3122b455ff4f34c4",
+            "id": "9173bf5ab45af022",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimization method and Ops Rsch/Introduction to Optimization Method.md",
+                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimization method and Ops Rsch/Introduction to Optimization Method.md",
+                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimization method and Ops Rsch/Introduction to Optimization Method.md",
+                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimization method and Ops Rsch/Introduction to Optimization Method.md"
+                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md"
               }
             }
           },
@@ -200,12 +192,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3122b455ff4f34c4",
+  "active": "9173bf5ab45af022",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230223163128.png",
     "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
-    "Optimization method and Ops Rsch/Introduction to Optimization Method.md",
     "Miscellaneous/2022-2023 课程表.md",
+    "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
+    "Attachments/Pasted image 20230223172541.png",
+    "Attachments/Pasted image 20230223171855.png",
+    "Attachments/Pasted image 20230223171805.png",
+    "Attachments/Pasted image 20230223171232.png",
+    "Attachments/Pasted image 20230223170150.png",
+    "Optimization method and Ops Rsch/The general form of Opt Problem.md",
+    "Optimization method and Ops Rsch/Introduction to Optimization Method.md",
+    "Digital_circuit/Basic Appointment in Digital Circuit.md",
+    "Attachments/Pasted image 20230223163128.png",
     "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
     "Optimization method and Ops Rsch",
     "Attachments/Pasted image 20230223143334.png",
@@ -216,7 +216,6 @@
     "README.md",
     "Attachments/Chapter 2 Data Model 2023-02-23 13.54.40.excalidraw.md",
     "Attachments/Chapter 2 Data Model 2023-02-23 13.47.42.excalidraw.md",
-    "Digital_circuit/Basic Appointment in Digital Circuit.md",
     "Digital_circuit",
     "Matrix_Analysis/Orthogonal Projection.md",
     "Reinforcement Learning/Ep.1 Introduction to RL.md",
@@ -229,17 +228,9 @@
     "Attachments/Pasted image 20230223085052.png",
     "Attachments/52587c4edf068d17541253be20b83f1.png",
     "Miscellaneous",
-    "Attachments/Pasted image 20230223083846.png",
-    "Attachments/Pasted image 20230223083012.png",
-    "Attachments/Pasted image 20230223082836.png",
-    "Attachments/Pasted image 20230223082642.png",
     "Python/Index of Python.md",
     "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
     "Machine_Learning_and_Data_Science/K-nearest neighbors algorithm,k-NN.md",
-    "Machine_Learning_and_Data_Science/Something about Distance.md",
-    "Attachments/Pasted image 20230223081751.png",
-    "Attachments/Pasted image 20230223081714.png",
-    "Machine_Learning_and_Data_Science/Logistic Regression.md",
-    "Excalidraw/Drawing 2023-02-05 11.06.48.excalidraw.md"
+    "Machine_Learning_and_Data_Science/Something about Distance.md"
   ]
 }
