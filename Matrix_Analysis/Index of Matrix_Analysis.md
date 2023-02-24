@@ -34,8 +34,10 @@ Syllabus:
 [[Chapter 1 Linear Space and Transformation]]
 
 ## HIT Course
+这是控制方向的一门基础课
+[[Ep.1 Linear Space and Transformation]]
 
 ## PKU 
 
-## Other Refs
 
+## Other Refs

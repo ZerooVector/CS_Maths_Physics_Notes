@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7492628c6631cef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
+                "file": "Matrix_Analysis/Ep.1 Linear Space and Transformation.md"
               }
             }
           },
@@ -169,13 +182,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4350af0afac94655",
+  "active": "d7492628c6631cef",
   "lastOpenFiles": [
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
+    "Matrix_Analysis/Orthogonal Projection.md",
     "Miscellaneous/2022-2023 课程表.md",
     "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Machine_Learning_and_Data_Science/K-nearest neighbors algorithm,k-NN.md",
-    "Matrix_Analysis/Orthogonal Projection.md",
     "Attachments/Pasted image 20230224095002.png",
     "Attachments/Pasted image 20230224094547.png",
     "Attachments/Pasted image 20230224093543.png",
@@ -210,7 +224,6 @@
     "Optimization method and Ops Rsch",
     "Attachments/Chapter 2 Data Model 2023-02-23 14.16.46.excalidraw.md",
     "Attachments/Chapter 2 Data Model 2023-02-23 14.13.51.excalidraw.md",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Digital_circuit",
     "Miscellaneous"
   ]
