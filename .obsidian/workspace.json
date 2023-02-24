@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md"
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
               }
             }
           },
@@ -182,11 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "829a4400c7e890db",
+  "active": "4350af0afac94655",
   "lastOpenFiles": [
+    "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Machine_Learning_and_Data_Science/K-nearest neighbors algorithm,k-NN.md",
-    "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
     "Matrix_Analysis/Orthogonal Projection.md",
     "Attachments/Pasted image 20230224095002.png",
     "Attachments/Pasted image 20230224094547.png",
