@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa40004435850260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Orthogonal Projection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Orthogonal Projection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Orthogonal Projection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
+                "file": "Matrix_Analysis/Orthogonal Projection.md"
               }
             }
           },
@@ -169,8 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "677b117a8fa9fce7",
+  "active": "fa40004435850260",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230224082553.png",
+    "Attachments/Pasted image 20230224081101.png",
+    "Attachments/Pasted image 20230224073646.png",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Python/Ep 1.3 Control.md",
     "README.md",
     "Python/Index of Python.md",
@@ -208,10 +225,6 @@
     "Attachments/Chapter 2 Data Model 2023-02-23 13.54.40.excalidraw.md",
     "Attachments/Chapter 2 Data Model 2023-02-23 13.47.42.excalidraw.md",
     "Digital_circuit",
-    "Matrix_Analysis/Orthogonal Projection.md",
-    "Reinforcement Learning/Ep.1 Introduction to RL.md",
-    "Attachments/Pasted image 20230223090001.png",
-    "Attachments/Pasted image 20230223085052.png",
     "Miscellaneous"
   ]
 }
