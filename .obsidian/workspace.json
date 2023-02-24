@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
+                "file": "Miscellaneous/2022-2023 课程表.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Miscellaneous/2022-2023 课程表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Miscellaneous/2022-2023 课程表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
+                "file": "Miscellaneous/2022-2023 课程表.md"
               }
             }
           },
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +180,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4350af0afac94655",
+  "active": "829a4400c7e890db",
   "lastOpenFiles": [
     "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
