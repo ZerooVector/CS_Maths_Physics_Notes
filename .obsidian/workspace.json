@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a5cf8766f0bd69b2",
+        "id": "0099494ee0df50b5",
         "type": "tabs",
         "children": [
           {
-            "id": "677b117a8fa9fce7",
+            "id": "4350af0afac94655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "829a4400c7e890db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,9 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "677b117a8fa9fce7",
+  "active": "829a4400c7e890db",
   "lastOpenFiles": [
     "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Machine_Learning_and_Data_Science/K-nearest neighbors algorithm,k-NN.md",
+    "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
     "Matrix_Analysis/Orthogonal Projection.md",
     "Attachments/Pasted image 20230224095002.png",
     "Attachments/Pasted image 20230224094547.png",
@@ -209,7 +224,6 @@
     "Attachments/Chapter 2 Data Model 2023-02-23 14.16.46.excalidraw.md",
     "Attachments/Chapter 2 Data Model 2023-02-23 14.13.51.excalidraw.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
-    "Attachments/Chapter 2 Data Model 2023-02-23 13.54.40.excalidraw.md",
     "Digital_circuit",
     "Miscellaneous"
   ]
