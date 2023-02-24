@@ -25,19 +25,23 @@ Syllabus:
 - 矩阵和计算机
 
 ## Visualization of Matrix Analysis
-
+这部分笔记来自可视化书籍《Matrix Power》（《矩阵力量》）
 [[Geometric Transformations]]
 [[Orthogonal Projection]]
 
 
 ## BIT Course
+这是 BIT 人工智能学院开设的一门课
 [[Chapter 1 Linear Space and Transformation]]
 
 ## HIT Course
 这是控制方向的一门基础课
 [[Ep.1 Linear Space and Transformation]]
+[[Ep.2 Vector in Linear Space]]
 
-## PKU 
+
+## PKU Course
+这是 PKU 丘维声的高等代数课程，（可能）是中国大陆最好的课程
 
 
 ## Other Refs

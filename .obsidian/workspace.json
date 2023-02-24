@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d7492628c6631cef",
+            "id": "980dd844c7a41d1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
+                "file": "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
+                "file": "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
+                "file": "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.1 Linear Space and Transformation.md"
+                "file": "Matrix_Analysis/Ep.2 Vector in Linear Space.md"
               }
             }
           },
@@ -182,10 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7492628c6631cef",
+  "active": "4350af0afac94655",
   "lastOpenFiles": [
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
+    "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
     "Matrix_Analysis/Orthogonal Projection.md",
     "Miscellaneous/2022-2023 课程表.md",
     "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
@@ -223,7 +223,6 @@
     "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
     "Optimization method and Ops Rsch",
     "Attachments/Chapter 2 Data Model 2023-02-23 14.16.46.excalidraw.md",
-    "Attachments/Chapter 2 Data Model 2023-02-23 14.13.51.excalidraw.md",
     "Digital_circuit",
     "Miscellaneous"
   ]
