@@ -28,6 +28,8 @@ Syllabus:
 这部分笔记来自可视化书籍《Matrix Power》（《矩阵力量》）
 [[Geometric Transformations]]
 [[Orthogonal Projection]]
+[[Data Projection and PCA]]
+
 
 
 ## BIT Course
