@@ -24,11 +24,13 @@ Syllabus:
 - 正负矩阵
 - 矩阵和计算机
 
-## Index
+## Visualization of Matrix Analysis
 
-[[Chapter 1 Linear Space and Transformation]]
 [[Geometric Transformations]]
 [[Orthogonal Projection]]
 
 
+## BIT Course
+[[Chapter 1 Linear Space and Transformation]]
 
+## 
