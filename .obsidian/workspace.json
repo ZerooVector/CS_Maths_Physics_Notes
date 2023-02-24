@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa40004435850260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Orthogonal Projection.md",
+                "file": "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Orthogonal Projection.md",
+                "file": "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Orthogonal Projection.md",
+                "file": "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Orthogonal Projection.md"
+                "file": "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md"
               }
             }
           },
@@ -182,21 +169,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa40004435850260",
+  "active": "677b117a8fa9fce7",
   "lastOpenFiles": [
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Orthogonal Projection.md",
+    "Attachments/Pasted image 20230224095002.png",
+    "Attachments/Pasted image 20230224094547.png",
+    "Attachments/Pasted image 20230224093543.png",
     "Attachments/Pasted image 20230224091908.png",
     "Attachments/Pasted image 20230224091736.png",
     "Attachments/Pasted image 20230224091536.png",
     "Attachments/Pasted image 20230224091053.png",
     "Attachments/Pasted image 20230224091032.png",
     "Attachments/ece4958b3138776a8f09974f288b32d.jpg",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Matrix_Analysis/Orthogonal Projection.md",
     "Attachments/Pasted image 20230224084606.png",
-    "Attachments/Pasted image 20230224083347.png",
-    "Attachments/Pasted image 20230224082553.png",
-    "Attachments/Pasted image 20230224081101.png",
-    "Attachments/Pasted image 20230224073646.png",
     "Python/Ep 1.3 Control.md",
     "README.md",
     "Python/Index of Python.md",
