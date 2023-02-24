@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0099494ee0df50b5",
+        "id": "2370664e67e0a73d",
         "type": "tabs",
         "children": [
           {
-            "id": "4350af0afac94655",
+            "id": "963c81a3274ce672",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "980dd844c7a41d1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
+                "file": "Matrix_Analysis/Orthogonal Projection.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
+                "file": "Matrix_Analysis/Orthogonal Projection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
+                "file": "Matrix_Analysis/Orthogonal Projection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.2 Vector in Linear Space.md"
+                "file": "Matrix_Analysis/Orthogonal Projection.md"
               }
             }
           },
@@ -181,11 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4350af0afac94655",
+  "active": "963c81a3274ce672",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230224235345.png",
+    "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
-    "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
     "Matrix_Analysis/Orthogonal Projection.md",
     "Miscellaneous/2022-2023 课程表.md",
     "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
@@ -222,7 +211,6 @@
     "Optimization method and Ops Rsch/Introduction to Optimization Method.md",
     "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
     "Optimization method and Ops Rsch",
-    "Attachments/Chapter 2 Data Model 2023-02-23 14.16.46.excalidraw.md",
     "Digital_circuit",
     "Miscellaneous"
   ]
