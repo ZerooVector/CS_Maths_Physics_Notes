@@ -39,4 +39,21 @@ $$
 $X$ 是一个矩阵，第一列是组合出 $\beta_1$ 的系数，以此类推
 此矩阵方程有解！
 
-线性表示的关系有传递性。设有向量组 $\alpha_1,\cdots,\alpha_p;\beta_1,\cdots,\beta_q;\gamma_1,\cdots,\gamma_t$，如果 $\beta$ 可由 $\alpha$ 线性表示，$$
+线性表示的关系有传递性。设有向量组 $\alpha_1,\cdots,\alpha_p;\beta_1,\cdots,\beta_q;\gamma_1,\cdots,\gamma_t$，如果 $\beta$ 可由 $\alpha$ 线性表示，$\gamma$ 可由 $\beta$ 线性表示，则 $\gamma$ 可以被 $\alpha$ 线性表示。
+##### PF:
+首先，$B$ 可以有 $A$ 线性表示，说明方程组
+$$
+AX = B
+$$
+有解。同理
+$$
+BY=C
+$$
+有解。那么
+$$
+C= BY = A(XY) = AZ
+$$
+因此，$C$ 可以由 $A$ 线性表出。
+这展示了方程组语言和矩阵运算的强大威力，我们不需要再用自然语言详细地说明了。
+
+
