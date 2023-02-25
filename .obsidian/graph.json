@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Econometrics",
@@ -25,7 +25,7 @@
       "query": "tag:#MCM",
       "color": {
         "a": 1,
-        "rgb": 618768
+        "rgb": 5723991
       }
     },
     {
@@ -67,7 +67,7 @@
       "query": "tag:#OPTandOR",
       "color": {
         "a": 1,
-        "rgb": 3791759
+        "rgb": 2154431
       }
     }
   ],
@@ -81,6 +81,6 @@
   "repelStrength": 9.38144329896907,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.9914699196599325,
+  "scale": 0.8261048112759396,
   "close": true
 }
