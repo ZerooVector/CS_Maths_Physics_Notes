@@ -6,7 +6,7 @@
 
 [[K-nearest neighbors algorithm,k-NN]]
 [[Something about Distance]]
-[[Naive Bayes Classifier]]
+[[Naive Bayes Classifier(1)  Math Basis]]
 
 
 ## Database
