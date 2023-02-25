@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cf4d33b46958881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning_and_Data_Science/History of ML and AI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
+                "file": "Machine_Learning_and_Data_Science/History of ML and AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
+                "file": "Machine_Learning_and_Data_Science/History of ML and AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md"
+                "file": "Machine_Learning_and_Data_Science/History of ML and AI.md"
               }
             }
           },
@@ -169,9 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ae623e8043fe7f0",
+  "active": "5cf4d33b46958881",
   "lastOpenFiles": [
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/History of ML and AI.md",
     "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Python/Index of Python.md",
@@ -210,7 +224,6 @@
     "新建文件夹",
     "Digital_circuit/Basic Appointment in Digital Circuit.md",
     "Digital_circuit/Index of digital circuit.md",
-    "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
     "Optimization method and Ops Rsch",
     "Digital_circuit",
     "Miscellaneous"
