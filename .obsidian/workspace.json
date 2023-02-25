@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/History of ML and AI.md",
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/History of ML and AI.md",
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/History of ML and AI.md"
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md"
               }
             }
           },
@@ -182,12 +181,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5cf4d33b46958881",
+  "active": "7ae623e8043fe7f0",
   "lastOpenFiles": [
+    "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/History of ML and AI.md",
     "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
-    "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Python/Index of Python.md",
     "Attachments/Pasted image 20230225145919.png",
     "Attachments/Pasted image 20230225145301.png",
