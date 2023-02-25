@@ -11,63 +11,63 @@
       "query": "tag:#Econometrics",
       "color": {
         "a": 1,
-        "rgb": 596204
+        "rgb": 13465821
       }
     },
     {
       "query": "tag:#MLorDS",
       "color": {
         "a": 1,
-        "rgb": 4904690
+        "rgb": 14839826
       }
     },
     {
       "query": "tag:#MCM",
       "color": {
         "a": 1,
-        "rgb": 9755179
+        "rgb": 1949479
       }
     },
     {
       "query": "tag:#Algo",
       "color": {
         "a": 1,
-        "rgb": 16750402
+        "rgb": 14720297
       }
     },
     {
       "query": "tag:#MA",
       "color": {
         "a": 1,
-        "rgb": 8848069
+        "rgb": 6674285
       }
     },
     {
       "query": "tag:#Python",
       "color": {
         "a": 1,
-        "rgb": 7230176
+        "rgb": 15725334
       }
     },
     {
       "query": "tag:#RL",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 15058218
       }
     },
     {
       "query": "tag:#DCorMCU",
       "color": {
         "a": 1,
-        "rgb": 14701166
+        "rgb": 14533932
       }
     },
     {
       "query": "tag:#OPTandOR",
       "color": {
         "a": 1,
-        "rgb": 14012186
+        "rgb": 3791759
       }
     }
   ],
@@ -81,6 +81,6 @@
   "repelStrength": 9.38144329896907,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.7435884545291411,
-  "close": true
+  "scale": 0.8906559772419097,
+  "close": false
 }
