@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Introduction to Matrix Decomposition.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Introduction to Matrix Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Introduction to Matrix Decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matrix_Analysis/Introduction to Matrix Decomposition.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,11 +174,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd2b5ac681534c64",
+  "active": "699296cd9f3b5974",
   "lastOpenFiles": [
     "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Matrix_Analysis/Data Projection and PCA.md",
     "Matrix_Analysis/Introduction to Matrix Decomposition.md",
+    "Attachments/Pasted image 20230226224316.png",
+    "Matrix_Analysis/Data Projection and PCA.md",
     "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
     "Attachments/Pasted image 20230226211807.png",
     "Attachments/Pasted image 20230226211034.png",
@@ -205,7 +203,6 @@
     "Python/Index of Python.md",
     "Attachments/Pasted image 20230225145919.png",
     "Attachments/Pasted image 20230225145301.png",
-    "Attachments/Pasted image 20230225144150.png",
     "PDF/Data Projection and PCA.pdf",
     "Matrix_Analysis/Orthogonal Projection.md",
     "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
