@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Introduction to Matrix Decomposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,11 @@
             "id": "699296cd9f3b5974",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Introduction to Matrix Decomposition.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -181,14 +177,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "699296cd9f3b5974",
+  "active": "dd2b5ac681534c64",
   "lastOpenFiles": [
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Data Projection and PCA.md",
     "Matrix_Analysis/Introduction to Matrix Decomposition.md",
+    "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
+    "Attachments/Pasted image 20230226211807.png",
+    "Attachments/Pasted image 20230226211034.png",
+    "Attachments/Pasted image 20230226205759.png",
+    "Miscellaneous/2022-2023 课程表.md",
     "Attachments/Pasted image 20230226205530.png",
     "Attachments/Pasted image 20230226205228.png",
     "Attachments/Pasted image 20230226204654.png",
     "Attachments/Pasted image 20230226204105.png",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(2) Basic Application.md",
     "Matrix_Analysis/Ep.3 Base and Coordinate.md",
@@ -196,8 +198,6 @@
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
     "Attachments/Ep.3 Base and Coordinate 2023-02-26 08.25.55.excalidraw.md",
     "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
-    "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
-    "Miscellaneous/2022-2023 课程表.md",
     "README.md",
     "Machine_Learning_and_Data_Science/History of ML and AI.md",
     "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
@@ -206,10 +206,6 @@
     "Attachments/Pasted image 20230225145919.png",
     "Attachments/Pasted image 20230225145301.png",
     "Attachments/Pasted image 20230225144150.png",
-    "Attachments/Pasted image 20230225141358.png",
-    "Attachments/Pasted image 20230225141018.png",
-    "Attachments/Pasted image 20230225140635.png",
-    "Matrix_Analysis/Data Projection and PCA.md",
     "PDF/Data Projection and PCA.pdf",
     "Matrix_Analysis/Orthogonal Projection.md",
     "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
