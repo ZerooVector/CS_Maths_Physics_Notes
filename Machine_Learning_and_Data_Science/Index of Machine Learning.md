@@ -9,6 +9,8 @@
 [[Something about Distance]]
 [[Naive Bayes Classifier(1)  Math Basis]]
 [[Naive Bayes Classifier(2) Basic Application]]
+[[Naive Bayes Classifier(3) Gaussian NBC]] 
+
 
 ## ML2
 这是北理工开设的一门机器学习课程

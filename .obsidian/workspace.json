@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48907388efe7b41b",
+        "id": "c6a27ec178a7d43a",
         "type": "tabs",
         "children": [
           {
-            "id": "16d0d1ccba75ec9f",
+            "id": "dd2b5ac681534c64",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "699296cd9f3b5974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Introduction to Matrix Decomposition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Introduction to Matrix Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Introduction to Matrix Decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
+                "file": "Matrix_Analysis/Introduction to Matrix Decomposition.md"
               }
             }
           },
@@ -169,19 +181,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16d0d1ccba75ec9f",
+  "active": "699296cd9f3b5974",
   "lastOpenFiles": [
+    "Matrix_Analysis/Introduction to Matrix Decomposition.md",
+    "Attachments/Pasted image 20230226205530.png",
+    "Attachments/Pasted image 20230226205228.png",
+    "Attachments/Pasted image 20230226204654.png",
+    "Attachments/Pasted image 20230226204105.png",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Naive Bayes Classifier(2) Basic Application.md",
     "Matrix_Analysis/Ep.3 Base and Coordinate.md",
     "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Attachments/Ep.3 Base and Coordinate 2023-02-26 08.25.55.excalidraw.md",
     "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
     "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
     "Miscellaneous/2022-2023 课程表.md",
     "README.md",
     "Machine_Learning_and_Data_Science/History of ML and AI.md",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Python/Index of Python.md",
@@ -191,12 +209,8 @@
     "Attachments/Pasted image 20230225141358.png",
     "Attachments/Pasted image 20230225141018.png",
     "Attachments/Pasted image 20230225140635.png",
-    "Attachments/Pasted image 20230225135346.png",
     "Matrix_Analysis/Data Projection and PCA.md",
     "PDF/Data Projection and PCA.pdf",
-    "Attachments/Pasted image 20230225105123.png",
-    "Attachments/Pasted image 20230225104837.png",
-    "Attachments/Pasted image 20230225103925.png",
     "Matrix_Analysis/Orthogonal Projection.md",
     "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
     "Machine_Learning_and_Data_Science/K-nearest neighbors algorithm,k-NN.md",
@@ -207,8 +221,6 @@
     "Excalidraw/Drawing 2023-02-23 19.11.56.excalidraw.md",
     "Excalidraw/Drawing 2023-02-23 19.10.19.excalidraw.md",
     "Banners_and_Ornaments/Minecraft AE(支持中文).ttf",
-    "Excalidraw/Drawing 2023-02-23 19.08.16.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-23 19.07.39.excalidraw.md",
     "Banners_and_Ornaments/AaManYuShouXieTi-2.ttf",
     "新建文件夹",
     "Optimization method and Ops Rsch",

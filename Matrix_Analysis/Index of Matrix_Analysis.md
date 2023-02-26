@@ -29,6 +29,7 @@ Syllabus:
 [[Geometric Transformations]]
 [[Orthogonal Projection]]
 [[Data Projection and PCA]]
+[[Introduction to Matrix Decomposition]]
 
 
 
