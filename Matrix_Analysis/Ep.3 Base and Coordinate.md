@@ -45,6 +45,34 @@ $$
 $$
 \mathbb F_n[x] = \left\{polynomials\ which\ <n\ orders,coeffs\   are\ from\ \mathbb F\right\}
 $$
+简而言之，$\mathbb F[x]$ 就是多项式的全体；$\mathbb F_n[x]$ 就是不高于 $n$ 阶的多项式全体
+下面我们说明，将数域 $\mathbb F$ 取成实数域 $\mathbb R$，那么 $\mathbb R_n[x]$ 是 $n$ 维的，但 $\mathbb R[x]$ 不是有限维的。
+首先，我们可以找到一个向量组（实际上是一组多项式），构成 $\mathbb R[x]$ 的基。显然，选法可以是 $x\cdot x^0; 1\cdot x,\cdots 1\cdot x^{n-1}$
+- 首先来验证可表示性 $\forall f \in \mathbb R_n[x]$，则 $f = a_0+a_1x+a_2x^2+\cdots +a_{n-1}x^{n-1}$，显然可以写成各个基的线性组合。$f = [1, x,\cdots, x^{n-1}] \times [a_0,a_1,\cdots,a_{n-1}]^T$
+- 如果 $a_0\times1+a_1x+a_2x^2+\cdots+a_{n-1}x^{n-1}=0$，注意这里的 $0$ 是 $0$ 函数（函数空间中的 $0$），意味着将任意的 $x$ 代入多项式，都必须有左右相等。特别地，现在代入 $n$ 个 $x$ 的特定值，$x = 1, 2,\cdots,n$，我们将其写成矩阵的形式：$f = [1, x,\cdots, x^{n-1}] \times [a_0, a_1,\cdots, a_{n-1}]^T = 0$ ，现在代入 $n$ 个值，将其排成矩阵的形式：
+$$
+\begin{bmatrix}
+1^0 &1^1&\cdots &1^{n-1}\\
+\cdots & \cdots&\cdots&\cdots\\
+n^0& n^1 &\cdots &n^{n-1}
+\end{bmatrix}
+\begin{bmatrix}
+a_0 \\
+\cdots\\
+a_{n-1}
+\end{bmatrix}
+= 
+\begin{bmatrix}
+0\\
+\cdots\\
+0
+\end{bmatrix}
+$$
+左侧这个矩阵的行列式不为 0（Vandermonde determinant）, 那么意味着这个线性齐次方程组只能有 0 解，因此，若希望 $f=0$，只能取 $a_i=0$，因此，各个基是线性无关的。
+
+接下来，我们取任意向量组 $f_1, f_2,\cdots,f_N$，说明它们都不能成为 $\mathbb R[x]$ 的基，这只需要找到一个多项式不能写成它们的线性组合。
+记 $d_i$ 为多项式 $i$ 的次数，取 $d = \max\{d_1,\cdots,d_N\}$，现在证明 $x^{d+1}$ 不能被这一个向量组表示。否则，$x^{d+1} = \sum_i a_if_i (x) = b_0x_0+\cdots+b_dx^d$
+于是，$b_0x_0+b_1x+\cdots+b_dx^d-x^{b+1}=0$，根据与上面相同的步骤，可以证明这个式子的系数必须都是 0 才能成立，这与 $-1\not =0$ 矛盾，因此多项式的全体不是有限维的！
 
 
 

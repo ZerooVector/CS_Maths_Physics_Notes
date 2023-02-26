@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a19049606d34be88",
+        "id": "48907388efe7b41b",
         "type": "tabs",
         "children": [
           {
-            "id": "841d8f650ced5d5b",
+            "id": "16d0d1ccba75ec9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.3 Base and Coordinate.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.3 Base and Coordinate.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.3 Base and Coordinate.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.3 Base and Coordinate.md"
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
               }
             }
           },
@@ -169,12 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "841d8f650ced5d5b",
+  "active": "16d0d1ccba75ec9f",
   "lastOpenFiles": [
+    "Matrix_Analysis/Ep.3 Base and Coordinate.md",
     "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Matrix_Analysis/Ep.3 Base and Coordinate.md",
     "Attachments/Ep.3 Base and Coordinate 2023-02-26 08.25.55.excalidraw.md",
     "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
     "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
