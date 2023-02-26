@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c30596986c5c5754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Ep.3 Base and Coordinate.md",
+                "file": "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.3 Base and Coordinate.md",
+                "file": "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.3 Base and Coordinate.md",
+                "file": "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.3 Base and Coordinate.md"
+                "file": "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md"
               }
             }
           },
@@ -182,11 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c30596986c5c5754",
+  "active": "c064a63114cdab25",
   "lastOpenFiles": [
-    "Attachments/Ep.3 Base and Coordinate 2023-02-26 08.25.55.excalidraw.md",
-    "Matrix_Analysis/Ep.3 Base and Coordinate.md",
+    "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Ep.3 Base and Coordinate.md",
+    "Attachments/Ep.3 Base and Coordinate 2023-02-26 08.25.55.excalidraw.md",
     "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
     "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
     "Miscellaneous/2022-2023 课程表.md",
@@ -221,7 +209,6 @@
     "Excalidraw/Drawing 2023-02-23 19.08.16.excalidraw.md",
     "Excalidraw/Drawing 2023-02-23 19.07.39.excalidraw.md",
     "Excalidraw/Drawing 2023-02-23 19.06.39.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-23 19.05.17.excalidraw.md",
     "Banners_and_Ornaments/AaManYuShouXieTi-2.ttf",
     "新建文件夹",
     "Optimization method and Ops Rsch",

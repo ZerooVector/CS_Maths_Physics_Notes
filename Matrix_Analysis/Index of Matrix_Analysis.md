@@ -35,6 +35,8 @@ Syllabus:
 ## BIT Course
 这是 BIT 人工智能学院开设的一门课
 [[Chapter 1 Linear Space and Transformation]]
+[[Week 1 Homework for Matrix Analysis]]
+
 
 ## HIT Course
 这是控制方向的一门基础课
