@@ -40,6 +40,8 @@ Syllabus:
 这是控制方向的一门基础课
 [[Ep.1 Linear Space and Transformation]]
 [[Ep.2 Vector in Linear Space]]
+[[Ep.3 Base and Coordinate]]
+
 
 
 ## PKU Course
