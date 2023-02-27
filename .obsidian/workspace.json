@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8899340c8baf1452",
+        "id": "183ef17be20fea8e",
         "type": "tabs",
         "children": [
           {
-            "id": "5c03d478d8c3c22c",
+            "id": "66fd8dccaef2fa3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.4 Subspace.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d212b19443095d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.4 Subspace.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.4 Subspace.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.4 Subspace.md"
+                "file": "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md"
               }
             }
           },
@@ -169,10 +181,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c03d478d8c3c22c",
+  "active": "66fd8dccaef2fa3f",
   "lastOpenFiles": [
-    "Deep_Learning/Index of Deep Learning.md",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
+    "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
+    "Attachments/Pasted image 20230227133406.png",
+    "Miscellaneous/2022-2023 课程表.md",
+    "Attachments/Pasted image 20230227132210.png",
     "Deep_Learning/Ep.2 Machine Learning (1).md",
+    "Deep_Learning/Index of Deep Learning.md",
+    "Matrix_Analysis/Ep.4 Subspace.md",
     "Attachments/Pasted image 20230227120905.png",
     "Attachments/Pasted image 20230227114721.png",
     "Attachments/Pasted image 20230227114049.png",
@@ -183,21 +202,15 @@
     "Attachments/Pasted image 20230227110442.png",
     "Attachments/Pasted image 20230227105243.png",
     "Deep_Learning/Ep.1 Introduction of Introduction.md",
-    "Attachments/Pasted image 20230227102451.png",
-    "Matrix_Analysis/Ep.4 Subspace.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Attachments/Ep.4 Subspace 2023-02-27 09.50.35.excalidraw.md",
     "Matrix_Analysis/Ep.3 Base and Coordinate.md",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Gaussian Discriminant Analysis.md",
     "Attachments/Gaussian Discriminant Analysis 2023-02-27 08.58.44.excalidraw.md",
-    "Attachments/Pasted image 20230227084927.png",
-    "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(2) Basic Application.md",
     "Matrix_Analysis/Introduction to Matrix Decomposition.md",
     "Matrix_Analysis/Data Projection and PCA.md",
     "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
-    "Miscellaneous/2022-2023 课程表.md",
     "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
     "Attachments/Ep.3 Base and Coordinate 2023-02-26 08.25.55.excalidraw.md",

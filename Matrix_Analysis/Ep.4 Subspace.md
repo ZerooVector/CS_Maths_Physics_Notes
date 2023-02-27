@@ -9,5 +9,18 @@
 ##### Example : 反例——不是子空间的集合
 ![[Ep.4 Subspace 2023-02-27 09.50.35.excalidraw]]
 
-##### Example 向量组生成的子空间及子空间的生成组
-$\alpha_1,\cdots,\alpha_p$ 是向量组，$W = span\{\alpha_i\} =\{\sum_i^p\alpha_ic_i\ ,\ c_i \in \mathbb F\}$ ，
+##### Example : 向量组生成的子空间及子空间的生成组
+$\alpha_1,\cdots,\alpha_p$ 是向量组，$W = span\{\alpha_i\} =\{\sum_i^p\alpha_ic_i\ ,\ c_i \in \mathbb F\}$ ，那么 $W$ 就是 $V$ 的一个子空间。$W$ 也就是由向量组 $\alpha$ 生成的子空间。（这是不证自明的，因为这样的 $W$ 必然会对加法和数乘封闭。）
+现在反过来，已知 $W$，若能找到向量组 $\alpha_1,\cdots,\alpha_p$，使得 $W = span\{\alpha_i\}$，那么我们称 $\alpha$ 为子空间的生成组。
+一般来说，我们无法通过列举的方式定义子集，但是，这里，我们可以使用列举生成元的方式表现这个子空间。
+
+##### Example : $A = F^{m\times n}$ 的核 (Kernel) 与像 (Image)
+记： $W_1  =\{x|x \in \mathbb F^n\ ,\ Ax=0\}$ 
+$W_2 = \{y|y \in \mathbb F^m,\exists x \in F^n , y = Ax\}$ 
+$W_1$ 显然是 $\mathbb F^n$ 的子集，下面验证它是子空间：
+如果 $Ax_1 = 0, Ax_2 = 0$，那么显然 $A (x_1+x_2) = 0$，因此，这个空间对加法封闭；对于数乘的封闭也是不证自明的（矩阵乘法的结合律）。这个子空间就是方程组 $Ax = 0$ 的解，被称为 A 的核 (Kernel)
+下面验证 $W_2$ 是 $\mathbb F^m$ 的子空间：
+
+补充：如果将 $A$ 分成列向量组，
+
+

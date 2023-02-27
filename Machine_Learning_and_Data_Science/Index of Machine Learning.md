@@ -25,5 +25,6 @@
 这是北理工开设的一门数据库课程
 [[Chapter 1 Introduction to DataBase]]
 [[Chapter 2 Data Model]]
+[[Chapter 3 Relation DataBase]]
 
 
