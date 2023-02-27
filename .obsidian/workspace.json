@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "91d8b64e1772ff34",
+        "id": "35c4e43eff6b810a",
         "type": "tabs",
         "children": [
           {
-            "id": "5ecad3d24bcc2418",
+            "id": "2d4fd4df1e613c53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.4 Subspace.md",
+                "file": "Reinforcement Learning/Index of RL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e38c82f7b982d3e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.4 Subspace.md",
+                "file": "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.4 Subspace.md",
+                "file": "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.4 Subspace.md"
+                "file": "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md"
               }
             }
           },
@@ -151,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +180,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ecad3d24bcc2418",
+  "active": "e38c82f7b982d3e1",
   "lastOpenFiles": [
-    "Deep_Learning/Ep.2 Machine Learning (1).md",
+    "Attachments/Ep.2 Some Algo to solve RL Problem 2023-02-27 19.16.10.excalidraw.md",
+    "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
+    "Reinforcement Learning/Index of RL.md",
     "Reinforcement Learning/Ep.1 Introduction to RL.md",
+    "Matrix_Analysis/Ep.4 Subspace.md",
+    "Deep_Learning/Ep.2 Machine Learning (1).md",
     "Attachments/Ep.1 Introduction to RL 2023-02-27 17.58.18.excalidraw.md",
     "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
     "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
@@ -190,7 +205,6 @@
     "Miscellaneous/2022-2023 课程表.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Deep_Learning/Index of Deep Learning.md",
-    "Matrix_Analysis/Ep.4 Subspace.md",
     "PDF/Ep.2 Machine Learning (1).pdf",
     "Deep_Learning/Ep.1 Introduction of Introduction.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
@@ -206,9 +220,6 @@
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
     "Attachments/Ep.3 Base and Coordinate 2023-02-26 08.25.55.excalidraw.md",
     "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
-    "README.md",
-    "Machine_Learning_and_Data_Science/History of ML and AI.md",
-    "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "PDF/Data Projection and PCA.pdf",
     "Banners_and_Ornaments/Minecraft AE(支持中文).ttf",
     "Banners_and_Ornaments/AaManYuShouXieTi-2.ttf",
