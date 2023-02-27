@@ -5,13 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Econometrics",
       "color": {
         "a": 1,
-        "rgb": 13465821
+        "rgb": 3201418
       }
     },
     {
@@ -53,7 +53,7 @@
       "query": "tag:#RL",
       "color": {
         "a": 1,
-        "rgb": 15058218
+        "rgb": 15053610
       }
     },
     {
@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 2154431
       }
+    },
+    {
+      "query": "tag:#DL",
+      "color": {
+        "a": 1,
+        "rgb": 15031844
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +88,6 @@
   "repelStrength": 9.38144329896907,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.6584779904322863,
+  "scale": 0.7841950140328987,
   "close": true
 }
