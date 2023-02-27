@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b13a8095b77840d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning_and_Data_Science/Gaussian Discriminant Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+                "file": "Machine_Learning_and_Data_Science/Gaussian Discriminant Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+                "file": "Machine_Learning_and_Data_Science/Gaussian Discriminant Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md"
+                "file": "Machine_Learning_and_Data_Science/Gaussian Discriminant Analysis.md"
               }
             }
           },
@@ -182,8 +194,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "699296cd9f3b5974",
+  "active": "b13a8095b77840d2",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230227084410.png",
+    "Attachments/Pasted image 20230227083101.png",
+    "Attachments/Pasted image 20230227083042.png",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Gaussian Discriminant Analysis.md",
+    "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
+    "Machine_Learning_and_Data_Science/Naive Bayes Classifier(2) Basic Application.md",
+    "Attachments/Pasted image 20230227080916.png",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Introduction to Matrix Decomposition.md",
     "Attachments/Pasted image 20230226224316.png",
@@ -196,9 +216,6 @@
     "Attachments/Pasted image 20230226205530.png",
     "Attachments/Pasted image 20230226205228.png",
     "Attachments/Pasted image 20230226204654.png",
-    "Attachments/Pasted image 20230226204105.png",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
-    "Machine_Learning_and_Data_Science/Naive Bayes Classifier(2) Basic Application.md",
     "Matrix_Analysis/Ep.3 Base and Coordinate.md",
     "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
@@ -206,11 +223,8 @@
     "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
     "README.md",
     "Machine_Learning_and_Data_Science/History of ML and AI.md",
-    "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Python/Index of Python.md",
-    "Attachments/Pasted image 20230225145919.png",
-    "Attachments/Pasted image 20230225145301.png",
     "PDF/Data Projection and PCA.pdf",
     "Matrix_Analysis/Orthogonal Projection.md",
     "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
@@ -220,7 +234,6 @@
     "Excalidraw/Drawing 2023-02-23 19.13.03.excalidraw.md",
     "Excalidraw/Drawing 2023-02-23 19.12.37.excalidraw.md",
     "Excalidraw/Drawing 2023-02-23 19.11.56.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-23 19.10.19.excalidraw.md",
     "Banners_and_Ornaments/Minecraft AE(支持中文).ttf",
     "Banners_and_Ornaments/AaManYuShouXieTi-2.ttf",
     "新建文件夹",

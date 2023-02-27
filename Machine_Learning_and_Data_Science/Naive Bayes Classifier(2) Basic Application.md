@@ -20,3 +20,7 @@ $$
 f_{X,Y}(X,C_k) = p_Y(C_k)\prod f_{X|Y}(X,C_k)
 $$
 
+## Gaussian NBC
+在这种情况下，我们估算条件边缘分布时，采用了高斯分布而不是 KDE。
+![[Pasted image 20230227080916.png]]
+
