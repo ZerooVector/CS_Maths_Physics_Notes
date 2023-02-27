@@ -9,4 +9,5 @@
 ##### Example : 反例——不是子空间的集合
 ![[Ep.4 Subspace 2023-02-27 09.50.35.excalidraw]]
 
-
+##### Example 向量组生成的子空间及子空间的生成组
+$\alpha_1,\cdots,\alpha_p$ 是向量组，$W = span\{\alpha_i\} =\{\sum_i^p\alpha_ic_i\ ,\ c_i \in \mathbb F\}$ ，

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep_Learning/Index of Deep Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b17cc4ebc2f7988b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep_Learning/Ep.2 Machine Learning (1).md",
+                "file": "Matrix_Analysis/Ep.4 Subspace.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep_Learning/Ep.2 Machine Learning (1).md",
+                "file": "Matrix_Analysis/Ep.4 Subspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep_Learning/Ep.2 Machine Learning (1).md",
+                "file": "Matrix_Analysis/Ep.4 Subspace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep_Learning/Ep.2 Machine Learning (1).md"
+                "file": "Matrix_Analysis/Ep.4 Subspace.md"
               }
             }
           },
@@ -182,11 +169,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b17cc4ebc2f7988b",
+  "active": "5c03d478d8c3c22c",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230227114049.png",
     "Deep_Learning/Index of Deep Learning.md",
     "Deep_Learning/Ep.2 Machine Learning (1).md",
+    "Attachments/Pasted image 20230227120905.png",
+    "Attachments/Pasted image 20230227114721.png",
+    "Attachments/Pasted image 20230227114049.png",
     "PDF/Ep.2 Machine Learning (1).pdf",
     "Attachments/Pasted image 20230227112330.png",
     "Attachments/Pasted image 20230227111313.png",
@@ -203,9 +192,6 @@
     "Machine_Learning_and_Data_Science/Gaussian Discriminant Analysis.md",
     "Attachments/Gaussian Discriminant Analysis 2023-02-27 08.58.44.excalidraw.md",
     "Attachments/Pasted image 20230227084927.png",
-    "Attachments/Pasted image 20230227084801.png",
-    "Attachments/Pasted image 20230227084635.png",
-    "Attachments/Pasted image 20230227084410.png",
     "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(2) Basic Application.md",
     "Matrix_Analysis/Introduction to Matrix Decomposition.md",

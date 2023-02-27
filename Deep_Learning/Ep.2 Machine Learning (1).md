@@ -42,5 +42,27 @@ Two key Prob:
 ##### A Demo Problem : The Waiting Time of a Testaurant
 ![[Pasted image 20230227114049.png|450]]
 
+==考点== 给定离散函数，看会不会使用决策树表达？你只需要使用很简单的函数。
+![[Pasted image 20230227114721.png|400]]
+
+在完成对于函数的表达后，问题转成一个最优化问题：在所有决策树中（搜索空间），找到最大化分类准确率的一棵（目标函数）
+但是，这个问题的搜索空间太大：有 $2^{2^{10}}$ 个可行解，因此，我们必须使用启发式的优化算法：模拟决策树的生成过程。为了快速地生成决策树，我们可以在每次生成的过程中找到"Most Significant Attribute"。这里，我们使用信息熵来找到最快分类的属性。
+信息熵被定义为：
+$$
+I(P(v_i)) = \sum_i-P(v_i)\log_2 P(v_i)
+$$
+对于我们这个二分类问题，
+$$
+I(\frac{p}{p+n},\frac{n}{p+n}) = -\frac{p}{p+n} \log \frac{p}{p+n} -\frac{n}{p+n} \log \frac{n}{p+n}
+$$
+对于每一次决策时，我们都来计算信息增益 (Information Gain)：
+![[Pasted image 20230227120905.png|450]]
+
+分类后的熵为每个节点上数据熵的加权求和，信息增益则是分类前的熵减去分类后的熵。
+
+##### Another Example ：Play Tennis
+##### 留做习题答案略，读者自证不难
+
+#### Overfit of Decision Trees
 
 
