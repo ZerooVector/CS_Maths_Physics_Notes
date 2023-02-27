@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e38c82f7b982d3e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
+                "file": "Reinforcement Learning/Index of RL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
+                "file": "Reinforcement Learning/Index of RL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md"
+                "file": "Reinforcement Learning/Index of RL.md"
               }
             }
           },
@@ -180,7 +167,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e38c82f7b982d3e1",
+  "active": "2d4fd4df1e613c53",
   "lastOpenFiles": [
     "Reinforcement Learning/Index of RL.md",
     "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
