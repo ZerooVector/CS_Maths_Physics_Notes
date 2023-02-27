@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md"
+                "file": "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md"
               }
             }
           },
@@ -181,26 +182,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66fd8dccaef2fa3f",
+  "active": "d212b19443095d25",
   "lastOpenFiles": [
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Attachments/Pasted image 20230227144343.png",
     "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
-    "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
-    "Attachments/Pasted image 20230227133406.png",
+    "Attachments/Pasted image 20230227143707.png",
+    "Attachments/Pasted image 20230227143431.png",
+    "Attachments/Pasted image 20230227143354.png",
+    "Attachments/Pasted image 20230227143250.png",
+    "Attachments/Pasted image 20230227142741.png",
+    "Attachments/Chapter 3 Relation DataBase 2023-02-27 14.19.17.excalidraw.md",
+    "Attachments/Pasted image 20230227141208.png",
+    "Attachments/Pasted image 20230227140202.png",
     "Miscellaneous/2022-2023 课程表.md",
+    "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Attachments/Pasted image 20230227133406.png",
     "Attachments/Pasted image 20230227132210.png",
     "Deep_Learning/Ep.2 Machine Learning (1).md",
     "Deep_Learning/Index of Deep Learning.md",
     "Matrix_Analysis/Ep.4 Subspace.md",
     "Attachments/Pasted image 20230227120905.png",
-    "Attachments/Pasted image 20230227114721.png",
-    "Attachments/Pasted image 20230227114049.png",
     "PDF/Ep.2 Machine Learning (1).pdf",
-    "Attachments/Pasted image 20230227112330.png",
-    "Attachments/Pasted image 20230227111313.png",
-    "Attachments/Pasted image 20230227110729.png",
-    "Attachments/Pasted image 20230227110442.png",
-    "Attachments/Pasted image 20230227105243.png",
     "Deep_Learning/Ep.1 Introduction of Introduction.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Attachments/Ep.4 Subspace 2023-02-27 09.50.35.excalidraw.md",
@@ -220,8 +223,6 @@
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Python/Index of Python.md",
     "PDF/Data Projection and PCA.pdf",
-    "Matrix_Analysis/Orthogonal Projection.md",
-    "Matrix_Analysis/Chapter 1 Linear Space and Transformation.md",
     "Banners_and_Ornaments/Minecraft AE(支持中文).ttf",
     "Banners_and_Ornaments/AaManYuShouXieTi-2.ttf",
     "新建文件夹",
