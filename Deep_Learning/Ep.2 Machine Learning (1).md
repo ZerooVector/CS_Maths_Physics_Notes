@@ -22,6 +22,7 @@ We try to learn a function: $f: X\rightarrow Y$,but we cannot always find a clos
 有什么可能的方法？ 多想几步？
 把当前的状态和当前的估价函数存下来，相当于增加了搜索的深度：
 ![[Pasted image 20230227111313.png]]
+具体估价函数如何设置，请参考强化学习[[Ep.1 Introduction to RL]]
 
 ### Def
 Supervised Learning is a method which we **learn a function from examples**.
