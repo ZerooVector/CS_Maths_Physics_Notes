@@ -20,12 +20,4 @@ $$
 P(X=E[x]) =1
 $$
 ### 极大似然估计到 EM 算法
-我们在传统的 MLE 中引入一个参数 $z_i$，控制这组数据满足的分布：
-$$
-\theta^\dagger,z^\dagger_i= \arg \max \sum_i \log(p_i(x|\theta,z_i))
-$$
-这里的 $z_i$ 是我们人为引入的变量，称为 Hidden Variable。
-实际上，我们可以选择不同的 $z_i$，我们要把一个样本选择不同 $z_i$ 时的概率全部加起来，才得到了这个样本出现的概率：
-$$
-\theta^\dagger,z^\dagger_i= \arg \max \sum_i \log(\sum_{z_i}p_i(x|\theta,z_i))
-$$
+隐变量：是我们无法观测到的变量，例如聚类时的类别标签。我们将 $(x,z)$ 整体看作一个完整的观测样本
