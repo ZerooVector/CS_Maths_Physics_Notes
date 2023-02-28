@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/Logic Algebra.md",
+                "file": "Miscellaneous/2022-2023 课程表.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/Logic Algebra.md",
+                "file": "Miscellaneous/2022-2023 课程表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/Logic Algebra.md",
+                "file": "Miscellaneous/2022-2023 课程表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/Logic Algebra.md"
+                "file": "Miscellaneous/2022-2023 课程表.md"
               }
             }
           },
@@ -182,10 +182,10 @@
   },
   "active": "6fcc091c6e059e5b",
   "lastOpenFiles": [
+    "Digital_circuit/Logic Algebra.md",
     "Attachments/Pasted image 20230228134900.png",
     "Attachments/Pasted image 20230228134604.png",
     "Attachments/Pasted image 20230228134317.png",
-    "Digital_circuit/Logic Algebra.md",
     "Digital_circuit/Index of digital circuit.md",
     "Digital_circuit/Basic Appointment in Digital Circuit.md",
     "Miscellaneous/2022-2023 课程表.md",
@@ -206,7 +206,6 @@
     "Attachments/Pasted image 20230227144621.png",
     "Attachments/Pasted image 20230227144343.png",
     "Attachments/Pasted image 20230227143707.png",
-    "Attachments/Pasted image 20230227143431.png",
     "Attachments/Chapter 3 Relation DataBase 2023-02-27 14.19.17.excalidraw.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Deep_Learning/Index of Deep Learning.md",
