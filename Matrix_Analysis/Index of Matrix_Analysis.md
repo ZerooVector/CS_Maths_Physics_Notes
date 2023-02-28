@@ -45,6 +45,7 @@ Syllabus:
 [[Ep.2 Vector in Linear Space]]
 [[Ep.3 Base and Coordinate]]
 [[Ep.4 Subspace]]
+[[Ep.5 Linear Mapping]]
 
 
 ## PKU Course

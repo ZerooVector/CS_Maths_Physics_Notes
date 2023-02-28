@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.4 Subspace.md",
+                "file": "Miscellaneous/2022-2023 课程表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ef9fa41b9ef1dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.4 Subspace.md",
+                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.4 Subspace.md",
+                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.4 Subspace.md"
+                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md"
               }
             }
           },
@@ -169,15 +182,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b97e1931d5c837bf",
+  "active": "0ef9fa41b9ef1dfb",
   "lastOpenFiles": [
-    "Attachments/Ep.4 Subspace 2023-02-28 19.57.26.excalidraw.md",
-    "Matrix_Analysis/Ep.4 Subspace.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Miscellaneous/2022-2023 课程表.md",
-    "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
+    "PDF/Expectation Maximum Algorithm.pdf",
+    "Matrix_Analysis/Ep.5 Linear Mapping.md",
     "Attachments/Expectation Maximum Algorithm 2023-02-28 19.36.49.excalidraw.md",
+    "Miscellaneous/2022-2023 课程表.md",
+    "Matrix_Analysis/Ep.3 Base and Coordinate.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Ep.4 Subspace.md",
+    "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
+    "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
+    "Attachments/Ep.4 Subspace 2023-02-28 19.57.26.excalidraw.md",
+    "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Attachments/Pasted Image 20230228193750_305.png",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(2) Basic Application.md",
@@ -203,12 +221,7 @@
     "Attachments/Pasted image 20230227144922.png",
     "Attachments/Pasted image 20230227144621.png",
     "Attachments/Pasted image 20230227144343.png",
-    "Attachments/Chapter 3 Relation DataBase 2023-02-27 14.19.17.excalidraw.md",
-    "Deep_Learning/Index of Deep Learning.md",
     "PDF/Ep.2 Machine Learning (1).pdf",
-    "Deep_Learning/Ep.1 Introduction of Introduction.md",
-    "Attachments/Ep.4 Subspace 2023-02-27 09.50.35.excalidraw.md",
-    "Matrix_Analysis/Ep.3 Base and Coordinate.md",
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
     "PDF/Data Projection and PCA.pdf",
     "Banners_and_Ornaments/Minecraft AE(支持中文).ttf",
