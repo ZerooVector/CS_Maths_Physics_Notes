@@ -28,7 +28,15 @@ $W_1$ 显然是 $\mathbb F^n$ 的子集，下面验证它是子空间：
 设 $U, W$ 为 $V$ 的子空间，那么：
 - $U\cap W$ 也是子空间，称为 $U,W$ 的交子空间
 - $U+W = \mathrm{span}\{U, V\} =\mathrm{span} \{u+w|u=U,w=W\}$，称为 $U,W$ 的和子空间
--  
+
+##### PF : $U\cap W$ 是子空间
+$e_1 \in U, e_1 \in W; e_2 \in U, e_2 \in W$，显然，$e_1+e_2 \in U,W$，数乘也是显然的！
+
+##### Example : 两个集合的并未必是子空间
+![[Ep.4 Subspace 2023-02-28 19.57.26.excalidraw|300]]
+
+
+
 
 
 

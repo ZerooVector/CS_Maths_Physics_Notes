@@ -62,3 +62,6 @@ $$
 - 迭代
 	- E-step: 这一步 $\theta$ 已知，计算 $Q_i(z_i)$， $Q_i (z_i) = p (z_i|x_i,\theta)$
 	- M-step: 这一步 $Q_i (z_i)$ 已知，最大化目标函数以求解 $\theta$ ：$\theta = \arg \max_\theta LB$
+
+![[Expectation Maximum Algorithm 2023-02-28 19.36.49.excalidraw|500]]
+
