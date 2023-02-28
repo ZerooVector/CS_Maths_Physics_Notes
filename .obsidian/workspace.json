@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/Index of digital circuit.md",
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e94ebe8a3236ca3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/2022-2023 课程表.md",
+                "file": "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/2022-2023 课程表.md",
+                "file": "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/2022-2023 课程表.md"
+                "file": "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md"
               }
             }
           },
@@ -180,15 +192,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6fcc091c6e059e5b",
+  "active": "e94ebe8a3236ca3d",
   "lastOpenFiles": [
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
+    "Machine_Learning_and_Data_Science/History of ML and AI.md",
     "Digital_circuit/Logic Algebra.md",
+    "Digital_circuit/Index of digital circuit.md",
+    "Miscellaneous/2022-2023 课程表.md",
     "Attachments/Pasted image 20230228134900.png",
     "Attachments/Pasted image 20230228134604.png",
     "Attachments/Pasted image 20230228134317.png",
-    "Digital_circuit/Index of digital circuit.md",
     "Digital_circuit/Basic Appointment in Digital Circuit.md",
-    "Miscellaneous/2022-2023 课程表.md",
     "Untitled.canvas",
     "Reinforcement Learning/Index of RL.md",
     "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
@@ -207,7 +222,6 @@
     "Attachments/Pasted image 20230227144343.png",
     "Attachments/Pasted image 20230227143707.png",
     "Attachments/Chapter 3 Relation DataBase 2023-02-27 14.19.17.excalidraw.md",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Deep_Learning/Index of Deep Learning.md",
     "PDF/Ep.2 Machine Learning (1).pdf",
     "Deep_Learning/Ep.1 Introduction of Introduction.md",
@@ -218,7 +232,6 @@
     "Attachments/Gaussian Discriminant Analysis 2023-02-27 08.58.44.excalidraw.md",
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(2) Basic Application.md",
     "Matrix_Analysis/Introduction to Matrix Decomposition.md",
-    "Matrix_Analysis/Data Projection and PCA.md",
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
     "PDF/Data Projection and PCA.pdf",
     "Banners_and_Ornaments/Minecraft AE(支持中文).ttf",

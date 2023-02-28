@@ -74,7 +74,7 @@ $$
 - 吸收定理：$A+AB=A, A+\bar AB=A, A (A+B)=A, A (\bar A+B)=A$
 - 添加项定理：$AB+\bar AC+BC=AB+\bar AC$
 - ??? 定理：$\bar{AB+\bar AC}= A\bar B+\bar {AC}$
-##### PF: 补充一项的技巧！构造公因式！
+##### PF: 用结论补充一项的技巧！构造公因式！
 $$
 A+\bar AB=A+AB+\bar AB=A+B(A+\bar A)=A+B
 $$

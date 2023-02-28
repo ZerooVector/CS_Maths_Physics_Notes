@@ -15,6 +15,7 @@
 ## ML2
 这是北理工开设的一门机器学习课程
 [[History of ML and AI]]
+[[Expectation Maximum Algorithm]]
 
 
 ## Data Science
