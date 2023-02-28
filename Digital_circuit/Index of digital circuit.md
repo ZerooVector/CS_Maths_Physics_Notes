@@ -8,3 +8,4 @@ banner: "![[banner20.png]]"
 
 # INDEX
 [[Basic Appointment in Digital Circuit]]
+[[Logic Algebra]]

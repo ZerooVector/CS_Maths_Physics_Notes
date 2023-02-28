@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "35c4e43eff6b810a",
+        "id": "b5706d6be4dd1c5c",
         "type": "tabs",
         "children": [
           {
-            "id": "2d4fd4df1e613c53",
+            "id": "6308c28e44c187b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/2022-2023 课程表.md",
+                "file": "Digital_circuit/Index of digital circuit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fcc091c6e059e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital_circuit/Logic Algebra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/2022-2023 课程表.md",
+                "file": "Digital_circuit/Logic Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/2022-2023 课程表.md",
+                "file": "Digital_circuit/Logic Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/2022-2023 课程表.md"
+                "file": "Digital_circuit/Logic Algebra.md"
               }
             }
           },
@@ -167,8 +180,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d4fd4df1e613c53",
+  "active": "6fcc091c6e059e5b",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230228134900.png",
+    "Attachments/Pasted image 20230228134604.png",
+    "Attachments/Pasted image 20230228134317.png",
+    "Digital_circuit/Logic Algebra.md",
+    "Digital_circuit/Index of digital circuit.md",
+    "Digital_circuit/Basic Appointment in Digital Circuit.md",
+    "Miscellaneous/2022-2023 课程表.md",
     "Untitled.canvas",
     "Reinforcement Learning/Index of RL.md",
     "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
@@ -187,10 +207,7 @@
     "Attachments/Pasted image 20230227144343.png",
     "Attachments/Pasted image 20230227143707.png",
     "Attachments/Pasted image 20230227143431.png",
-    "Attachments/Pasted image 20230227143354.png",
-    "Attachments/Pasted image 20230227143250.png",
     "Attachments/Chapter 3 Relation DataBase 2023-02-27 14.19.17.excalidraw.md",
-    "Miscellaneous/2022-2023 课程表.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Deep_Learning/Index of Deep Learning.md",
     "PDF/Ep.2 Machine Learning (1).pdf",
@@ -203,10 +220,7 @@
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(2) Basic Application.md",
     "Matrix_Analysis/Introduction to Matrix Decomposition.md",
     "Matrix_Analysis/Data Projection and PCA.md",
-    "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
-    "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
-    "Attachments/Ep.3 Base and Coordinate 2023-02-26 08.25.55.excalidraw.md",
     "PDF/Data Projection and PCA.pdf",
     "Banners_and_Ornaments/Minecraft AE(支持中文).ttf",
     "Banners_and_Ornaments/AaManYuShouXieTi-2.ttf",
