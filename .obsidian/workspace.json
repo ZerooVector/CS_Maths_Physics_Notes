@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md",
+                "file": "Miscellaneous/2022-2023 课程表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md",
+                "file": "Miscellaneous/2022-2023 课程表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md"
+                "file": "Miscellaneous/2022-2023 课程表.md"
               }
             }
           },
@@ -182,13 +181,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ef9fa41b9ef1dfb",
+  "active": "b97e1931d5c837bf",
   "lastOpenFiles": [
+    "Matrix_Analysis/Ep.5 Linear Mapping.md",
+    "Miscellaneous/2022-2023 课程表.md",
     "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
     "PDF/Expectation Maximum Algorithm.pdf",
-    "Matrix_Analysis/Ep.5 Linear Mapping.md",
     "Attachments/Expectation Maximum Algorithm 2023-02-28 19.36.49.excalidraw.md",
-    "Miscellaneous/2022-2023 课程表.md",
     "Matrix_Analysis/Ep.3 Base and Coordinate.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.4 Subspace.md",
