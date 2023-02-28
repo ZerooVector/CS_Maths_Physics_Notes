@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Index of RL.md",
+                "file": "Miscellaneous/2022-2023 课程表.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Index of RL.md",
+                "file": "Miscellaneous/2022-2023 课程表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Index of RL.md",
+                "file": "Miscellaneous/2022-2023 课程表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Index of RL.md"
+                "file": "Miscellaneous/2022-2023 课程表.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "2d4fd4df1e613c53",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Reinforcement Learning/Index of RL.md",
     "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
     "Attachments/Ep.2 Some Algo to solve RL Problem 2023-02-27 19.16.10.excalidraw.md",
@@ -206,7 +207,6 @@
     "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
     "Attachments/Ep.3 Base and Coordinate 2023-02-26 08.25.55.excalidraw.md",
-    "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
     "PDF/Data Projection and PCA.pdf",
     "Banners_and_Ornaments/Minecraft AE(支持中文).ttf",
     "Banners_and_Ornaments/AaManYuShouXieTi-2.ttf",
