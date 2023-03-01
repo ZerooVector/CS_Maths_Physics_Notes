@@ -13,26 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/2022-2023 课程表.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0ef9fa41b9ef1dfb",
+            "id": "7660a8b78a94e905",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md",
+                "file": "Matrix_Analysis/Chapter 2 Matrix Decompose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9f4ad7e16116e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md",
+                "file": "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md",
+                "file": "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md"
+                "file": "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md"
               }
             }
           },
@@ -182,19 +194,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ef9fa41b9ef1dfb",
+  "active": "f9f4ad7e16116e1d",
   "lastOpenFiles": [
+    "Matrix_Analysis/Chapter 2 Matrix Decompose.md",
+    "Attachments/Pasted image 20230301132440.png",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
+    "Matrix_Analysis/Orthogonal Projection.md",
+    "Matrix_Analysis/Ep.5 Linear Mapping.md",
+    "Attachments/Ep.5 Linear Mapping 2023-03-01 12.44.09.excalidraw.md",
+    "Matrix_Analysis/Geometric Transformations.md",
+    "Miscellaneous/2022-2023 课程表.md",
+    "Attachments/Ep.5 Linear Mapping 2023-03-01 12.32.55.excalidraw.md",
     "Attachments/6bf61bac76b7079da06512da2eb16f1.jpg",
     "Attachments/Ep.5 Linear Mapping 2023-03-01 08.51.36.excalidraw.md",
-    "Matrix_Analysis/Ep.5 Linear Mapping.md",
     "Attachments/Ep.5 Linear Mapping 2023-03-01 08.50.45.excalidraw.md",
     "Attachments/Ep.5 Linear Mapping 2023-03-01 08.50.26.excalidraw.md",
-    "Miscellaneous/2022-2023 课程表.md",
     "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
     "PDF/Expectation Maximum Algorithm.pdf",
     "Attachments/Expectation Maximum Algorithm 2023-02-28 19.36.49.excalidraw.md",
     "Matrix_Analysis/Ep.3 Base and Coordinate.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.4 Subspace.md",
     "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
     "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
@@ -209,19 +228,11 @@
     "Attachments/Pasted image 20230228134900.png",
     "Attachments/Pasted image 20230228134604.png",
     "Attachments/Pasted image 20230228134317.png",
-    "Digital_circuit/Basic Appointment in Digital Circuit.md",
     "Untitled.canvas",
-    "Reinforcement Learning/Index of RL.md",
-    "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
-    "Attachments/Ep.2 Some Algo to solve RL Problem 2023-02-27 19.16.10.excalidraw.md",
-    "Reinforcement Learning/Ep.1 Introduction to RL.md",
-    "Deep_Learning/Ep.2 Machine Learning (1).md",
     "Attachments/Pasted image 20230227145342.png",
     "Attachments/Pasted image 20230227145255.png",
     "Attachments/Pasted image 20230227145115.png",
     "Attachments/Pasted image 20230227144922.png",
-    "Attachments/Pasted image 20230227144621.png",
-    "Attachments/Pasted image 20230227144343.png",
     "PDF/Ep.2 Machine Learning (1).pdf",
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
     "PDF/Data Projection and PCA.pdf",

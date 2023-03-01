@@ -37,7 +37,7 @@ Syllabus:
 这是 BIT 人工智能学院开设的一门课
 [[Chapter 1 Linear Space and Transformation]]
 [[Week 1 Homework for Matrix Analysis]]
-
+[[Chapter 2 Matrix Decompose]]
 
 ## HIT Course
 这是控制方向的一门基础课
@@ -46,6 +46,7 @@ Syllabus:
 [[Ep.3 Base and Coordinate]]
 [[Ep.4 Subspace]]
 [[Ep.5 Linear Mapping]]
+[[Ep.6 Equivalent and Similar Matrix]]
 
 
 ## PKU Course
