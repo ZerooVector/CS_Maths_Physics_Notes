@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/2022-2023 课程表.md",
+                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/2022-2023 课程表.md",
+                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/2022-2023 课程表.md"
+                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md"
               }
             }
           },
@@ -181,9 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b97e1931d5c837bf",
+  "active": "0ef9fa41b9ef1dfb",
   "lastOpenFiles": [
+    "Attachments/Ep.5 Linear Mapping 2023-03-01 08.51.36.excalidraw.md",
     "Matrix_Analysis/Ep.5 Linear Mapping.md",
+    "Attachments/Ep.5 Linear Mapping 2023-03-01 08.50.45.excalidraw.md",
+    "Attachments/Ep.5 Linear Mapping 2023-03-01 08.50.26.excalidraw.md",
     "Miscellaneous/2022-2023 课程表.md",
     "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
     "PDF/Expectation Maximum Algorithm.pdf",
@@ -212,8 +216,6 @@
     "Reinforcement Learning/Ep.1 Introduction to RL.md",
     "Deep_Learning/Ep.2 Machine Learning (1).md",
     "Attachments/Ep.1 Introduction to RL 2023-02-27 17.58.18.excalidraw.md",
-    "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
-    "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
     "Attachments/Pasted image 20230227145342.png",
     "Attachments/Pasted image 20230227145255.png",
     "Attachments/Pasted image 20230227145115.png",
