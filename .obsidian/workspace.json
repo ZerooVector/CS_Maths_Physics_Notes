@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.4 Subspace.md",
+                "file": "Matrix_Analysis/Orthogonal Projection.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
+                "file": "Matrix_Analysis/Orthogonal Projection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
+                "file": "Matrix_Analysis/Orthogonal Projection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md"
+                "file": "Matrix_Analysis/Orthogonal Projection.md"
               }
             }
           },
@@ -194,15 +193,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9f4ad7e16116e1d",
+  "active": "b97e1931d5c837bf",
   "lastOpenFiles": [
-    "Matrix_Analysis/Ep.4 Subspace.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Chapter 2 Matrix Decompose.md",
     "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
+    "Matrix_Analysis/Orthogonal Projection.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Ep.4 Subspace.md",
     "Matrix_Analysis/Ep.5 Linear Mapping.md",
     "Attachments/Pasted image 20230301132440.png",
-    "Matrix_Analysis/Orthogonal Projection.md",
     "Attachments/Ep.5 Linear Mapping 2023-03-01 12.44.09.excalidraw.md",
     "Matrix_Analysis/Geometric Transformations.md",
     "Miscellaneous/2022-2023 课程表.md",
