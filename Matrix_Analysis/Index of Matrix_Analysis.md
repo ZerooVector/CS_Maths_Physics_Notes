@@ -30,6 +30,7 @@ Syllabus:
 [[Orthogonal Projection]]
 [[Data Projection and PCA]]
 [[Introduction to Matrix Decomposition]]
+[[Cholesky Decomposition]]
 
 
 

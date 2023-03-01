@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "ba4e37a7bed51e45",
+            "id": "c815cad456a4a718",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
+                "file": "Matrix_Analysis/Cholesky Decomposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
+                "file": "Matrix_Analysis/Cholesky Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
+                "file": "Matrix_Analysis/Cholesky Decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md"
+                "file": "Matrix_Analysis/Cholesky Decomposition.md"
               }
             }
           },
@@ -182,12 +182,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba4e37a7bed51e45",
+  "active": "c815cad456a4a718",
   "lastOpenFiles": [
     "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Cholesky Decomposition.md",
+    "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
     "Matrix_Analysis/Ep.5 Linear Mapping.md",
     "Matrix_Analysis/Ep.3 Base and Coordinate.md",
-    "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
     "Matrix_Analysis/Chapter 2 Matrix Decompose.md",
     "Matrix_Analysis/Orthogonal Projection.md",
     "Matrix_Analysis/Ep.4 Subspace.md",
