@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Ep.4 Subspace.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,12 +196,13 @@
   },
   "active": "f9f4ad7e16116e1d",
   "lastOpenFiles": [
-    "Matrix_Analysis/Chapter 2 Matrix Decompose.md",
-    "Attachments/Pasted image 20230301132440.png",
+    "Matrix_Analysis/Ep.4 Subspace.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Chapter 2 Matrix Decompose.md",
     "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
-    "Matrix_Analysis/Orthogonal Projection.md",
     "Matrix_Analysis/Ep.5 Linear Mapping.md",
+    "Attachments/Pasted image 20230301132440.png",
+    "Matrix_Analysis/Orthogonal Projection.md",
     "Attachments/Ep.5 Linear Mapping 2023-03-01 12.44.09.excalidraw.md",
     "Matrix_Analysis/Geometric Transformations.md",
     "Miscellaneous/2022-2023 课程表.md",
@@ -214,7 +215,6 @@
     "PDF/Expectation Maximum Algorithm.pdf",
     "Attachments/Expectation Maximum Algorithm 2023-02-28 19.36.49.excalidraw.md",
     "Matrix_Analysis/Ep.3 Base and Coordinate.md",
-    "Matrix_Analysis/Ep.4 Subspace.md",
     "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
     "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
     "Attachments/Ep.4 Subspace 2023-02-28 19.57.26.excalidraw.md",
