@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4ce650c2c062cc2f",
+        "id": "85bb5f093412015e",
         "type": "tabs",
         "children": [
           {
-            "id": "8ac5415b8a84a2ce",
+            "id": "1cfe510393adcec0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c815cad456a4a718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Cholesky Decomposition.md",
+                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Cholesky Decomposition.md",
+                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Cholesky Decomposition.md",
+                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Cholesky Decomposition.md"
+                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md"
               }
             }
           },
@@ -182,13 +168,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c815cad456a4a718",
+  "active": "1cfe510393adcec0",
   "lastOpenFiles": [
+    "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
+    "Matrix_Analysis/Cholesky Decomposition.md",
     "Attachments/Pasted image 20230301235427.png",
     "Attachments/Pasted image 20230301235138.png",
     "Attachments/Pasted image 20230301234123.png",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Matrix_Analysis/Cholesky Decomposition.md",
     "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
     "Matrix_Analysis/Ep.5 Linear Mapping.md",
     "Matrix_Analysis/Ep.3 Base and Coordinate.md",
@@ -221,7 +208,6 @@
     "Attachments/Pasted image 20230228134317.png",
     "Untitled.canvas",
     "Attachments/Pasted image 20230227145342.png",
-    "Attachments/Pasted image 20230227145255.png",
     "PDF/Ep.2 Machine Learning (1).pdf",
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
     "PDF/Data Projection and PCA.pdf",
