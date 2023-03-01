@@ -24,7 +24,7 @@ $$
 所以，由矩阵 $A$ 带来的线性映射和抽象的线性映射导致相同的效果。**因此，一个抽象的线性映射总可以使用一个矩阵来实现**！矩阵 $A$ 的构造方法就是对各个基向量进行线性映射，再按照列排列起来！
 
 ##### Def: 线性映射的矩阵表示
-给定线性映射：$\mathcal A : V\rightarrow W$, $\dim V =n,\dim W = m$，则线性映射的构造方法是：选取 $V$ 的基：$\epsilon_1,\cdots,\epsilon_n$（input base），选取 $W$ 的基 $\eta_1,\cdots,\eta_n$ (output gate)，记第 $j$ 个入口基向量 $\epsilon_j$ 的像 $\mathcal A (\epsilon_j)$ 在出口基下的坐标为 $a_j = [a_{1j},\cdots,a_{mj}]^T$  ，也就是 $\mathcal A (\epsilon_j) = [\eta_1,\cdots,\eta_m][a_{1j},\cdots,a_{mj}]^T$，将这些坐标拼成矩阵
+给定线性映射：$\mathcal A : V\rightarrow W$, $\dim V =n,\dim W = m$，则线性映射的构造方法是：选取 $V$ 的基：$\epsilon_1,\cdots,\epsilon_n$（input base），选取 $W$ 的基 $\eta_1,\cdots,\eta_n$ (output base)，记第 $j$ 个入口基向量 $\epsilon_j$ 的像 $\mathcal A (\epsilon_j)$ 在出口基下的坐标为 $a_j = [a_{1j},\cdots,a_{mj}]^T$  ，也就是 $\mathcal A (\epsilon_j) = [\eta_1,\cdots,\eta_m][a_{1j},\cdots,a_{mj}]^T$，将这些坐标拼成矩阵
 $A = [a_1, a_2,\cdots,a_n]$，那么 $A$ 就被称作映射 $\mathcal A$ 在入口基 $\{\epsilon_1\}$ 和出口基 $\{\eta_i\}$ 下的矩阵表示。
 直观来讲，线性映射的矩阵表示就是在说：**入口基向量经过变换后，在出口基下应该如何表示**？
 **补充**：在很多直观讲述高等代数的书上，他们会说，$A$ 的各个列就是变换后线性空间的基向量，最终得到的向量就是它们的线性组合。这种说法是因为，**线性变换是在同一个线性空间中实行的，如果不是特殊指定，变换前和变换后的基是一样的**，矩阵 $A$ 的各列就是原基向量经过变换后，在原来的的基上的坐标。例如，一个拉伸变换
@@ -35,11 +35,11 @@ $$
 \end{bmatrix}
 $$
 那么，变换前、后的基向量都是 $[1,0],[0,1]$，只不过变换使得向量 $[0,1]$ 伸长了两倍而已。
-![[Ep.5 Linear Mapping 2023-03-01 08.51.36.excalidraw|600]]
+![[Ep.5 Linear Mapping 2023-03-01 08.51.36.excalidraw|550]]
 
 ### 线性映射的坐标求法
 ##### Theorem 
-设 $\mathcal A$ 是从 $V$ 到 $W$ 的线性映射，$V$ 的基是 $\epsilon_i$，$W$ 的基是 $\eta_i$。给定 $v \in V$，其坐标为 $x$，那么其像的坐标是 $Ax$。直观地理解：$A$ 中记载的是各个原基向量的
+设 $\mathcal A$ 是从 $V$ 到 $W$ 的线性映射，$V$ 的基是 $\epsilon_i$，$W$ 的基是 $\eta_i$。给定 $v \in V$，其坐标为 $x$，那么其像的坐标是 $Ax$。
 ##### PF :
 $$
 v = [\epsilon_1,\cdots,\epsilon_n]x
@@ -50,3 +50,23 @@ $$
 &=[\mathcal A(\epsilon_i)]x = ([\eta_1,\cdots,\eta_n]A)x = [\eta_1,\cdots,\eta_n](Ax)
 \end{aligned}
 $$
+直观理解 ：$v$ 本来可以写成基向量的线性组合，在线性映射之后仍然可以写成原基向量的线性组合。只不过原基向量的坐标变了而已。
+![[6bf61bac76b7079da06512da2eb16f1.jpg]]
+
+比如图里这个，变换前可以写出 $\epsilon_1+\epsilon_2$，变换后仍然可以这样写，但是 $\epsilon_1 = \frac{1}{2}\eta_1-\frac{1}{2}\eta_2$，这样一代入，我们就得到在新的基下面的坐标了。（矩阵 $A$ 只是给出了原基向量的一个新的表示方法）
+
+##### Example: 微分算子的矩阵表示
+我们只给一个实例：$\mathcal D:\mathbb R_4 [x] \rightarrow \mathbb R_3[x]$
+在入口空间中，选择 $1,x,x^2,x^3$；在出口空间中，选择 $1,x,x^2$, 那么，映射矩阵是
+$$
+A=
+\begin{bmatrix}
+0 &1&0&0\\
+0 &0 & 2&0\\
+0 &0&0&3
+
+\end{bmatrix}
+$$
+
+##### Example : 旋转变换的几何表示
+我们仅仅考虑几何空间绕着固定轴的旋转，旋转了角度 $\theta$
