@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "85bb5f093412015e",
+        "id": "bcdb82470563ffb8",
         "type": "tabs",
         "children": [
           {
-            "id": "1cfe510393adcec0",
+            "id": "fa0b2055bd4a2645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cb382dee3f25d8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
+                "file": "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
+                "file": "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md"
+                "file": "Matrix_Analysis/Ep.7 Jordan Canonical Form.md"
               }
             }
           },
@@ -168,20 +182,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1cfe510393adcec0",
+  "active": "0cb382dee3f25d8f",
   "lastOpenFiles": [
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
+    "MCM_ICM/2023MCM直播笔记.md",
+    "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
+    "Matrix_Analysis/Ep.4 Subspace.md",
+    "Matrix_Analysis/Ep.5 Linear Mapping.md",
+    "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
     "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
     "Matrix_Analysis/Cholesky Decomposition.md",
     "Attachments/Pasted image 20230301235427.png",
     "Attachments/Pasted image 20230301235138.png",
     "Attachments/Pasted image 20230301234123.png",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
-    "Matrix_Analysis/Ep.5 Linear Mapping.md",
     "Matrix_Analysis/Ep.3 Base and Coordinate.md",
     "Matrix_Analysis/Chapter 2 Matrix Decompose.md",
     "Matrix_Analysis/Orthogonal Projection.md",
-    "Matrix_Analysis/Ep.4 Subspace.md",
     "Attachments/Pasted image 20230301132440.png",
     "Attachments/Ep.5 Linear Mapping 2023-03-01 12.44.09.excalidraw.md",
     "Matrix_Analysis/Geometric Transformations.md",
@@ -200,9 +217,6 @@
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Attachments/Pasted Image 20230228193750_305.png",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
-    "Machine_Learning_and_Data_Science/Naive Bayes Classifier(2) Basic Application.md",
-    "Machine_Learning_and_Data_Science/History of ML and AI.md",
-    "Digital_circuit/Logic Algebra.md",
     "Attachments/Pasted image 20230228134900.png",
     "Attachments/Pasted image 20230228134604.png",
     "Attachments/Pasted image 20230228134317.png",

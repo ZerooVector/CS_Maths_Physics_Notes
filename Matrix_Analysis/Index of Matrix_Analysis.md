@@ -48,7 +48,7 @@ Syllabus:
 [[Ep.4 Subspace]]
 [[Ep.5 Linear Mapping]]
 [[Ep.6 Equivalent and Similar Matrix]]
-
+[[Ep.7 Jordan Canonical Form]]
 
 ## PKU Course
 这是 PKU 丘维声的高等代数课程，（可能）是中国大陆最好的课程
