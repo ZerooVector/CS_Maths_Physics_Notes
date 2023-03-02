@@ -9,3 +9,6 @@ banner: "![[banner20.png]]"
 # INDEX
 [[Basic Appointment in Digital Circuit]]
 [[Logic Algebra]]
+[[Some Important Proofs in Logic Algebra]]
+[[Integrate Logic Gates and Functions]]
+

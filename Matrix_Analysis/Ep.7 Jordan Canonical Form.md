@@ -96,6 +96,31 @@ $$
 如果 $A (\lambda)$ 可以经过有限步初等行（列）变换化成 $B (\lambda)$，我们称 $A$ 和 $B$ 等价。
 
 ##### Lemma 用初等变换将左上角降次
-$A (\lambda) = [a_{ij}(\lambda)]_{m \times n}$ ，且 $a_{11} (\lambda) \not = 0$ ，且 $A (\lambda)$ 中至少有一个元素不能被 $a_{11}$ 整除
+$A (\lambda) = [a_{ij}(\lambda)]_{m \times n}$ ，且 $a_{11} (\lambda) \not = 0$ ，且 $A (\lambda)$ 中至少有一个元素不能被 $a_{11}$ 整除（这意味着 $a_{11}$ 不可以是非零常数）（注意，非零常数可以整除任意多项式，任意多项式可以整整除 0 多项式），我们一定可以通过初等行列变换将 $A$ 化成与之等价的 $B$，且 $\mathcal D (b_{11}) < \mathcal D(a_{11})$ 
+
+##### PF
+由于有一项不能被 $a_{11}$ 整除，
+- 设这一项在第一行中：
+$$
+a_{1j}(\lambda) = a_{11}(\lambda)q(\lambda) + r(\lambda)
+$$
+并且， $\mathcal D (r (\lambda)) < \mathcal D (a_{11}(\lambda)$。现在将第一列乘以 $-q (\lambda)$，加到第 $j$ 列（相当于只保留 $a_{1j}$ 被除的余数），再交换第 1 和第 $j$ 列，那么就降低了 $a_{11}(\lambda)$ 的次数。
+- 设这一项 $a_{ij}$ 不在第一行中，那么，先将第 $i$ 行加到第 1 行，就又将 $a_{1j}$ 变成了不能被 $a_{11}$ 整除的情况
+
+##### Theorem Smith 标准型
+将 $A (\lambda)$ 化成其等价矩阵
+$$
+\begin{bmatrix}
+ \mathrm{diag}(d_1(\lambda ),d_2(\lambda),\cdots,d_n(\lambda)) & O\\
+ O & O
+\end{bmatrix}
+$$
+其中，$r = rank (A (\lambda))$，$d_i (\lambda)$ 是非零多项式。这样的矩阵称为 $A (\lambda)$ 的史密斯标准型
+
+
+
+
+
+
 
 

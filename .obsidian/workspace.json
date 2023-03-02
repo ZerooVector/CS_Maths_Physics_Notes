@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "bcdb82470563ffb8",
+        "id": "d8693360b4010ff8",
         "type": "tabs",
         "children": [
           {
-            "id": "fa0b2055bd4a2645",
+            "id": "932caac16ef42cf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Digital_circuit/Index of digital circuit.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0cb382dee3f25d8f",
+            "id": "98858b16f311bde4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
+                "file": "Digital_circuit/Integrate Logic Gates and Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
+                "file": "Digital_circuit/Integrate Logic Gates and Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
+                "file": "Digital_circuit/Integrate Logic Gates and Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.7 Jordan Canonical Form.md"
+                "file": "Digital_circuit/Integrate Logic Gates and Functions.md"
               }
             }
           },
@@ -164,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +180,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0cb382dee3f25d8f",
+  "active": "98858b16f311bde4",
   "lastOpenFiles": [
+    "Digital_circuit/Index of digital circuit.md",
+    "Digital_circuit/Integrate Logic Gates and Functions.md",
+    "Digital_circuit/Some Important Proofs in Logic Algebra.md",
+    "Digital_circuit/Logic Algebra.md",
+    "Attachments/Pasted image 20230302102139.png",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
     "MCM_ICM/2023MCM直播笔记.md",
@@ -212,16 +215,11 @@
     "PDF/Expectation Maximum Algorithm.pdf",
     "Attachments/Expectation Maximum Algorithm 2023-02-28 19.36.49.excalidraw.md",
     "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
-    "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
-    "Attachments/Ep.4 Subspace 2023-02-28 19.57.26.excalidraw.md",
-    "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Attachments/Pasted Image 20230228193750_305.png",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Attachments/Pasted image 20230228134900.png",
     "Attachments/Pasted image 20230228134604.png",
     "Attachments/Pasted image 20230228134317.png",
     "Untitled.canvas",
-    "Attachments/Pasted image 20230227145342.png",
     "PDF/Ep.2 Machine Learning (1).pdf",
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
     "PDF/Data Projection and PCA.pdf",
