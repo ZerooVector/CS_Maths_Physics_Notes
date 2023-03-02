@@ -8,5 +8,7 @@
 [[Introduction to Optimization Method]]
 [[The general form of Opt Problem]]
 [[Convex Optimization without Constraints]]
+[[Linear Programming Model(LP)]]
+
 
 
