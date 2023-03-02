@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/Complex Logic Gates and Functions.md",
+                "file": "Digital_circuit/Logic Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/Complex Logic Gates and Functions.md",
+                "file": "Digital_circuit/Logic Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/Complex Logic Gates and Functions.md"
+                "file": "Digital_circuit/Logic Algebra.md"
               }
             }
           },
@@ -192,7 +192,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "98858b16f311bde4",
+  "active": "c19730509aa5e2a8",
   "lastOpenFiles": [
     "Digital_circuit/Complex Logic Gates and Functions.md",
     "Digital_circuit/Logic Algebra.md",

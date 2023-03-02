@@ -109,4 +109,8 @@ $$
 $$
 A+AB = A \qquad AB+\bar AC+BC = AB+\bar AC
 $$
-
+#### 消元法
+主要利用吸收律
+$$
+A+\bar AB = A+B
+$$
