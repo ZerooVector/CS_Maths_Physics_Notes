@@ -20,19 +20,31 @@
             }
           },
           {
+            "id": "c19730509aa5e2a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital_circuit/Logic Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "98858b16f311bde4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/Integrate Logic Gates and Functions.md",
+                "file": "Digital_circuit/Complex Logic Gates and Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/Integrate Logic Gates and Functions.md",
+                "file": "Digital_circuit/Complex Logic Gates and Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/Integrate Logic Gates and Functions.md",
+                "file": "Digital_circuit/Complex Logic Gates and Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/Integrate Logic Gates and Functions.md"
+                "file": "Digital_circuit/Complex Logic Gates and Functions.md"
               }
             }
           },
@@ -182,10 +194,10 @@
   },
   "active": "98858b16f311bde4",
   "lastOpenFiles": [
-    "Digital_circuit/Index of digital circuit.md",
-    "Digital_circuit/Integrate Logic Gates and Functions.md",
-    "Digital_circuit/Some Important Proofs in Logic Algebra.md",
+    "Digital_circuit/Complex Logic Gates and Functions.md",
     "Digital_circuit/Logic Algebra.md",
+    "Digital_circuit/Index of digital circuit.md",
+    "Digital_circuit/Some Important Proofs in Logic Algebra.md",
     "Attachments/Pasted image 20230302102139.png",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
