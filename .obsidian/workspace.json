@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/Logic Algebra.md",
+                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/Logic Algebra.md",
+                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/Logic Algebra.md",
+                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/Logic Algebra.md"
+                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "c19730509aa5e2a8",
   "lastOpenFiles": [
-    "Digital_circuit/Complex Logic Gates and Functions.md",
     "Digital_circuit/Logic Algebra.md",
+    "Digital_circuit/Complex Logic Gates and Functions.md",
     "Digital_circuit/Index of digital circuit.md",
     "Digital_circuit/Some Important Proofs in Logic Algebra.md",
     "Attachments/Pasted image 20230302102139.png",
