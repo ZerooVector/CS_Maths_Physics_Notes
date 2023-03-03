@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d84185aa8da6d822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "44e8b3ab41f097ee",
             "type": "leaf",
             "state": {
@@ -37,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
+                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
+                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
+                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimization method and Ops Rsch/Linear Programming Model(LP).md"
+                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md"
               }
             }
           },
@@ -192,44 +179,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e62893fb0fd626b",
+  "active": "44e8b3ab41f097ee",
   "lastOpenFiles": [
+    "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
+    "Deep_Learning/Index of Deep Learning.md",
+    "Deep_Learning/Ep.1 Introduction of Introduction.md",
+    "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
+    "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Digital_circuit/Complex Logic Gates and Functions.md",
+    "Digital_circuit/Basic Appointment in Digital Circuit.md",
+    "Digital_circuit/Index of digital circuit.md",
+    "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
     "Attachments/Pasted image 20230302172654.png",
     "Attachments/Pasted image 20230302171727.png",
     "Attachments/Pasted image 20230302171617.png",
     "Attachments/Pasted image 20230302171412.png",
     "Attachments/Pasted image 20230302171243.png",
     "Attachments/Pasted image 20230302171119.png",
-    "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
-    "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
-    "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
     "Optimization method and Ops Rsch/Introduction to Optimization Method.md",
-    "Optimization method and Ops Rsch/The general form of Opt Problem.md",
+    "PDF/The general form of Opt Problem.md",
     "Digital_circuit/Logic Algebra.md",
-    "Digital_circuit/Index of digital circuit.md",
     "Attachments/Pasted image 20230302164721.png",
     "Attachments/Pasted image 20230302162932.png",
     "Attachments/Pasted image 20230302160951.png",
-    "Digital_circuit/Complex Logic Gates and Functions.md",
     "Digital_circuit/Some Important Proofs in Logic Algebra.md",
     "Attachments/Pasted image 20230302102139.png",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
     "MCM_ICM/2023MCM直播笔记.md",
-    "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
     "Matrix_Analysis/Ep.4 Subspace.md",
     "Matrix_Analysis/Ep.5 Linear Mapping.md",
     "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
     "Matrix_Analysis/Cholesky Decomposition.md",
-    "Attachments/Pasted image 20230301235427.png",
     "Matrix_Analysis/Ep.3 Base and Coordinate.md",
     "Matrix_Analysis/Chapter 2 Matrix Decompose.md",
     "Matrix_Analysis/Orthogonal Projection.md",
     "Attachments/Ep.5 Linear Mapping 2023-03-01 12.44.09.excalidraw.md",
-    "Matrix_Analysis/Geometric Transformations.md",
-    "Miscellaneous/2022-2023 课程表.md",
-    "Attachments/Ep.5 Linear Mapping 2023-03-01 12.32.55.excalidraw.md",
-    "Attachments/Ep.5 Linear Mapping 2023-03-01 08.51.36.excalidraw.md",
     "PDF/Expectation Maximum Algorithm.pdf",
     "Untitled.canvas",
     "PDF/Ep.2 Machine Learning (1).pdf",
