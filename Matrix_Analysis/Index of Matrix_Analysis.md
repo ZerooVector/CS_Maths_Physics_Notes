@@ -31,7 +31,8 @@ Syllabus:
 [[Data Projection and PCA]]
 [[Introduction to Matrix Decomposition]]
 [[Cholesky Decomposition]]
-[[Eigen Value Decomposition(1)]]
+[[Eigen Value Decomposition(1) Basic Introduction]]
+[[Eigen Value Decomposition(2) Some Applications]]
 
 
 ## BIT Course

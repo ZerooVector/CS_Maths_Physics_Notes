@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "56f779184e3b14ba",
+            "id": "1ee62825b1ba5ad1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Eigen Value Decomposition(1).md",
+                "file": "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Eigen Value Decomposition(1).md",
+                "file": "Matrix_Analysis/Eigen Value Decomposition(1) Basic Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Eigen Value Decomposition(1).md",
+                "file": "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Eigen Value Decomposition(1).md",
+                "file": "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Eigen Value Decomposition(1).md"
+                "file": "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md"
               }
             }
           },
@@ -218,8 +218,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56f779184e3b14ba",
+  "active": "1ee62825b1ba5ad1",
   "lastOpenFiles": [
+    "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
+    "Attachments/Pasted image 20230303163358.png",
+    "Attachments/Pasted image 20230303163021.png",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Eigen Value Decomposition(1) Basic Introduction.md",
+    "Attachments/Pasted image 20230303161447.png",
     "Attachments/Pasted image 20230303154859.png",
     "Attachments/Pasted image 20230303154224.png",
     "Attachments/Pasted image 20230303153443.png",
@@ -227,17 +233,11 @@
     "Attachments/Pasted image 20230303152805.png",
     "Attachments/Pasted image 20230303152535.png",
     "Attachments/Pasted image 20230303151922.png",
-    "Attachments/Pasted image 20230303151447.png",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
     "Matrix_Analysis/Ep.8.md",
     "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
-    "Matrix_Analysis/Eigen Value Decomposition(1).md",
     "Attachments/Ep.8 2023-03-03 10.34.40.excalidraw.md",
-    "Attachments/Pasted image 20230303094725.png",
     "Matrix_Analysis/Cholesky Decomposition.md",
-    "Attachments/Pasted image 20230303094023.png",
-    "Attachments/Pasted image 20230303093320.png",
     "Matrix_Analysis/Orthogonal Projection.md",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
@@ -255,7 +255,6 @@
     "PDF/The general form of Opt Problem.md",
     "Digital_circuit/Logic Algebra.md",
     "Digital_circuit/Some Important Proofs in Logic Algebra.md",
-    "MCM_ICM/2023MCM直播笔记.md",
     "PDF/Expectation Maximum Algorithm.pdf",
     "Untitled.canvas",
     "PDF/Ep.2 Machine Learning (1).pdf",
