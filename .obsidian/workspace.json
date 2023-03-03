@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "52f63900b6bba82e",
+        "id": "86a7e7462e2b7ba7",
         "type": "tabs",
         "children": [
           {
-            "id": "44e8b3ab41f097ee",
+            "id": "e99abb16a257c1aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e62893fb0fd626b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
+                "file": "Matrix_Analysis/Cholesky Decomposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
+                "file": "Matrix_Analysis/Cholesky Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
+                "file": "Matrix_Analysis/Cholesky Decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimization method and Ops Rsch/Convex Optimization without Constraints.md"
+                "file": "Matrix_Analysis/Cholesky Decomposition.md"
               }
             }
           },
@@ -162,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,50 +163,50 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas:Create new canvas": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44e8b3ab41f097ee",
+  "active": "e99abb16a257c1aa",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230303093320.png",
+    "Attachments/Pasted image 20230303085816.png",
+    "Attachments/Pasted image 20230303085629.png",
+    "Attachments/Pasted image 20230303085252.png",
+    "Attachments/Pasted image 20230303085209.png",
+    "Attachments/Pasted image 20230303084838.png",
+    "Matrix_Analysis/Orthogonal Projection.md",
+    "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
+    "Matrix_Analysis/Cholesky Decomposition.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
     "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
+    "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
     "Deep_Learning/Index of Deep Learning.md",
     "Deep_Learning/Ep.1 Introduction of Introduction.md",
-    "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
     "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Digital_circuit/Complex Logic Gates and Functions.md",
     "Digital_circuit/Basic Appointment in Digital Circuit.md",
     "Digital_circuit/Index of digital circuit.md",
-    "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
     "Attachments/Pasted image 20230302172654.png",
     "Attachments/Pasted image 20230302171727.png",
     "Attachments/Pasted image 20230302171617.png",
     "Attachments/Pasted image 20230302171412.png",
     "Attachments/Pasted image 20230302171243.png",
-    "Attachments/Pasted image 20230302171119.png",
     "Optimization method and Ops Rsch/Introduction to Optimization Method.md",
     "PDF/The general form of Opt Problem.md",
     "Digital_circuit/Logic Algebra.md",
-    "Attachments/Pasted image 20230302164721.png",
-    "Attachments/Pasted image 20230302162932.png",
-    "Attachments/Pasted image 20230302160951.png",
     "Digital_circuit/Some Important Proofs in Logic Algebra.md",
-    "Attachments/Pasted image 20230302102139.png",
     "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
     "MCM_ICM/2023MCM直播笔记.md",
     "Matrix_Analysis/Ep.4 Subspace.md",
     "Matrix_Analysis/Ep.5 Linear Mapping.md",
     "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
-    "Matrix_Analysis/Cholesky Decomposition.md",
     "Matrix_Analysis/Ep.3 Base and Coordinate.md",
-    "Matrix_Analysis/Chapter 2 Matrix Decompose.md",
-    "Matrix_Analysis/Orthogonal Projection.md",
-    "Attachments/Ep.5 Linear Mapping 2023-03-01 12.44.09.excalidraw.md",
     "PDF/Expectation Maximum Algorithm.pdf",
     "Untitled.canvas",
     "PDF/Ep.2 Machine Learning (1).pdf",
