@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1ee62825b1ba5ad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6df3297aefc37e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cb1ff74e6162f0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Ep.8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71726af3ac60d587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Eigen Value Decomposition(1) Basic Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md"
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
               }
             }
           },
@@ -218,9 +169,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ee62825b1ba5ad1",
+  "active": "fddeef629c930357",
   "lastOpenFiles": [
     "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
+    "Attachments/Pasted image 20230303174034.png",
+    "Attachments/Pasted image 20230303172516.png",
+    "Attachments/Pasted image 20230303171514.png",
+    "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
+    "Attachments/Pasted image 20230303170146.png",
     "Attachments/Pasted image 20230303163358.png",
     "Attachments/Pasted image 20230303163021.png",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
@@ -229,11 +185,6 @@
     "Attachments/Pasted image 20230303154859.png",
     "Attachments/Pasted image 20230303154224.png",
     "Attachments/Pasted image 20230303153443.png",
-    "Attachments/Pasted image 20230303152831.png",
-    "Attachments/Pasted image 20230303152805.png",
-    "Attachments/Pasted image 20230303152535.png",
-    "Attachments/Pasted image 20230303151922.png",
-    "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
     "Matrix_Analysis/Ep.8.md",
     "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
     "Attachments/Ep.8 2023-03-03 10.34.40.excalidraw.md",
