@@ -31,7 +31,7 @@ Syllabus:
 [[Data Projection and PCA]]
 [[Introduction to Matrix Decomposition]]
 [[Cholesky Decomposition]]
-
+[[Eigen Value Decomposition(1)]]
 
 
 ## BIT Course
@@ -41,6 +41,9 @@ Syllabus:
 [[Chapter 2 Matrix Decompose]]
 
 ## HIT Course
+
+^8107e9
+
 这是控制方向的一门基础课
 [[Ep.1 Linear Space and Transformation]]
 [[Ep.2 Vector in Linear Space]]
@@ -49,6 +52,7 @@ Syllabus:
 [[Ep.5 Linear Mapping]]
 [[Ep.6 Equivalent and Similar Matrix]]
 [[Ep.7 Jordan Canonical Form]]
+[[Ep.8]]
 
 ## PKU Course
 这是 PKU 丘维声的高等代数课程，（可能）是中国大陆最好的课程
