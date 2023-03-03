@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.8.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.8.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.8.md"
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
               }
             }
           },
@@ -206,11 +205,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2cb1ff74e6162f0c",
+  "active": "fddeef629c930357",
   "lastOpenFiles": [
-    "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
-    "Matrix_Analysis/Ep.8.md",
     "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
+    "Matrix_Analysis/Ep.8.md",
+    "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Eigen Value Decomposition(1).md",
     "Attachments/Ep.8 2023-03-03 10.34.40.excalidraw.md",
