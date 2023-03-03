@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Ep.8 2023-03-03 10.34.40.excalidraw.md",
+                "file": "Matrix_Analysis/Ep.8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Ep.8 2023-03-03 10.34.40.excalidraw.md",
+                "file": "Matrix_Analysis/Ep.8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Ep.8 2023-03-03 10.34.40.excalidraw.md"
+                "file": "Matrix_Analysis/Ep.8.md"
               }
             }
           },
@@ -206,48 +206,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "c0b9a76722a84fd3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7670a4e974f2be79",
-        "type": "window",
-        "children": [
-          {
-            "id": "b8c5d5cb493726ff",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a3468ae7beb62f0c",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Attachments/Ep.8 2023-03-03 10.34.40.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 208,
-        "y": 26,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a3468ae7beb62f0c",
+  "active": "2cb1ff74e6162f0c",
   "lastOpenFiles": [
-    "Matrix_Analysis/Ep.8.md",
-    "Attachments/Ep.8 2023-03-03 10.34.40.excalidraw.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
+    "Matrix_Analysis/Ep.8.md",
+    "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Eigen Value Decomposition(1).md",
+    "Attachments/Ep.8 2023-03-03 10.34.40.excalidraw.md",
     "Attachments/Pasted image 20230303094725.png",
     "Matrix_Analysis/Cholesky Decomposition.md",
     "Attachments/Pasted image 20230303094023.png",
@@ -278,7 +244,6 @@
     "Digital_circuit/Some Important Proofs in Logic Algebra.md",
     "MCM_ICM/2023MCM直播笔记.md",
     "Matrix_Analysis/Ep.4 Subspace.md",
-    "Matrix_Analysis/Ep.5 Linear Mapping.md",
     "PDF/Expectation Maximum Algorithm.pdf",
     "Untitled.canvas",
     "PDF/Ep.2 Machine Learning (1).pdf",
