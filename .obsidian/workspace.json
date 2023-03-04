@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -151,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,6 +169,9 @@
   },
   "active": "fddeef629c930357",
   "lastOpenFiles": [
+    "Miscellaneous/2022-2023 第二学期 人工智能基础 讨论班.md",
+    "PDF/2022-2023 第二学期 人工智能基础 讨论班.pdf",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
     "Attachments/Pasted image 20230303174034.png",
     "Attachments/Pasted image 20230303172516.png",
@@ -179,7 +180,6 @@
     "Attachments/Pasted image 20230303170146.png",
     "Attachments/Pasted image 20230303163358.png",
     "Attachments/Pasted image 20230303163021.png",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Eigen Value Decomposition(1) Basic Introduction.md",
     "Attachments/Pasted image 20230303161447.png",
     "Attachments/Pasted image 20230303154859.png",
@@ -205,7 +205,6 @@
     "Optimization method and Ops Rsch/Introduction to Optimization Method.md",
     "PDF/The general form of Opt Problem.md",
     "Digital_circuit/Logic Algebra.md",
-    "Digital_circuit/Some Important Proofs in Logic Algebra.md",
     "PDF/Expectation Maximum Algorithm.pdf",
     "Untitled.canvas",
     "PDF/Ep.2 Machine Learning (1).pdf",
@@ -215,7 +214,6 @@
     "Banners_and_Ornaments/AaManYuShouXieTi-2.ttf",
     "新建文件夹",
     "Optimization method and Ops Rsch",
-    "Digital_circuit",
-    "Miscellaneous"
+    "Digital_circuit"
   ]
 }
