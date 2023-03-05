@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Reinforcement Learning/Index of RL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27efbcad439a03cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Introduction of Knowledge Distilling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Research/Introduction of Knowledge Distilling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Research/Introduction of Knowledge Distilling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
+                "file": "Research/Introduction of Knowledge Distilling.md"
               }
             }
           },
@@ -150,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,11 +182,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fddeef629c930357",
+  "active": "27efbcad439a03cb",
   "lastOpenFiles": [
+    "Reinforcement Learning/Index of RL.md",
+    "Research/Introduction of Knowledge Distilling.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Untitled 1",
+    "Research",
     "Miscellaneous/2022-2023 第二学期 人工智能基础 讨论班.md",
     "PDF/2022-2023 第二学期 人工智能基础 讨论班.pdf",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
     "Attachments/Pasted image 20230303174034.png",
     "Attachments/Pasted image 20230303172516.png",
@@ -204,7 +223,6 @@
     "Digital_circuit/Index of digital circuit.md",
     "Optimization method and Ops Rsch/Introduction to Optimization Method.md",
     "PDF/The general form of Opt Problem.md",
-    "Digital_circuit/Logic Algebra.md",
     "PDF/Expectation Maximum Algorithm.pdf",
     "Untitled.canvas",
     "PDF/Ep.2 Machine Learning (1).pdf",
@@ -212,8 +230,6 @@
     "PDF/Data Projection and PCA.pdf",
     "Banners_and_Ornaments/Minecraft AE(支持中文).ttf",
     "Banners_and_Ornaments/AaManYuShouXieTi-2.ttf",
-    "新建文件夹",
-    "Optimization method and Ops Rsch",
-    "Digital_circuit"
+    "新建文件夹"
   ]
 }
