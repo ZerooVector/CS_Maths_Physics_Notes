@@ -4,30 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "803a58c3dd605136",
+        "id": "ea7d08c128fe2b39",
         "type": "tabs",
         "children": [
           {
-            "id": "27efbcad439a03cb",
+            "id": "03b7363e5eb7cb4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Introduction of Knowledge Distilling.md",
+                "file": "Research/2022-2023 Index 1 Knowledge Distilling.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "85e8b2ea17119b4c",
+            "id": "c25ef5f7a786feca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Introduction of Knowledge Distilling.md",
+                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Introduction of Knowledge Distilling.md",
+                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Introduction of Knowledge Distilling.md"
+                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md"
               }
             }
           },
@@ -177,16 +181,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27efbcad439a03cb",
+  "active": "fb923f61563ef704",
   "lastOpenFiles": [
-    "Reinforcement Learning/Index of RL.md",
-    "Research/Introduction of Knowledge Distilling.md",
+    "Digital_circuit/Logic Algebra.md",
+    "Digital_circuit/Some Important Proofs in Logic Algebra.md",
+    "Miscellaneous/2022-2023 第二学期 人工智能基础 讨论班.md",
+    "Research/FL+KD.md",
     "Research/2022-2023 Index 1 Knowledge Distilling.md",
+    "Research/FL+KD",
+    "Research/Introduction of Knowledge Distilling.md",
+    "Reinforcement Learning/Index of RL.md",
     "Attachments/Pasted image 20230305102509.png",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Untitled 1",
     "Research",
-    "Miscellaneous/2022-2023 第二学期 人工智能基础 讨论班.md",
     "PDF/2022-2023 第二学期 人工智能基础 讨论班.pdf",
     "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
     "Attachments/Pasted image 20230303174034.png",
@@ -215,15 +223,12 @@
     "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Digital_circuit/Complex Logic Gates and Functions.md",
-    "Digital_circuit/Basic Appointment in Digital Circuit.md",
-    "Digital_circuit/Index of digital circuit.md",
     "PDF/Expectation Maximum Algorithm.pdf",
     "Untitled.canvas",
     "PDF/Ep.2 Machine Learning (1).pdf",
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
     "PDF/Data Projection and PCA.pdf",
     "Banners_and_Ornaments/Minecraft AE(支持中文).ttf",
-    "Banners_and_Ornaments/AaManYuShouXieTi-2.ttf",
-    "新建文件夹"
+    "Banners_and_Ornaments/AaManYuShouXieTi-2.ttf"
   ]
 }
