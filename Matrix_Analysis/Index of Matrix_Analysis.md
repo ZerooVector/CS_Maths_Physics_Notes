@@ -40,6 +40,8 @@ Syllabus:
 [[Chapter 1 Linear Space and Transformation]]
 [[Week 1 Homework for Matrix Analysis]]
 [[Chapter 2 Matrix Decompose]]
+[[Week 2 Homework of Matrix Decomposition]]
+
 
 ## HIT Course
 

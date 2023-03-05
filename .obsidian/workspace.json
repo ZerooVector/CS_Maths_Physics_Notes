@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76d9f0bfa37932a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d45a23eed55ed96b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Week 2 Homework of Matrix Decomposition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md",
+                "file": "Matrix_Analysis/Week 2 Homework of Matrix Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md",
+                "file": "Matrix_Analysis/Week 2 Homework of Matrix Decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md"
+                "file": "Matrix_Analysis/Week 2 Homework of Matrix Decomposition.md"
               }
             }
           },
@@ -168,19 +193,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15b55a9c1e7062ed",
+  "active": "d45a23eed55ed96b",
   "lastOpenFiles": [
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Week 2 Homework of Matrix Decomposition.md",
+    "Digital_circuit/Some Important Proofs in Logic Algebra.md",
+    "Digital_circuit/Index of digital circuit.md",
     "Research/FL+KD.md",
     "Research/2022-2023 Index 1 Knowledge Distilling.md",
     "PDF/FL+KD.pdf",
     "Research/Introduction of Knowledge Distilling.md",
-    "Digital_circuit/Some Important Proofs in Logic Algebra.md",
     "Digital_circuit/Logic Algebra.md",
     "Miscellaneous/2022-2023 第二学期 人工智能基础 讨论班.md",
     "Research/FL+KD",
     "Reinforcement Learning/Index of RL.md",
     "Attachments/Pasted image 20230305102509.png",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Untitled 1",
     "Research",
     "PDF/2022-2023 第二学期 人工智能基础 讨论班.pdf",
@@ -209,7 +236,6 @@
     "Deep_Learning/Ep.1 Introduction of Introduction.md",
     "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
     "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "PDF/Expectation Maximum Algorithm.pdf",
     "Untitled.canvas",
     "PDF/Ep.2 Machine Learning (1).pdf",
