@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 15026980
       }
+    },
+    {
+      "query": "tag:#Research",
+      "color": {
+        "a": 1,
+        "rgb": 15817563
+      }
     }
   ],
   "collapse-display": false,
@@ -88,6 +95,6 @@
   "repelStrength": 9.38144329896907,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.5519247363381458,
-  "close": false
+  "scale": 0.6547720160069551,
+  "close": true
 }

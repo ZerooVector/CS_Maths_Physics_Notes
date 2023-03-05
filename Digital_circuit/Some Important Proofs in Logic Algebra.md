@@ -94,5 +94,63 @@ $$
 
 ### 吸收法
 ##### 介绍和证明 
-吸收法利用三种吸收律：
-- 标准吸收律
+吸收法利用两种吸收律：
+- 标准吸收律：$A+AB = A$，从式子中吸取一个 $B$
+- 反向吸收律：$A+\bar AB = A+B$，从式子中吸取一个 $\bar A$
+
+##### 例题
+$$
+\begin{aligned}
+Y &=A+(A'(BC)')'(A'+(B'C'+D)')+BC\\
+&=A+(A'(B'+C'))'(A'+(B'C'+D)')+BC\\
+&= A+(A+BC)(A'+(B'C'+D)')+BC\\
+ &= (A+BC)(1+(A'+(B'C'+D)'))\\
+ &= A+BC
+\end{aligned}
+$$
+
+### 消项法
+##### 介绍和证明
+消项法利用两种规律，从式子中抽掉一项：
+- 抽掉两个变量：$AB+\bar AC +BC = AB+\bar AC$，消去一项 $BC$
+- 抽掉三个变量：$AB +\bar AC +BCD = AB+\bar AC$
+
+##### 例题
+$$
+\begin{aligned}
+Y &=AC+A'D+C'D\\
+ & = AC+(A'+C')D \\
+ & = AC+(AC)'D\\
+ &= AC+D
+\end{aligned}
+$$
+（注意：这里出现了反用反演律的情形）
+
+### 配项法
+##### 介绍和证明
+配项法是给公式添加项的手法，主要包括以下两点：
+- 利用 $A+A=A$ 重复写入某一项
+- 利用 $A+A'=1$ 将其中的某一项不断乘上类似 $A+A'$ 的一项
+
+##### 例题
+$$
+\begin{aligned}
+Y &= A'BC'+A'BC+ABC\\
+&= A'BC'+(A'BC+A'BC)+ABC\\
+&= A'B(C+C')+BC(A+A')\\
+&= A'B+BC
+\end{aligned}
+$$
+$$
+\begin{aligned}
+Y &=AB'+A'B+BC'+B'C\\
+&= AB'+A'B(C+C')+BC'+(A+A')B'C\\
+&= (AB'+AB'C)+(BC'+A'BC')+(A'BC+A'B'C)\\
+&= AB'+BC'+ A'C
+\end{aligned}
+$$
+
+
+
+
+
