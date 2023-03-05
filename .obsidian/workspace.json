@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3f96bdbf2529712",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +187,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76d9f0bfa37932a5",
+  "active": "f3f96bdbf2529712",
   "lastOpenFiles": [
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Digital_circuit/Some Important Proofs in Logic Algebra.md",
