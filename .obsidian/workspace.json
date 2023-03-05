@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ea7d08c128fe2b39",
+        "id": "17c0338d31d327fb",
         "type": "tabs",
         "children": [
           {
-            "id": "03b7363e5eb7cb4f",
+            "id": "15b55a9c1e7062ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/2022-2023 Index 1 Knowledge Distilling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c25ef5f7a786feca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/FL+KD.md",
+                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/2022-2023 Index 1 Knowledge Distilling.md",
+                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/2022-2023 Index 1 Knowledge Distilling.md",
+                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/2022-2023 Index 1 Knowledge Distilling.md"
+                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md"
               }
             }
           },
@@ -180,12 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03b7363e5eb7cb4f",
+  "active": "15b55a9c1e7062ed",
   "lastOpenFiles": [
     "Research/FL+KD.md",
+    "Research/2022-2023 Index 1 Knowledge Distilling.md",
     "PDF/FL+KD.pdf",
     "Research/Introduction of Knowledge Distilling.md",
-    "Research/2022-2023 Index 1 Knowledge Distilling.md",
     "Digital_circuit/Some Important Proofs in Logic Algebra.md",
     "Digital_circuit/Logic Algebra.md",
     "Miscellaneous/2022-2023 第二学期 人工智能基础 讨论班.md",
