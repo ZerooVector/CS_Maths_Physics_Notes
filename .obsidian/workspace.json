@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fddeef629c930357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning/Index of RL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "27efbcad439a03cb",
             "type": "leaf",
             "state": {
@@ -30,9 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85e8b2ea17119b4c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,6 +181,8 @@
   "lastOpenFiles": [
     "Reinforcement Learning/Index of RL.md",
     "Research/Introduction of Knowledge Distilling.md",
+    "Research/2022-2023 Index 1 Knowledge Distilling.md",
+    "Attachments/Pasted image 20230305102509.png",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Untitled 1",
     "Research",
@@ -203,7 +200,6 @@
     "Attachments/Pasted image 20230303161447.png",
     "Attachments/Pasted image 20230303154859.png",
     "Attachments/Pasted image 20230303154224.png",
-    "Attachments/Pasted image 20230303153443.png",
     "Matrix_Analysis/Ep.8.md",
     "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
     "Attachments/Ep.8 2023-03-03 10.34.40.excalidraw.md",
@@ -221,8 +217,6 @@
     "Digital_circuit/Complex Logic Gates and Functions.md",
     "Digital_circuit/Basic Appointment in Digital Circuit.md",
     "Digital_circuit/Index of digital circuit.md",
-    "Optimization method and Ops Rsch/Introduction to Optimization Method.md",
-    "PDF/The general form of Opt Problem.md",
     "PDF/Expectation Maximum Algorithm.pdf",
     "Untitled.canvas",
     "PDF/Ep.2 Machine Learning (1).pdf",
