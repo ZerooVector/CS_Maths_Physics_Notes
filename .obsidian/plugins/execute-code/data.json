@@ -24,7 +24,7 @@
   "pythonPath": "D:/anaconda/install/python.exe",
   "pythonArgs": "",
   "pythonEmbedPlots": true,
-  "pythonInject": "import numpy as np\nimport pandas as pd\nimport matplotlib as mlt\nimport matplotlib.pyplot as plt\nimport scipy \n",
+  "pythonInject": "import numpy as np\nimport pandas as pd\nimport matplotlib as mlt\nimport matplotlib.pyplot as plt\nimport scipy \nimport seaborn",
   "shellPath": "bash",
   "shellArgs": "",
   "shellFileExtension": "sh",

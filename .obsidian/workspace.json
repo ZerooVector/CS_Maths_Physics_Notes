@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
-                "mode": "preview",
+                "file": "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+                "file": "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+                "file": "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md"
+                "file": "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md"
               }
             }
           },
@@ -181,9 +181,9 @@
   },
   "active": "8572fc695b231c72",
   "lastOpenFiles": [
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Chapter 4 SQL.md",
     "PDF/Chapter 4 SQL.pdf",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/tt.csv",
     "Machine_Learning_and_Data_Science/~$tt.xlsx",
     "Machine_Learning_and_Data_Science/tt.xlsx",

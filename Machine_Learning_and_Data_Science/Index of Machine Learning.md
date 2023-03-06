@@ -43,3 +43,10 @@ plt.plot(a,b,color = 'r',)
 plt.show()
 
 ```
+
+
+```python
+from sklearn.linear_model import LogisticRegression as LR 
+from sklearn.datasets import load_breast_cancer
+
+```
