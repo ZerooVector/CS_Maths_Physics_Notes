@@ -14,25 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Reinforcement Learning/Index of RL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5d530a1757e971c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miscellaneous/test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/test.md",
+                "file": "Reinforcement Learning/Index of RL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/test.md",
+                "file": "Reinforcement Learning/Index of RL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/test.md"
+                "file": "Reinforcement Learning/Index of RL.md"
               }
             }
           },
@@ -180,8 +167,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d5d530a1757e971c",
+  "active": "85be16a519886223",
   "lastOpenFiles": [
+    "Miscellaneous/test.md",
     "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "Reinforcement Learning/Index of RL.md",
@@ -194,7 +182,6 @@
     "Machine_Learning_and_Data_Science/tt.xlsx",
     "Machine_Learning_and_Data_Science/~建 Microsoft Excel 工作表.tmp",
     "Machine_Learning_and_Data_Science/新建 Microsoft Excel 工作表.xlsx",
-    "Miscellaneous/test.md",
     "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
     "Untitled.canvas",
     "MCM_ICM/2021 D The Influence of Music.md",
