@@ -1,6 +1,5 @@
 ```jupyter
-a = 3
-print(a)
+a=3
 ```
 
 ## 模式的定义
@@ -17,7 +16,7 @@ CREATE TABLE SST.Student -- 声明想要建立一张表
 	Ssex CHAR(2),
 	Sdept CHAR(12),
 	CONSTRAINT C1 CHECK (Ssex IN ('男','女')), --定义列级约束（可以和属性一起定义，也可以单独定义）
-	CONSTRAINR S_PK PRIMARY KEY (Sno) -- 定义表级约束
+	CONSTRAINT S_PK PRIMARY KEY (Sno) -- 定义表级约束
 );
 ```
 
@@ -45,3 +44,9 @@ ALTER TABLE Student
 ALTER TABLE Student
 	AlTER Sname CHAR(20) -- 修改数据的类型，可能导致数据截断
 ```
+
+```sql
+
+```
+
+除了修改表之外，我们可以建立**索引**来提高查询的速度，使用 `CREATE [UNIQUE] [CLUSTER] INDEX <索引名> ON <表名> (<列名>[<次序>],...]` 来建立索引

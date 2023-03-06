@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "ea17558a4287ab9b",
+            "id": "1d5abb194d96e4eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -164,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 235.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +180,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ea17558a4287ab9b",
+  "active": "1d5abb194d96e4eb",
   "lastOpenFiles": [
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Chapter 4 SQL.md",
