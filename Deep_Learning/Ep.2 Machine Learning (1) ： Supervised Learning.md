@@ -7,8 +7,8 @@ Unknown environments and system construction
 
 ![[Pasted image 20230227105243.png]]
 
-## Supervised Learning
-### 总结
+
+## 监督学习要学什么？
 监督学习学的是函数：一共可能有三种函数：point set/explicit/implicit
 
 ->Save solutions to problems and retrieve them when encountering the same problem
@@ -27,7 +27,7 @@ We try to learn a function: $f: X\rightarrow Y$,but we cannot always find a clos
 ![[Pasted image 20230227111313.png]]
 具体估价函数如何设置，请参考强化学习[[Ep.1 Introduction to RL]]
 
-### Def
+## Def
 Supervised Learning is a method which we **learn a function from examples**.
 $f$ is the target function, and an example pair is $(x,f(x))$
 Then, we find a hypothesis $h$, we should obtain that $h \approx f$ under a given training set.
@@ -42,7 +42,7 @@ Two key Prob:
 - 数据不能太大，也要进行适当的清洗
 ***Ockham’s razor: prefer the simplest hypothesis consistent with data***
 
-### A Discrete Function——Decision Tree
+## A Discrete Function——Decision Tree
 ##### A Demo Problem : The Waiting Time of a Testaurant
 ![[Pasted image 20230227114049.png|450]]
 
@@ -67,7 +67,7 @@ $$
 ##### Another Example ：Play Tennis
 ##### 留做习题答案略，读者自证不难
 
-#### Overfitting of Decision Trees
+### Overfitting of Decision Trees
 ![[Pasted image 20230306101319.png|350]]
 
 目前，人们都会使用大量的数据来解决 Overfitting 的问题，但是无论使用了多么大的数据，目前都不能保证数据中没有噪声。因此，我们可以使用别的手段来预防 Overfitting:
@@ -76,9 +76,65 @@ $$
 注意：两种方式都需要定义新的优化目标。
 实际上，我们需要在函数复杂度 (Function Complexity) 和训练精确度 (Training Accurancy) 之间找到一个平衡。一种目标是 Minimum Description Length（最小描述长度）：Explain the train data under decision tree. The tree with the shortest explanation is the best one.
 
-#### MDL 方法
+### MDL 方法
 $$
 Description\ Length = Size\ of \ Hypothesis + Additional\ Cost
 $$
-我们需要对决策树的函数本身和不能被决策树展开的
+![[Pasted image 20230306103743.png]]
+我们需要对决策树的函数本身和不能被决策树解释的变量进行编码。编码的规则是：对树进行 DFS，“1”表示找到非叶节点，“0”表示找到叶节点，“P”代表分类为正，“N”表示分类为负，然后我们可以对这个字符串进行编码：
+“1 Outlook 0 P 1 Humidity 0 N 0 P 1 Windy 0 N 0 P 1 Temperature 0 N 0 N 0 P“（这个字符串是从左侧比较复杂的树中提取得到的）
+
+这里，“1”和“0”各需要 1bit 进行编码，“N”和“P”也个需要 1bit 进行编码，"Outlook"需要 $\log_2 4$ bit,"Humidity"需要 $\log_2 3$ bit，以此类推，所需要的编码长度是 24.585bit
+
+如果使用了简单的树，我们需要对例外的数据进行编码：
+![[Pasted image 20230306103808.png|400]]
+我们需要指出异常数据在所有可能数据中的位置，所有可能的数据是 $3\times 3\times 2\times 3$ 种，因此需要 $\log_2 54$ bit 进行编码；如果再有一个错误，显然需要 $\log_2 53$ bit 进行编码，以此类推。
+
+有两种优化的方法：第一是生成的时候就使得 MDL 最小；另一种方法则是从底端不断剪枝，直到 MDL 不再下降
+
+## A Statistical Function——Bayesian Learning
+According to Bayes's rule:
+$$
+P(h|D) = \frac{P(D,h)}{P(D)} = \frac{P(D|h)P(h)}{P(D)}
+$$
+$P(D,h)$ is called **Joint Probability**（联合概率）, $P (h)$ is called **Prior Probability** （先验概率）, and $P(h|D)$ is called **Posterior Probability**（后验概率），$P (D|h)$ is called **Class-conditional Probability**（类别条件概率）
+
+Maximum A Posterior (MAP) Criterion is a process finding the most probable hypothesis:
+$$
+\begin{aligned}
+h_{MAP} &= \arg \min_h P(h|D)\\
+&= \arg \min_h P(D|h)P(h)
+\end{aligned}
+$$
+直观上，是最大化 $h$ 类出现的先验概率与数据 $D$ 下 $h$ 出现概率的乘积（分母上是数据 $D$ 下出现所有类别的乘积，用于归一化，可以不用管）实际上，$h$ 可以变成函数中的参数，等等
+
+##### Example : Cancer Dig
+![[Pasted image 20230306110528.png|400]]
+$$
+P(cancer|+) = P(cancer ) \times P(+|cancer) = 0.0078 \ \ ,\ \ P(\neg cancer|+) = 0.0298
+$$
+实际上，在特征非常多的的时候，我们希望对模型进行一些简化（比如，计算联合概率时会相当复杂）。这些简化可能包括：
+- 朴素贝叶斯分类器
+- 贝叶斯信念网络
+- 高斯混合模型：将若干个高斯分布加权组合
+
+### Naive Bayesian Classifiers
+核心：**假设变量的条件独立**
+$$
+P(D|h)=P(d_1,d_2,\cdots,d_n|h) = \prod_i P(d_i|h)
+$$
+这种情况下，你只需要统计假设 $h$ 出现的情况下，分量 $d_i$ 出现的概率。
+
+##### Example : Junk Emails
+找到 1000 篇文章，700 篇不喜欢，300 篇喜欢。现在你要统计所有的类别条件概率：
+![[Pasted image 20230306112634.png|400]]
+
+需要统计第 $i$ 个类别的前提下，在第 $j$ 个位置出现了词典里的第 $k$ 个单词的概率，但是这太大了，于是我们转而统计第 $i$ 个类别的前提下，出现了词典里第 $k$ 个单词的概率，忽略了位置信息。
+以频率估计概率的时候，分子上+1，防止有未出现的词；分母上加上字典中词语的数目（这一项比较玄学）
+
+
+
+
+
+
 
