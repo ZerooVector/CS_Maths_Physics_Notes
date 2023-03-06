@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -151,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +169,9 @@
   },
   "active": "15b55a9c1e7062ed",
   "lastOpenFiles": [
-    "MCM_ICM/2021 D The Influence of Music.md",
+    "Untitled.canvas",
     "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
+    "MCM_ICM/2021 D The Influence of Music.md",
     "Attachments/Pasted image 20230306121448.png",
     "Attachments/Pasted image 20230306120746.png",
     "Attachments/Pasted image 20230306120203.png",
@@ -212,7 +211,6 @@
     "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
     "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
     "PDF/Expectation Maximum Algorithm.pdf",
-    "Untitled.canvas",
     "PDF/Ep.2 Machine Learning (1).pdf",
     "PDF/Week 1 Homework for Matrix Analysis.pdf",
     "PDF/Data Projection and PCA.pdf",
