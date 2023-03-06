@@ -76,5 +76,11 @@ $$
 以上算法的集大成
 
 ```python
+import torch
 print("Hello World")
+```
+
+``` jupyter 
+a = 3
+print(a)
 ```
