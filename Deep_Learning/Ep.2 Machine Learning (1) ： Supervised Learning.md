@@ -8,6 +8,9 @@ Unknown environments and system construction
 ![[Pasted image 20230227105243.png]]
 
 ## Supervised Learning
+### 总结
+监督学习学的是函数：一共可能有三种函数：point set/explicit/implicit
+
 ->Save solutions to problems and retrieve them when encountering the same problem
 We try to learn a function: $f: X\rightarrow Y$,but we cannot always find a closed form of $f$
 
@@ -30,8 +33,8 @@ $f$ is the target function, and an example pair is $(x,f(x))$
 Then, we find a hypothesis $h$, we should obtain that $h \approx f$ under a given training set.
 
 Two key Prob:
-- How to define the form of function?
-- How to optimize its paras. And even structure?
+- How to define the form of function?（定义这个函数）
+- How to optimize its paras. And even structure?（优化这个函数）
 
 ##### Example : Curve Fitting
 ![[Pasted image 20230227112330.png|400]]
@@ -64,6 +67,18 @@ $$
 ##### Another Example ：Play Tennis
 ##### 留做习题答案略，读者自证不难
 
-#### Overfit of Decision Trees
+#### Overfitting of Decision Trees
+![[Pasted image 20230306101319.png|350]]
 
+目前，人们都会使用大量的数据来解决 Overfitting 的问题，但是无论使用了多么大的数据，目前都不能保证数据中没有噪声。因此，我们可以使用别的手段来预防 Overfitting:
+- Stop growing the tree earlier, before it reached the perfect point.（训练集上，通过无限增大模型的复杂度，总可以使得准确率达到 100%）
+- Post-prune 
+注意：两种方式都需要定义新的优化目标。
+实际上，我们需要在函数复杂度 (Function Complexity) 和训练精确度 (Training Accurancy) 之间找到一个平衡。一种目标是 Minimum Description Length（最小描述长度）：Explain the train data under decision tree. The tree with the shortest explanation is the best one.
+
+#### MDL 方法
+$$
+Description\ Length = Size\ of \ Hypothesis + Additional\ Cost
+$$
+我们需要对决策树的函数本身和不能被决策树展开的
 
