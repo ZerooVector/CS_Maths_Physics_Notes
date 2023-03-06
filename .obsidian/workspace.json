@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "17c0338d31d327fb",
+        "id": "fd7f906d1d4f7b8d",
         "type": "tabs",
         "children": [
           {
-            "id": "15b55a9c1e7062ed",
+            "id": "8572fc695b231c72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea17558a4287ab9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning_and_Data_Science/Chapter 4 SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 4 SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 4 SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md"
+                "file": "Machine_Learning_and_Data_Science/Chapter 4 SQL.md"
               }
             }
           },
@@ -150,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,14 +178,17 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "canvas:Create new canvas": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "15b55a9c1e7062ed",
+  "active": "ea17558a4287ab9b",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Chapter 4 SQL.md",
+    "Miscellaneous/test.md",
     "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
+    "Untitled.canvas",
     "MCM_ICM/2021 D The Influence of Music.md",
     "Attachments/Pasted image 20230306121448.png",
     "Attachments/Pasted image 20230306120746.png",
@@ -208,8 +226,6 @@
     "Untitled 1",
     "Research",
     "PDF/2022-2023 第二学期 人工智能基础 讨论班.pdf",
-    "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
-    "Matrix_Analysis/Week 1 Homework for Matrix Analysis.md",
     "PDF/Expectation Maximum Algorithm.pdf",
     "PDF/Ep.2 Machine Learning (1).pdf",
     "PDF/Week 1 Homework for Matrix Analysis.pdf",

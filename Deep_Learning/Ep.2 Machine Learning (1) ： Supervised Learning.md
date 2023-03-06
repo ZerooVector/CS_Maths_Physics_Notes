@@ -196,10 +196,3 @@ $$
 ![[Pasted image 20230306121448.png|500]]
 
 
-```jupyter
-a = 3
-b = 5
-print(a+b)
-```
-
-
