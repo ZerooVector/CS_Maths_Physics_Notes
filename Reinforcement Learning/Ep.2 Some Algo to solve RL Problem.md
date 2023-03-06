@@ -104,7 +104,7 @@ Q-Learning 在更新时，完全依赖于历史经验（off-policy, 行动时使
 ### 
 
 ## Actor-Critic
-
+是一种将 Q-learning 和 Policy Gradient 结合的策略。
 
 
 
