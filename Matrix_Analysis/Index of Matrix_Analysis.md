@@ -34,7 +34,7 @@ Syllabus:
 [[Eigen Value Decomposition(1) Basic Introduction]]
 [[Eigen Value Decomposition(2) Some Applications]]
 [[Singular Value Decomposition(1)]]
-
+[[Singular Value Decomposition(2)]]
 
 ## BIT Course
 这是 BIT 人工智能学院开设的一门课
