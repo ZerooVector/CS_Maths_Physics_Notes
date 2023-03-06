@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 4 SQL.md",
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 4 SQL.md",
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 4 SQL.md"
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md"
               }
             }
           },
@@ -180,10 +179,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1d5abb194d96e4eb",
+  "active": "8572fc695b231c72",
   "lastOpenFiles": [
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Chapter 4 SQL.md",
+    "PDF/Chapter 4 SQL.pdf",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/tt.csv",
+    "Machine_Learning_and_Data_Science/~$tt.xlsx",
+    "Machine_Learning_and_Data_Science/tt.xlsx",
+    "Machine_Learning_and_Data_Science/~建 Microsoft Excel 工作表.tmp",
+    "Machine_Learning_and_Data_Science/新建 Microsoft Excel 工作表.xlsx",
     "Miscellaneous/test.md",
     "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
     "Untitled.canvas",
@@ -220,14 +225,7 @@
     "Digital_circuit/Logic Algebra.md",
     "Miscellaneous/2022-2023 第二学期 人工智能基础 讨论班.md",
     "Research/FL+KD",
-    "Reinforcement Learning/Index of RL.md",
     "Untitled 1",
-    "Research",
-    "PDF/2022-2023 第二学期 人工智能基础 讨论班.pdf",
-    "PDF/Expectation Maximum Algorithm.pdf",
-    "PDF/Ep.2 Machine Learning (1).pdf",
-    "PDF/Week 1 Homework for Matrix Analysis.pdf",
-    "PDF/Data Projection and PCA.pdf",
-    "Banners_and_Ornaments/Minecraft AE(支持中文).ttf"
+    "Research"
   ]
 }

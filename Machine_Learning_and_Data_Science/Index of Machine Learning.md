@@ -29,4 +29,17 @@
 [[Chapter 3 Relation DataBase]]
 [[Chapter 4 SQL]]
 
+```python
 
+
+
+a = [2,3,5,7]
+b = [1,3,7,9]
+
+d = pd.read_csv("E:/obisdian_notebook/CS_Maths_Physics/Machine_Learning_and_Data_Science/tt.csv")
+print(d.head())
+
+plt.plot(a,b,color = 'r',)
+plt.show()
+
+```

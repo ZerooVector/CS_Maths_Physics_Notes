@@ -12,5 +12,6 @@
   "obsidian-banners",
   "obsidian-git",
   "obsidian-image-toolkit",
-  "obsidian-jupyter"
+  "obsidian-jupyter",
+  "execute-code"
 ]
