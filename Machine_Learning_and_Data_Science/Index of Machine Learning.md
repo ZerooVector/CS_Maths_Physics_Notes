@@ -33,8 +33,8 @@
 
 
 
-a = [2,3,5,7]
-b = [1,3,7,9]
+a = [2,3,5,7,29,443,3223]
+b = [1,3,7,9,12,3244,32332]
 
 d = pd.read_csv("E:/obisdian_notebook/CS_Maths_Physics/Machine_Learning_and_Data_Science/tt.csv")
 print(d.head())
