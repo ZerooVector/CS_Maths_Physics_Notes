@@ -11,34 +11,28 @@
             "id": "15b55a9c1e7062ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "76d9f0bfa37932a5",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f3f96bdbf2529712",
+            "id": "cde5e6b1badaeb5b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Matrix_Analysis/Singular Value Decomposition(1).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -104,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md",
+                "file": "Matrix_Analysis/Singular Value Decomposition(1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md",
+                "file": "Matrix_Analysis/Singular Value Decomposition(1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/Some Important Proofs in Logic Algebra.md"
+                "file": "Matrix_Analysis/Singular Value Decomposition(1).md"
               }
             }
           },
@@ -187,9 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3f96bdbf2529712",
+  "active": "cde5e6b1badaeb5b",
   "lastOpenFiles": [
     "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Singular Value Decomposition(1).md",
+    "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
+    "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "Digital_circuit/Some Important Proofs in Logic Algebra.md",
     "Matrix_Analysis/Week 2 Homework of Matrix Decomposition.md",
     "Digital_circuit/Index of digital circuit.md",
@@ -222,14 +220,11 @@
     "Attachments/Ep.8 2023-03-03 10.34.40.excalidraw.md",
     "Matrix_Analysis/Cholesky Decomposition.md",
     "Matrix_Analysis/Orthogonal Projection.md",
-    "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
     "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
     "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
     "Deep_Learning/Index of Deep Learning.md",
     "Deep_Learning/Ep.1 Introduction of Introduction.md",
-    "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
-    "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
     "PDF/Expectation Maximum Algorithm.pdf",
     "Untitled.canvas",
     "PDF/Ep.2 Machine Learning (1).pdf",

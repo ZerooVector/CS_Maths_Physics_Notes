@@ -33,6 +33,7 @@ Syllabus:
 [[Cholesky Decomposition]]
 [[Eigen Value Decomposition(1) Basic Introduction]]
 [[Eigen Value Decomposition(2) Some Applications]]
+[[Singular Value Decomposition(1)]]
 
 
 ## BIT Course
