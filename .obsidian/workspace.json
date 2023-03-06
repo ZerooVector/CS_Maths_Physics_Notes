@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
+                "file": "Miscellaneous/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
+                "file": "Miscellaneous/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
+                "file": "Miscellaneous/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Ep.3 Single Agent Deep RL.md"
+                "file": "Miscellaneous/test.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "d5d530a1757e971c",
   "lastOpenFiles": [
-    "Reinforcement Learning/Index of RL.md",
     "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
+    "PDF/Ep.3 Single Agent Deep RL.pdf",
+    "Reinforcement Learning/Index of RL.md",
     "Machine_Learning_and_Data_Science/Chapter 4 SQL.md",
     "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
@@ -225,9 +226,7 @@
     "Research/FL+KD.md",
     "Research/2022-2023 Index 1 Knowledge Distilling.md",
     "PDF/FL+KD.pdf",
-    "Research/Introduction of Knowledge Distilling.md",
     "Research/FL+KD",
-    "Untitled 1",
-    "Research"
+    "Untitled 1"
   ]
 }
