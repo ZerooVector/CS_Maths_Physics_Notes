@@ -114,3 +114,37 @@ $$
 $$
 A+\bar AB = A+B
 $$
+#### 并项法
+利用 $A+A'=1, A+A=A, AB+A'C+BC = AB+A'C$，等等
+$$
+\begin{aligned}
+F &= AB'+BC'+B'C+A'B\\
+ &= AB'+BC'+(A+A')B'C+A'B(C+C')
+\end{aligned}
+$$
+
+
+$$
+\begin{align*}
+Y  &= ABC+ABD+A'BC'+CD+BD'\\\\
+&= B(A+A'C')+BD'+CD\\
+ &= AB+BC'+BD'+CD \\
+&= AB+CD+ BCD\\
+&= B+CD
+\end{align*}
+$$
+## 其他表达式的化简
+最简“或与”式的化简，只需要先求对偶式，再在对偶式下化简，再返回来，就得到最简或与式。
+##### Example
+已知一个或与表达式的对偶式如下：
+$$
+\begin{align*}
+F' &= AC+B'C+AD'+CD'+AB+AC'+A'BCD'+AB'DE\\
+
+\end{align*}
+$$
+##### 留做习题答案略
+
+最简
+
+最简与非-与非表达式只需要先将最简与或表达是求反加非，打开最下面的非号即可

@@ -35,6 +35,7 @@ Syllabus:
 [[Eigen Value Decomposition(2) Some Applications]]
 [[Singular Value Decomposition(1)]]
 [[Singular Value Decomposition(2)]]
+[[Derivatives of Multivariable Functions]]
 
 
 
