@@ -57,6 +57,39 @@ P(X_i=m_{i})= C_{n}^{m_{1}}C_{n-m_{1}}^{m_{2}}\cdots \prod \mu_{k}^{m_{k}}= \fra
 $$
 ### Dir 分布
 $$
-Dir(\mu|\alpha) = \frac{\Gamma(\sum \alpha_{i})}{\prod \Gamma(\alpha_{i})}\prod \mu_k^{\alpha_{i}-1}
+Dir(\mu|\alpha) = \frac{\Gamma(\sum \alpha_{i})}{\prod \Gamma(\alpha_{i})}\prod \mu_k^{\alpha_{k}-1}
 $$
+在二维的情况下，显然我们有 $\mu_{2} = 1-\mu_{1}$，那么分布关于 $\mu_{1}$ 的图像是：
+![[Pasted image 20230307164909.png|350]]
+那么，拿抛硬币来讲，横轴就是扔出正面的概率，$\alpha$ 就是扔出正面的次数，$\beta$ 是扔出反面的次数。Dir 分布试图通过已有的事实 $\alpha_k$，估计一个随机数生成器中的参数 $\mu_k$ 是怎样分布的。
 
+你可以把 Dir 分布写成这样的形式：
+$$
+Dir(\mu |\alpha) = \frac{1}{\Delta(\alpha)}\prod \mu_{k}^{\alpha_{k}-1}
+$$
+Dir 分布的期望
+$$
+\begin{align*}
+E(p) &= \int [Constant]\times t \times t^{\alpha-1}(1-t)^{\beta-1} \\
+ &=  \frac{\Gamma(\alpha+1)}{\Gamma(\alpha)}\times \frac{\Gamma(\alpha+\beta)}{\Gamma(\alpha+\beta+1)}
+\end{align*}
+$$
+因此，$k$ 维 Dir 分布的期望是：
+$$
+E(p) = [\frac{\alpha_{k}}{\sum \alpha_{k}}]
+$$
+### Bayes 公式
+$$
+P(A|B) = \frac{P(AB)}{P(B)} = \frac{P(B|A)P(A)}{P(B)}
+$$
+$P (A)$ 成为先验，$P(B|A)$ 是似然，$P(A|B)$ 是后验，$P(AB)$ 是联合，$P(B)$ 是证据
+### Dir 多项共轭
+可以证明：多项分布和 Dir 分布是共轭的（简化形式：$\beta$ 分布和二项分布是共轭的，也就是说，$\beta$ 分布是用结果推导参数；二项分布则是用参数估计结果）
+$$
+Dir(\mu|\alpha) + Multi(m) = Dir(\mu|\alpha+m)
+$$
+（观察到事情发生了 $m$ 次，加入到 Dir 分布的参数中）
+
+## LDA 的训练
+### 第一个过程：由超参数 $\alpha$ 生成每篇文章的主题分布 $\theta$
+先抽取了一个 doc-topic 骰子，投掷它很多次，生成文章的 topic 编号，那么，$\beta_{j}\sim Dir (\alpha), z_{i}\sim Mult(\theta_j)$
