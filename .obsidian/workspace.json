@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -171,6 +170,9 @@
   },
   "active": "85743a5d7557e514",
   "lastOpenFiles": [
+    "Machine_Learning_and_Data_Science/SQL Learn.md",
+    "Machine_Learning_and_Data_Science/SQL Public.md",
+    "Matrix_Analysis/Derivatives of Multivariable Functions.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Singular Value Decomposition(2).md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
@@ -191,10 +193,8 @@
     "Attachments/K-Map 2023-03-07 14.26.41.excalidraw.md",
     "Attachments/9b03eb8da4bc578911a80174410a5a2.jpg",
     "Digital_circuit/Index of digital circuit.md",
-    "Matrix_Analysis/Derivatives of Multivariable Functions.md",
     "Digital_circuit/Complex Logic Gates and Functions.md",
     "Digital_circuit/Some Important Proofs in Logic Algebra.md",
-    "Machine_Learning_and_Data_Science/SQL Public.md",
     "Attachments/Singular Value Decomposition(2) 2023-03-07 13.07.31.excalidraw.md",
     "Reinforcement Learning/Index of RL.md",
     "PDF/Index of RL.pdf",
@@ -215,7 +215,6 @@
     "Attachments/Pasted image 20230306121448.png",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "MCM_ICM/2022 C Trading Strategies.md",
-    "MCM_ICM/2022 E Forestry for Carbon Sequestration.md",
     "PDF/FL+KD.pdf",
     "Research/FL+KD"
   ]

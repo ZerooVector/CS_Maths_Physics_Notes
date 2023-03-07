@@ -21,3 +21,18 @@ $$
 - 已有的方向
 - 相比于已有的好在哪
 
+$$
+\frac{ax^{-2}}{bx+c_{1}x_{4}^{3}} 
+$$
+$$
+\begin{align*}
+Y &= ax+by+cz\\
+&= df+frfr\\
+&= rfrfkre
+\end{align*}
+$$
+
+$$
+\begin{bmatrix}a & b \\ c &d\end{bmatrix}
+$$
+
