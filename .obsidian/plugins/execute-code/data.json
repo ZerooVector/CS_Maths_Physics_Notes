@@ -1,5 +1,5 @@
 {
-  "lastOpenLanguageTab": "python",
+  "lastOpenLanguageTab": "sql",
   "timeout": 30000,
   "allowInput": true,
   "wslMode": false,
@@ -98,7 +98,7 @@
   "rubyPath": "ruby",
   "rubyArgs": "",
   "rubyInject": "",
-  "sqlPath": "psql",
+  "sqlPath": "D:/mysql/install/MySQL Shell 8.0/bin/mysqlsh.exe",
   "sqlArgs": "-d <database> -U <user> -f",
   "sqlInject": "",
   "jsInteractive": true,

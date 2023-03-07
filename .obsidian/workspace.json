@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d48aabeb1dd52290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning_and_Data_Science/SQL Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Index of RL.md",
+                "file": "Machine_Learning_and_Data_Science/SQL Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Index of RL.md",
+                "file": "Machine_Learning_and_Data_Science/SQL Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Index of RL.md"
+                "file": "Machine_Learning_and_Data_Science/SQL Test.md"
               }
             }
           },
@@ -167,12 +180,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "85be16a519886223",
+  "active": "d48aabeb1dd52290",
   "lastOpenFiles": [
+    "Reinforcement Learning/Index of RL.md",
+    "Machine_Learning_and_Data_Science/SQL Test.md",
+    "PDF/Index of RL.pdf",
     "Miscellaneous/test.md",
     "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
-    "Reinforcement Learning/Index of RL.md",
     "Machine_Learning_and_Data_Science/Chapter 4 SQL.md",
     "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
@@ -213,7 +228,6 @@
     "Research/FL+KD.md",
     "Research/2022-2023 Index 1 Knowledge Distilling.md",
     "PDF/FL+KD.pdf",
-    "Research/FL+KD",
-    "Untitled 1"
+    "Research/FL+KD"
   ]
 }
