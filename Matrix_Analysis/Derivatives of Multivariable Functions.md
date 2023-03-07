@@ -63,6 +63,19 @@ f(x_{1}+\Delta x_{1},x_{2}+\Delta x_{2})- f(x_{1},x_{2}) \approx \frac{\partial 
 $$
 也就是说，
 $$
-\Delta f  \approx 
+\Delta f  \approx [\Delta x_{1} ,\Delta x_{2}][\frac{\partial f(x)}{\partial x_{1}},\frac{\partial f(x)}{\partial x_2}]^T
 $$
+这也就给出了任意方向上函数值的变化。我们还可以取 $[\Delta x_{1},\Delta x_{2}]  = [\cos \theta_{1},\cos \theta_{2}]$，使之成为单位向量。这个时候：
+$$
+\nabla_{v}f(x) = \nabla f(x)\cdot v = ||\nabla f(x)||\cos (\theta)
+$$
+![[Pasted image 20230308010257.png|300]]
+
+## Taylor 展开
+一个函数在某点处的泰勒展开，将由一次、二次、三次,... 曲面依次逼近，也就是说：
+$$
+f(x)\approx f(x_{p})+\nabla f(x_{p})^{T}(x-x_{p})+ \frac{1}{2}(x-x_{p})^{T}\nabla ^{2}f(x_{p})(x-x_{p})
+$$
+![[Pasted image 20230308010613.png]]
+
 

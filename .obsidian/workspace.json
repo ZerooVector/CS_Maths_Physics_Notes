@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Derivatives of Multivariable Functions.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Derivatives of Multivariable Functions.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Derivatives of Multivariable Functions.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Derivatives of Multivariable Functions.md"
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
               }
             }
           },
@@ -171,11 +171,13 @@
   },
   "active": "85743a5d7557e514",
   "lastOpenFiles": [
+    "Matrix_Analysis/Derivatives of Multivariable Functions.md",
+    "Attachments/Pasted image 20230308010613.png",
+    "Attachments/Pasted image 20230308010257.png",
     "Attachments/Pasted image 20230308004155.png",
     "Attachments/Pasted image 20230308003454.png",
     "Attachments/Pasted image 20230308003109.png",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Matrix_Analysis/Derivatives of Multivariable Functions.md",
     "Machine_Learning_and_Data_Science/SQL Learn.md",
     "Machine_Learning_and_Data_Science/SQL Public.md",
     "Matrix_Analysis/Singular Value Decomposition(2).md",
@@ -188,9 +190,6 @@
     "Attachments/Pasted image 20230307162259.png",
     "Attachments/Pasted image 20230307161657.png",
     "Attachments/Pasted image 20230307161614.png",
-    "Attachments/Pasted image 20230307161538.png",
-    "Attachments/Pasted image 20230307155317.png",
-    "Attachments/Pasted image 20230307155120.png",
     "Attachments/Topic Modeling 2023-03-07 15.41.06.excalidraw.md",
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Digital_circuit/K-Map.md",
