@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1e6b9fd1b4bf35c3",
+        "id": "0e132db38843e8e0",
         "type": "tabs",
         "children": [
           {
-            "id": "85be16a519886223",
+            "id": "acfc935c54d4ea31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Index of RL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d48aabeb1dd52290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine_Learning_and_Data_Science/SQL Test.md",
+                "file": "Matrix_Analysis/Singular Value Decomposition(2).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/SQL Test.md",
+                "file": "Matrix_Analysis/Singular Value Decomposition(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/SQL Test.md",
+                "file": "Matrix_Analysis/Singular Value Decomposition(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/SQL Test.md"
+                "file": "Matrix_Analysis/Singular Value Decomposition(2).md"
               }
             }
           },
@@ -163,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +169,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d48aabeb1dd52290",
+  "active": "acfc935c54d4ea31",
   "lastOpenFiles": [
     "Reinforcement Learning/Index of RL.md",
-    "Machine_Learning_and_Data_Science/SQL Test.md",
+    "Machine_Learning_and_Data_Science/SQL Public.md",
     "PDF/Index of RL.pdf",
     "Miscellaneous/test.md",
     "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
