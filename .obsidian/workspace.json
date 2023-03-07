@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "17233367bbab6709",
+        "id": "feecf083c2c07917",
         "type": "tabs",
         "children": [
           {
-            "id": "d1f4a374fea8cda8",
+            "id": "85743a5d7557e514",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c8554c73f71b702",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine_Learning_and_Data_Science/Topic Modeling.md",
+                "file": "Matrix_Analysis/Derivatives of Multivariable Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Topic Modeling.md",
+                "file": "Matrix_Analysis/Derivatives of Multivariable Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Topic Modeling.md",
+                "file": "Matrix_Analysis/Derivatives of Multivariable Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Topic Modeling.md"
+                "file": "Matrix_Analysis/Derivatives of Multivariable Functions.md"
               }
             }
           },
@@ -182,8 +169,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7c8554c73f71b702",
+  "active": "85743a5d7557e514",
   "lastOpenFiles": [
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Singular Value Decomposition(2).md",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Topic Modeling.md",
+    "Machine_Learning_and_Data_Science/Summary of LDA.md",
+    "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
     "Attachments/Pasted image 20230307164909.png",
     "Attachments/Pasted image 20230307162553.png",
     "Attachments/Pasted image 20230307162259.png",
@@ -193,19 +186,15 @@
     "Attachments/Pasted image 20230307155317.png",
     "Attachments/Pasted image 20230307155120.png",
     "Attachments/Topic Modeling 2023-03-07 15.41.06.excalidraw.md",
-    "Machine_Learning_and_Data_Science/Topic Modeling.md",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Digital_circuit/K-Map.md",
     "Attachments/K-Map 2023-03-07 14.26.41.excalidraw.md",
     "Attachments/9b03eb8da4bc578911a80174410a5a2.jpg",
     "Digital_circuit/Index of digital circuit.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Derivatives of Multivariable Functions.md",
     "Digital_circuit/Complex Logic Gates and Functions.md",
     "Digital_circuit/Some Important Proofs in Logic Algebra.md",
     "Machine_Learning_and_Data_Science/SQL Public.md",
-    "Matrix_Analysis/Singular Value Decomposition(2).md",
     "Attachments/Singular Value Decomposition(2) 2023-03-07 13.07.31.excalidraw.md",
     "Reinforcement Learning/Index of RL.md",
     "PDF/Index of RL.pdf",
@@ -224,11 +213,9 @@
     "Untitled.canvas",
     "MCM_ICM/2021 D The Influence of Music.md",
     "Attachments/Pasted image 20230306121448.png",
-    "Attachments/Pasted image 20230306120746.png",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "MCM_ICM/2022 C Trading Strategies.md",
     "MCM_ICM/2022 E Forestry for Carbon Sequestration.md",
-    "MCM_ICM/2022 A Power Profile of a Cyclist.md",
     "PDF/FL+KD.pdf",
     "Research/FL+KD"
   ]
