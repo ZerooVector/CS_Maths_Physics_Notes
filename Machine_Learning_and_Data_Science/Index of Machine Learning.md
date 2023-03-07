@@ -14,8 +14,10 @@
 
 ## ML2
 这是北理工开设的一门机器学习课程
-[[History of ML and AI]]
-[[Expectation Maximum Algorithm]]
+
+机器学习史话—— [[History of ML and AI]]
+区分两枚不均匀的硬币—— [[Expectation Maximum Algorithm]]
+Goodmorning  SUNSHINE！—— [[Topic Modeling]]
 
 
 ## Data Science
@@ -29,24 +31,3 @@
 [[Chapter 3 Relation DataBase]]
 [[Chapter 4 SQL]]
 
-```python
-
-
-
-a = [2,3,5,7,29,443,3223]
-b = [1,3,7,9,12,3244,32332]
-
-d = pd.read_csv("E:/obisdian_notebook/CS_Maths_Physics/Machine_Learning_and_Data_Science/tt.csv")
-print(d.head())
-
-plt.plot(a,b,color = 'r',)
-plt.show()
-
-```
-
-
-```python
-from sklearn.linear_model import LogisticRegression as LR 
-from sklearn.datasets import load_breast_cancer
-
-```

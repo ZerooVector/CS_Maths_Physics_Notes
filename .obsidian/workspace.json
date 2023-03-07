@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "6e2961ed965387f4",
+        "id": "17233367bbab6709",
         "type": "tabs",
         "children": [
           {
-            "id": "222b4fd2f8d1dc1c",
+            "id": "d1f4a374fea8cda8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/Index of digital circuit.md",
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ed84b97756ec2a59",
+            "id": "7c8554c73f71b702",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/K-Map.md",
+                "file": "Machine_Learning_and_Data_Science/Topic Modeling.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/K-Map.md",
+                "file": "Machine_Learning_and_Data_Science/Topic Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/K-Map.md",
+                "file": "Machine_Learning_and_Data_Science/Topic Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/K-Map.md"
+                "file": "Machine_Learning_and_Data_Science/Topic Modeling.md"
               }
             }
           },
@@ -180,10 +180,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ed84b97756ec2a59",
+  "active": "7c8554c73f71b702",
   "lastOpenFiles": [
-    "Attachments/K-Map 2023-03-07 14.26.41.excalidraw.md",
+    "Attachments/Topic Modeling 2023-03-07 15.41.06.excalidraw.md",
+    "Machine_Learning_and_Data_Science/Topic Modeling.md",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Digital_circuit/K-Map.md",
+    "Attachments/K-Map 2023-03-07 14.26.41.excalidraw.md",
     "Attachments/9b03eb8da4bc578911a80174410a5a2.jpg",
     "Digital_circuit/Index of digital circuit.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
@@ -200,7 +204,6 @@
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "Machine_Learning_and_Data_Science/Chapter 4 SQL.md",
     "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "PDF/Chapter 4 SQL.pdf",
     "Machine_Learning_and_Data_Science/tt.csv",
     "Machine_Learning_and_Data_Science/~$tt.xlsx",
@@ -224,9 +227,6 @@
     "MCM_ICM/2022 E Forestry for Carbon Sequestration.md",
     "MCM_ICM/2022 A Power Profile of a Cyclist.md",
     "MCM_ICM/2020 D Teaming Strategies.md",
-    "MCM_ICM/2020 A Moving North.md",
-    "Deep_Learning/Index of Deep Learning.md",
-    "Matrix_Analysis/Data Projection and PCA.md",
     "PDF/FL+KD.pdf",
     "Research/FL+KD"
   ]
