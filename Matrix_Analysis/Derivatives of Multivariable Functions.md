@@ -11,28 +11,58 @@ $$
 f(x_1,x_{2})= [x_1,x_{2}]\begin{bmatrix} 1 &2   \\ 3 & 4 \end{bmatrix}
 \begin{bmatrix}x_1 \\ x_2\end{bmatrix}
 $$
-那么，
-$$
-
-$$
-
-- GNN 好
-- 已有的知识蒸馏的方法
-- 已有的方向
-- 相比于已有的好在哪
-
-$$
-\frac{ax^{-2}}{bx+c_{1}x_{4}^{3}} 
-$$
+那么，将这个二次型展开
 $$
 \begin{align*}
-Y &= ax+by+cz\\
-&= df+frfr\\
-&= rfrfkre
+f(x_1,x_{2}) &= [x_1+3x_{2},2x_{1}+4x_{2}]\begin{bmatrix}x_{1}\\
+x_2\end{bmatrix}\\
+&= x_{1}^{2}+3x_{1}x_{2}+2x_{1}x_{2}+4x_{2}^{2}
 \end{align*}
 $$
-
+因此
 $$
-\begin{bmatrix}a & b \\ c &d\end{bmatrix}
+\frac{\partial f}{\partial x_{1}}=  2x_{1}+5x_{2} = 2x_1+5x_2
+$$
+$$
+\frac{\partial f}{\partial x_{2}}= 3x_1+2x_{1}+8x_{2} = 5x_{1}+8x_{2}
+$$
+也就是说，梯度矩阵
+$$
+\nabla f(x_1,x_{2}) = \begin{bmatrix}2 & 5  \\ 5 & 8\end{bmatrix}
+$$
+容易注意到一个重要结论：
+$$
+\frac{\partial x^{T}Qx}{\partial x}= (Q+Q^{T})x
+$$
+梯度向量的方向，也就是函数值变化最快的方向：
+![[Pasted image 20230308003454.png|400]]
+
+### 二阶偏导：Hessian Matrix
+![[Pasted image 20230308003109.png|400]]
+位置 $(i,j)$ 上的元素就是 $f$ 先对 $x_i$ 求偏导，再对 $x_j$ 求偏导的结果。
+对于二次型，也有重要结论：
+$$
+H(x^{T}Qx) = Q+Q^T
+$$
+## 几何角度：法向量
+对于一个多元函数 $y  =f(x)$，我们可以将其写成等式的形式 $f (x)-y = 0$，令：
+$$
+F(x,y) = f(x)-y
+$$
+法向量的求法有结论：==但是不知道这个结论是怎么来的== ，曲面的法向量是：
+$$
+\nabla F(x,y) = [\nabla f(x),-1]^T
+$$
+直观上理解，当曲面的斜率无穷大时，这个法向量是“横着”的；当曲面的斜率为 0 时，这个法向量是竖直向下的。这个法向量在水平面上的投影就是梯度向量。
+![[Pasted image 20230308004155.png|400]]
+
+## 方向导数
+方向导数用于求解在某一点上，沿着任意方向，函数的变化率。它的想法来源于一阶泰勒展开
+$$
+f(x_{1}+\Delta x_{1},x_{2}+\Delta x_{2})- f(x_{1},x_{2}) \approx \frac{\partial f(x)}{\partial x_{1}}\Delta x_{1}+\frac{\partial f(x)}{\partial x_{2}}\Delta x_{2}
+$$
+也就是说，
+$$
+\Delta f  \approx 
 $$
 
