@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c58c6932c87757e3",
+        "id": "6e2961ed965387f4",
         "type": "tabs",
         "children": [
           {
-            "id": "ad12ae410c3e3463",
+            "id": "222b4fd2f8d1dc1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Digital_circuit/Index of digital circuit.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "79dd8eb7da41751b",
+            "id": "ed84b97756ec2a59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/Complex Logic Gates and Functions.md",
+                "file": "Digital_circuit/K-Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/Complex Logic Gates and Functions.md",
+                "file": "Digital_circuit/K-Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/Complex Logic Gates and Functions.md",
+                "file": "Digital_circuit/K-Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/Complex Logic Gates and Functions.md"
+                "file": "Digital_circuit/K-Map.md"
               }
             }
           },
@@ -180,12 +180,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "79dd8eb7da41751b",
+  "active": "ed84b97756ec2a59",
   "lastOpenFiles": [
-    "Digital_circuit/Some Important Proofs in Logic Algebra.md",
+    "Attachments/K-Map 2023-03-07 14.26.41.excalidraw.md",
+    "Digital_circuit/K-Map.md",
+    "Attachments/9b03eb8da4bc578911a80174410a5a2.jpg",
+    "Digital_circuit/Index of digital circuit.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Digital_circuit/Complex Logic Gates and Functions.md",
     "Matrix_Analysis/Derivatives of Multivariable Functions.md",
+    "Digital_circuit/Complex Logic Gates and Functions.md",
+    "Digital_circuit/Some Important Proofs in Logic Algebra.md",
     "Machine_Learning_and_Data_Science/SQL Public.md",
     "Matrix_Analysis/Singular Value Decomposition(2).md",
     "Attachments/Singular Value Decomposition(2) 2023-03-07 13.07.31.excalidraw.md",
@@ -222,11 +226,7 @@
     "MCM_ICM/2020 D Teaming Strategies.md",
     "MCM_ICM/2020 A Moving North.md",
     "Deep_Learning/Index of Deep Learning.md",
-    "Attachments/Pasted image 20230306112634.png",
     "Matrix_Analysis/Data Projection and PCA.md",
-    "Matrix_Analysis/Singular Value Decomposition(1).md",
-    "Machine_Learning_and_Data_Science/Chapter 2 Data Model.md",
-    "Matrix_Analysis/Week 2 Homework of Matrix Decomposition.md",
     "PDF/FL+KD.pdf",
     "Research/FL+KD"
   ]

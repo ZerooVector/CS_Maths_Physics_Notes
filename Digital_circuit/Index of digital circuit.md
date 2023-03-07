@@ -11,4 +11,5 @@ banner: "![[banner20.png]]"
 [[Logic Algebra]]
 [[Some Important Proofs in Logic Algebra]]
 [[Complex Logic Gates and Functions]]
+[[K-Map]]
 
