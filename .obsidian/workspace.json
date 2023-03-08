@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "feecf083c2c07917",
+        "id": "333ea1365ab44a32",
         "type": "tabs",
         "children": [
           {
-            "id": "85743a5d7557e514",
+            "id": "54367fcfe812c100",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bbb716fd914030e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Ep.9.md",
-                "mode": "source",
+                "file": "Miscellaneous/Today's Weather.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.9.md",
+                "file": "Miscellaneous/Today's Weather.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.9.md",
+                "file": "Miscellaneous/Today's Weather.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.9.md"
+                "file": "Miscellaneous/Today's Weather.md"
               }
             }
           },
@@ -182,9 +169,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6bbb716fd914030e",
+  "active": "54367fcfe812c100",
   "lastOpenFiles": [
+    "Miscellaneous/Today's Weather.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Miscellaneous/test.md",
     "Matrix_Analysis/Ep.9.md",
     "Matrix_Analysis/Ep.7 Lambda Matrix.md",
     "Matrix_Analysis/Ep.8 Smith Canonical Form.md",
@@ -218,8 +207,6 @@
     "Digital_circuit/Index of digital circuit.md",
     "Digital_circuit/Complex Logic Gates and Functions.md",
     "Digital_circuit/Some Important Proofs in Logic Algebra.md",
-    "Attachments/Singular Value Decomposition(2) 2023-03-07 13.07.31.excalidraw.md",
-    "Reinforcement Learning/Index of RL.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",
