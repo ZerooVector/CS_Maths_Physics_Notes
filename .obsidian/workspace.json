@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Lagrange Multiplier.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,14 +181,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9470cc2db222ba6b",
+  "active": "85743a5d7557e514",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230308085512.png",
+    "Attachments/Pasted image 20230308085459.png",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Derivatives of Multivariable Functions.md",
+    "Matrix_Analysis/Singular Value Decomposition(2).md",
+    "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
+    "Matrix_Analysis/Singular Value Decomposition(1).md",
+    "Matrix_Analysis/Lagrange Multiplier.md",
+    "Matrix_Analysis/Ep.8.md",
     "Attachments/Pasted image 20230308084507.png",
     "Attachments/78689dd5a9e6f0990ce195080f3944c2_1.jpg",
     "Attachments/Pasted image 20230308083554.png",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Matrix_Analysis/Lagrange Multiplier.md",
-    "Matrix_Analysis/Derivatives of Multivariable Functions.md",
     "Attachments/Pasted image 20230308010613.png",
     "Attachments/Pasted image 20230308010257.png",
     "Attachments/Pasted image 20230308004155.png",
@@ -197,14 +202,11 @@
     "Attachments/Pasted image 20230308003109.png",
     "Machine_Learning_and_Data_Science/SQL Learn.md",
     "Machine_Learning_and_Data_Science/SQL Public.md",
-    "Matrix_Analysis/Singular Value Decomposition(2).md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Topic Modeling.md",
     "Machine_Learning_and_Data_Science/Summary of LDA.md",
     "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
     "Attachments/Pasted image 20230307164909.png",
-    "Attachments/Pasted image 20230307162553.png",
-    "Attachments/Pasted image 20230307162259.png",
     "Attachments/Topic Modeling 2023-03-07 15.41.06.excalidraw.md",
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Digital_circuit/K-Map.md",
@@ -219,16 +221,13 @@
     "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "Machine_Learning_and_Data_Science/Chapter 4 SQL.md",
-    "Reinforcement Learning/Ep.2 Some Algo to solve RL Problem.md",
     "PDF/Chapter 4 SQL.pdf",
     "Machine_Learning_and_Data_Science/tt.csv",
     "Machine_Learning_and_Data_Science/~$tt.xlsx",
     "Machine_Learning_and_Data_Science/tt.xlsx",
     "Machine_Learning_and_Data_Science/~建 Microsoft Excel 工作表.tmp",
     "Machine_Learning_and_Data_Science/新建 Microsoft Excel 工作表.xlsx",
-    "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
     "Untitled.canvas",
-    "MCM_ICM/2021 D The Influence of Music.md",
     "PDF/FL+KD.pdf",
     "Research/FL+KD"
   ]
