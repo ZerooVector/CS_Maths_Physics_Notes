@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "333ea1365ab44a32",
+        "id": "93d4f9bc6b6d5fe2",
         "type": "tabs",
         "children": [
           {
-            "id": "54367fcfe812c100",
+            "id": "4682666d5453a656",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md",
-                "mode": "preview",
+                "file": "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md",
+                "file": "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md",
+                "file": "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md"
+                "file": "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md"
               }
             }
           },
@@ -169,15 +169,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "54367fcfe812c100",
+  "active": "4682666d5453a656",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230308202841.png",
+    "Attachments/Pasted image 20230308202635.png",
     "Miscellaneous/Today's Weather.md",
+    "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
+    "Attachments/Pasted image 20230308202448.png",
+    "Attachments/Pasted image 20230308195230.png",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Miscellaneous/test.md",
     "Matrix_Analysis/Ep.9.md",
     "Matrix_Analysis/Ep.7 Lambda Matrix.md",
     "Matrix_Analysis/Ep.8 Smith Canonical Form.md",
-    "Matrix_Analysis/From Lines to Hyperplanes.md",
     "Matrix_Analysis/Lagrange Multiplier.md",
     "Attachments/Pasted image 20230308133411.png",
     "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
@@ -188,9 +192,6 @@
     "Attachments/Pasted image 20230308130721.png",
     "Attachments/Pasted image 20230308105927.png",
     "Matrix_Analysis/Singular Value Decomposition(1).md",
-    "Attachments/Pasted image 20230308101024.png",
-    "Attachments/Pasted image 20230308085512.png",
-    "Attachments/Pasted image 20230308085459.png",
     "Matrix_Analysis/Derivatives of Multivariable Functions.md",
     "Matrix_Analysis/Singular Value Decomposition(2).md",
     "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
@@ -206,7 +207,6 @@
     "Attachments/K-Map 2023-03-07 14.26.41.excalidraw.md",
     "Digital_circuit/Index of digital circuit.md",
     "Digital_circuit/Complex Logic Gates and Functions.md",
-    "Digital_circuit/Some Important Proofs in Logic Algebra.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",
