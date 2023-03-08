@@ -13,3 +13,11 @@ $$
 \lambda I-A = \begin{bmatrix}\lambda-a_{11} &\cdots & \cdots & -a_{1n} \\ &\cdots&\cdots && \\ -a_{n1}&\cdots &\cdots & \lambda-a_{nn}\end{bmatrix}
 $$
 称为 $A$ 的特征矩阵
+
+##### Theorem 
+数域上的矩阵 $A, B \in \mathbb{F}^{n\times n}$ 相似，意味着它们的特征矩阵等价！
+##### PF 
+数域上的相似可以表示为：
+$$
+AP = PB
+$$
