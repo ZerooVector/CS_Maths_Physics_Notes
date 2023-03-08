@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md"
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
               }
             }
           },
@@ -171,13 +171,16 @@
   },
   "active": "4682666d5453a656",
   "lastOpenFiles": [
+    "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
+    "Attachments/Pasted image 20230308210859.png",
+    "Miscellaneous/Today's Weather.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Orthogonal Projection.md",
+    "Attachments/Pasted image 20230308204020.png",
     "Attachments/Pasted image 20230308202841.png",
     "Attachments/Pasted image 20230308202635.png",
-    "Miscellaneous/Today's Weather.md",
-    "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
     "Attachments/Pasted image 20230308202448.png",
     "Attachments/Pasted image 20230308195230.png",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Miscellaneous/test.md",
     "Matrix_Analysis/Ep.9.md",
     "Matrix_Analysis/Ep.7 Lambda Matrix.md",
@@ -188,9 +191,6 @@
     "Attachments/Pasted image 20230308132612.png",
     "Attachments/Pasted image 20230308132609.png",
     "Attachments/Pasted image 20230308131543.png",
-    "Attachments/Pasted image 20230308130831.png",
-    "Attachments/Pasted image 20230308130721.png",
-    "Attachments/Pasted image 20230308105927.png",
     "Matrix_Analysis/Singular Value Decomposition(1).md",
     "Matrix_Analysis/Derivatives of Multivariable Functions.md",
     "Matrix_Analysis/Singular Value Decomposition(2).md",
@@ -206,7 +206,6 @@
     "Digital_circuit/K-Map.md",
     "Attachments/K-Map 2023-03-07 14.26.41.excalidraw.md",
     "Digital_circuit/Index of digital circuit.md",
-    "Digital_circuit/Complex Logic Gates and Functions.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",
