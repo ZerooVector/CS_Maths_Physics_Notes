@@ -77,5 +77,5 @@ O & O
 $$
 满足：
 - $\max i = r$，这里的 $r$ 是 $A$ 的秩。
-- 记 $k$ 阶行列式因子为 $D_k(\lambda)$，那么 $d_1 (\lambda) = D_1 (\lambda)\ ;\ d_i (\lambda) = D_i (\lambda)/D_{i-1}(\lambda)$ ，这就说明了 Smith 标准型的唯一性
+- 记 $k$ 阶行列式因子为 $D_k(\lambda)$，那么 $d_1 (\lambda) = D_1 (\lambda)\ ;\ d_i (\lambda) = D_i (\lambda)/D_{i-1}(\lambda)$ ，这就说明了 Smith 标准型的唯一性（因为任何的初等变换是不改变 $k$jie）
 

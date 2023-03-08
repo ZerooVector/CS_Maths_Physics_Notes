@@ -37,6 +37,7 @@ Syllabus:
 [[Singular Value Decomposition(2)]]
 [[Derivatives of Multivariable Functions]]
 [[Lagrange Multiplier]]
+[[From Lines to Hyperplanes]]
 
 
 

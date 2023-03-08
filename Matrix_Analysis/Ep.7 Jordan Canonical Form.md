@@ -122,7 +122,7 @@ $$
 \end{bmatrix}
 $$
 
-^6f769b
+
 
 其中，$r = rank (A (\lambda))$，$d_i (\lambda)$ 是非零多项式。这样的矩阵称为 $A (\lambda)$ 的 Smith标准型
 
