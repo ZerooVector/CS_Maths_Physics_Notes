@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.8.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bbb716fd914030e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Ep.9.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.8.md",
+                "file": "Matrix_Analysis/Ep.9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.8.md",
+                "file": "Matrix_Analysis/Ep.9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.8.md"
+                "file": "Matrix_Analysis/Ep.9.md"
               }
             }
           },
@@ -169,10 +182,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "85743a5d7557e514",
+  "active": "6bbb716fd914030e",
   "lastOpenFiles": [
     "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Matrix_Analysis/Ep.7 Jordan Canonical Form.md",
+    "Matrix_Analysis/Ep.7 Lambda Matrix.md",
+    "Matrix_Analysis/Ep.9.md",
+    "Matrix_Analysis/Ep.8 Smith Canonical Form.md",
     "Matrix_Analysis/From Lines to Hyperplanes.md",
     "Matrix_Analysis/Lagrange Multiplier.md",
     "Attachments/Pasted image 20230308133411.png",
@@ -190,7 +205,6 @@
     "Matrix_Analysis/Derivatives of Multivariable Functions.md",
     "Matrix_Analysis/Singular Value Decomposition(2).md",
     "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
-    "Matrix_Analysis/Ep.8.md",
     "Machine_Learning_and_Data_Science/SQL Learn.md",
     "Machine_Learning_and_Data_Science/SQL Public.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
@@ -207,7 +221,6 @@
     "Attachments/Singular Value Decomposition(2) 2023-03-07 13.07.31.excalidraw.md",
     "Reinforcement Learning/Index of RL.md",
     "PDF/Index of RL.pdf",
-    "Miscellaneous/test.md",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",
     "Machine_Learning_and_Data_Science/tt.csv",

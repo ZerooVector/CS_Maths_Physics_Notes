@@ -77,5 +77,24 @@ O & O
 $$
 满足：
 - $\max i = r$，这里的 $r$ 是 $A$ 的秩。
-- 记 $k$ 阶行列式因子为 $D_k(\lambda)$，那么 $d_1 (\lambda) = D_1 (\lambda)\ ;\ d_i (\lambda) = D_i (\lambda)/D_{i-1}(\lambda)$ ，这就说明了 Smith 标准型的唯一性（因为任何的初等变换是不改变 $k$jie）
+- 记 $k$ 阶行列式因子为 $D_k(\lambda)$，那么 $d_1 (\lambda) = D_1 (\lambda)\ ;\ d_i (\lambda) = D_i (\lambda)/D_{i-1}(\lambda)$ ，这就说明了 Smith 标准型的唯一性（因为任何的初等变换是不改变 $k$ 阶行列式因子的），同时，$d_i(\lambda)$ 称为 $A$ 的不变因子
+##### PF 
+计算变换前后的各阶行列式因子，即得
+例如，在 $k=2$ 的时候，原矩阵的 2 阶行列式因子就是 $D_2 (\lambda)$，标准型：$d_{1}(\lambda) d_{2}(\lambda), d_{1}(\lambda) d_{3}(\lambda),\cdots,d_{r-1}(\lambda)d_{r}(\lambda)$ 的最高公因式，但是，前面的可以整除后面的，所以，它们的最高公因式也就是 $d_{1}(\lambda)d_{2}(\lambda)$ ，显然 $D_2 (\lambda)= d_{1}(\lambda)d_{2}(\lambda)$
+
+##### Example 两种方法求 Smith标准型
+求以下矩阵的标准型：
+$$
+\begin{bmatrix}\lambda(\lambda+1) & 0 & 0  \\ 0 & \lambda& 0  \\ 0 &0& (\lambda+1)^{2}\end{bmatrix}
+$$
+方法 1：按照初等变换来求解：
+
+方法 2：
+$$
+D_1(\lambda) = 1
+$$
+二阶的子式：$\lambda^{2}(\lambda+1),\lambda(\lambda+1)^{3},\lambda(\lambda+1)^{2}$，最高公因式显然是 $\lambda(\lambda+1)$
+$$
+D_{3} = \lambda^{2}(\lambda+1)^3
+$$
 
