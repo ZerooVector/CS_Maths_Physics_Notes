@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9470cc2db222ba6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Lagrange Multiplier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Lagrange Multiplier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Lagrange Multiplier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
+                "file": "Matrix_Analysis/Lagrange Multiplier.md"
               }
             }
           },
@@ -169,15 +182,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "85743a5d7557e514",
+  "active": "9470cc2db222ba6b",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230308084507.png",
+    "Attachments/78689dd5a9e6f0990ce195080f3944c2_1.jpg",
+    "Attachments/Pasted image 20230308083554.png",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Lagrange Multiplier.md",
     "Matrix_Analysis/Derivatives of Multivariable Functions.md",
     "Attachments/Pasted image 20230308010613.png",
     "Attachments/Pasted image 20230308010257.png",
     "Attachments/Pasted image 20230308004155.png",
     "Attachments/Pasted image 20230308003454.png",
     "Attachments/Pasted image 20230308003109.png",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Machine_Learning_and_Data_Science/SQL Learn.md",
     "Machine_Learning_and_Data_Science/SQL Public.md",
     "Matrix_Analysis/Singular Value Decomposition(2).md",
@@ -188,8 +205,6 @@
     "Attachments/Pasted image 20230307164909.png",
     "Attachments/Pasted image 20230307162553.png",
     "Attachments/Pasted image 20230307162259.png",
-    "Attachments/Pasted image 20230307161657.png",
-    "Attachments/Pasted image 20230307161614.png",
     "Attachments/Topic Modeling 2023-03-07 15.41.06.excalidraw.md",
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Digital_circuit/K-Map.md",
@@ -214,7 +229,6 @@
     "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
     "Untitled.canvas",
     "MCM_ICM/2021 D The Influence of Music.md",
-    "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "PDF/FL+KD.pdf",
     "Research/FL+KD"
   ]
