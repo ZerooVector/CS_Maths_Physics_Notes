@@ -4,35 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "550370e0fe991e25",
+        "id": "3e019b58e7702705",
         "type": "tabs",
         "children": [
           {
-            "id": "b8a148a00a65c2f3",
+            "id": "7e22c120d1ba6e99",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3b48ce0d617e6a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 5 SQL SELECT.md",
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2ba33ea8ad21ea49",
+            "id": "e2d5bc406879f5bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md",
-                "mode": "preview",
+                "file": "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9f4afa123587758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md"
+                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md"
               }
             }
           },
@@ -163,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,15 +200,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2ba33ea8ad21ea49",
+  "active": "a9f4afa123587758",
   "lastOpenFiles": [
-    "Machine_Learning_and_Data_Science/Chapter 5 SQL SELECT.md",
+    "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
     "Machine_Learning_and_Data_Science/SQL Public.md",
     "Machine_Learning_and_Data_Science/Chapter 4 SQL CREATE TABLE.md",
+    "Machine_Learning_and_Data_Science/Chapter 5 SQL SELECT.md",
+    "Miscellaneous/Today's Weather.md",
     "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
     "Digital_circuit/K-Map.md",
-    "Miscellaneous/Today's Weather.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Digital_circuit/Index of digital circuit.md",
     "Matrix_Analysis/Ep.9.md",
@@ -217,8 +238,6 @@
     "Machine_Learning_and_Data_Science/SQL Learn.md",
     "Machine_Learning_and_Data_Science/Topic Modeling.md",
     "Machine_Learning_and_Data_Science/Summary of LDA.md",
-    "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
-    "Attachments/Topic Modeling 2023-03-07 15.41.06.excalidraw.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",

@@ -26,9 +26,14 @@ Goodmorning  SUNSHINE！—— [[Topic Modeling]]    [[Summary of LDA]]
 
 ## Database
 这是北理工开设的一门数据库课程
+
+公共头-> [[SQL Public]]
+
+
 [[Chapter 1 Introduction to DataBase]]
 [[Chapter 2 Data Model]]
 [[Chapter 3 Relation DataBase]]
 [[Chapter 4 SQL CREATE TABLE]]
 [[Chapter 5 SQL SELECT]]
+[[Chapter 6 SQL JOINT SELECT]]
 
