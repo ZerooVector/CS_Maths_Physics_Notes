@@ -125,9 +125,9 @@ plt.close()
 f,ax2 = plt.subplots(figsize = (7,2.4))
 maxpos = 100
 minpos = 0
-color_series1 = sns.color_palette("Blues", 140)
+color_series1 = sns.color_palette("YlGnBu", 120)
 color_series2 = sns.color_palette("Greys", 170)
-color1 = weather_hum.iloc[0,1]+20
+color1 = weather_hum.iloc[0,1]+10
 color2 = weather_hum.iloc[1,1]+20
 pat = [color_series1[int(color1)],color_series2[int(color2)]]
 sns.barplot(x = "value",y = "index",data = weather_hum,ax =ax2,palette=pat)

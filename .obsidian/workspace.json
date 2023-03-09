@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7cc1fcc8d9d6df0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9564a57832149ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Ep.9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md",
+                "file": "Matrix_Analysis/Ep.9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md",
+                "file": "Matrix_Analysis/Ep.9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md"
+                "file": "Matrix_Analysis/Ep.9.md"
               }
             }
           },
@@ -169,10 +194,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4682666d5453a656",
+  "active": "9564a57832149ab2",
   "lastOpenFiles": [
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Miscellaneous/Today's Weather.md",
+    "Matrix_Analysis/Ep.9.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Ep.8 Smith Canonical Form.md",
     "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
     "Attachments/Pasted image 20230308210859.png",
     "Matrix_Analysis/Orthogonal Projection.md",
@@ -182,9 +209,7 @@
     "Attachments/Pasted image 20230308202448.png",
     "Attachments/Pasted image 20230308195230.png",
     "Miscellaneous/test.md",
-    "Matrix_Analysis/Ep.9.md",
     "Matrix_Analysis/Ep.7 Lambda Matrix.md",
-    "Matrix_Analysis/Ep.8 Smith Canonical Form.md",
     "Matrix_Analysis/Lagrange Multiplier.md",
     "Attachments/Pasted image 20230308133411.png",
     "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
