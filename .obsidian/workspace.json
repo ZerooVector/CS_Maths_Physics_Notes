@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "ac53618b3fad8dd3",
+            "id": "3ae9cb1b4af189f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimization method and Ops Rsch/Simplex Algorithm.md",
+                "file": "Optimization method and Ops Rsch/Inner Point Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimization method and Ops Rsch/Simplex Algorithm.md",
+                "file": "Miscellaneous/Today's Weather.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimization method and Ops Rsch/Simplex Algorithm.md",
+                "file": "Miscellaneous/Today's Weather.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimization method and Ops Rsch/Simplex Algorithm.md"
+                "file": "Miscellaneous/Today's Weather.md"
               }
             }
           },
@@ -176,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,20 +192,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ac53618b3fad8dd3",
+  "active": "895e50c148c194c5",
   "lastOpenFiles": [
+    "Optimization method and Ops Rsch/Inner Point Algorithm.md",
+    "Miscellaneous/Today's Weather.md",
+    "Attachments/Pasted image 20230309173602.png",
+    "Attachments/Pasted image 20230309173031.png",
+    "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
+    "Attachments/Pasted image 20230309171213.png",
+    "Optimization method and Ops Rsch/Simplex Algorithm.md",
     "Attachments/Pasted image 20230309165747.png",
     "Attachments/Pasted image 20230309164915.png",
     "Attachments/Pasted image 20230309164815.png",
     "Attachments/Pasted image 20230309163738.png",
     "Attachments/Pasted image 20230309163655.png",
-    "Optimization method and Ops Rsch/Simplex Algorithm.md",
-    "Miscellaneous/Today's Weather.md",
     "Attachments/Pasted image 20230309162726.png",
     "Attachments/Pasted image 20230309161227.png",
-    "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
-    "Attachments/Pasted image 20230309155722.png",
-    "Attachments/Pasted image 20230309154323.png",
     "Attachments/Simplex Algorithm 2023-03-09 15.19.36.excalidraw.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
@@ -221,8 +221,6 @@
     "Digital_circuit/K-Map.md",
     "Digital_circuit/Index of digital circuit.md",
     "Matrix_Analysis/Ep.9.md",
-    "Attachments/782de3200f790d351b342530bf00ea4.jpg",
-    "Attachments/262c4acc2a78ebdc4093faeacfa2989.jpg",
     "Matrix_Analysis/Ep.8 Smith Canonical Form.md",
     "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
     "Matrix_Analysis/Orthogonal Projection.md",
@@ -231,7 +229,6 @@
     "Matrix_Analysis/Lagrange Multiplier.md",
     "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
     "Matrix_Analysis/Singular Value Decomposition(1).md",
-    "Matrix_Analysis/Derivatives of Multivariable Functions.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",

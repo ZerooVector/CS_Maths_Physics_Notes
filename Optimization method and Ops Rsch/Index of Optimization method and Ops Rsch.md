@@ -10,6 +10,7 @@
 [[Convex Optimization without Constraints]]
 [[Linear Programming Model(LP)]]
 [[Simplex Algorithm]]
+[[Inner Point Algorithm]]
 
 
 
