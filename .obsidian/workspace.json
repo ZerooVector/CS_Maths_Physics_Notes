@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.9.md",
+                "file": "Digital_circuit/K-Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.9.md",
+                "file": "Digital_circuit/K-Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.9.md",
+                "file": "Digital_circuit/K-Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.9.md"
+                "file": "Digital_circuit/K-Map.md"
               }
             }
           },
@@ -176,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +194,9 @@
   },
   "active": "9564a57832149ab2",
   "lastOpenFiles": [
-    "Miscellaneous/Today's Weather.md",
+    "Digital_circuit/Index of digital circuit.md",
     "Matrix_Analysis/Ep.9.md",
+    "Miscellaneous/Today's Weather.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.8 Smith Canonical Form.md",
     "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
@@ -230,7 +229,6 @@
     "Machine_Learning_and_Data_Science/Naive Bayes Classifier(1)  Math Basis.md",
     "Digital_circuit/K-Map.md",
     "Attachments/K-Map 2023-03-07 14.26.41.excalidraw.md",
-    "Digital_circuit/Index of digital circuit.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",

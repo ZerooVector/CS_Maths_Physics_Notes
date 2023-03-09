@@ -68,3 +68,47 @@ $$
 ##### 现在我们返回来证明最初的命题。
 如果从相似推向等价，那么只要取 $P^{-1} = U (\lambda), P = V(\lambda)$ 即可
 如果我们从多项式矩阵的等价回推相似，那么：
+$$
+U(\lambda) = (\lambda I-B)Q(\lambda)+R(\lambda) 
+$$
+那么显然可以注意到，$R(\lambda)$ 要么 0，要么是非 0 的 0 次多项式，总之，$R(\lambda)$ 为常数矩阵，我们将 $R(\lambda)$ 记为 $R$。
+我们改写方程，将 $V (\lambda)$ 放到右边
+$$
+U(\lambda) (\lambda I-A) = (\lambda I -B )V^{-1}(\lambda)
+$$
+将带余除法代入上式，有：
+$$
+R(\lambda I -A) = (\lambda I-B)[V^{-1}(\lambda ) - Q(\lambda )(\lambda I-A)]
+$$
+根据 Lemma 1 ，方程的左侧是常数矩阵，因此，右侧 $[V^{-1}(\lambda ) - Q(\lambda )(\lambda I-A)]$ 也是常数，因此，我们得到：
+$$
+R(\lambda I - A) = (\lambda I - B)S
+$$
+通过比较系数可知，$R = S$，现在证 $R$ 可逆，再使用 $U^{-1}$ 进行一次带余除法
+$$
+U^{-1}(\lambda) = (\lambda I-A)\bar  Q(\lambda) + \bar R 
+$$
+将 $U^{-1}(\lambda)$ 和 $U(\lambda)$ 的带余除法相乘，那么：
+$$
+[(\lambda I - B)Q(\lambda)+R][(\lambda I-A)\bar Q(\lambda)+\bar  R ] = I
+$$
+整理后可得：
+$$
+R\bar R =  I - (\lambda I -B )[Q(\lambda)U^{-1}(\lambda)+S \bar Q(\lambda)]
+$$
+这也是一个带余除法式。注意到 $R\bar R$ 是一次的，这比除数的次数还要高，因此，商 0，因此，
+$$
+R \bar R  =I
+$$
+成立。
+以上命题得证。
+
+## 特征矩阵的标准型
+##### Theorem 特征矩阵的 Smith 型
+- $\lambda I -A$ 的 Smith 型为 $\mathrm{diag}(d_{1}(\lambda),\cdots ,d_{n}(\lambda))$ ，其中 $\prod d_{i}(\lambda) = |\lambda I -A |$ ，且 $\sum \mathcal{D}(d_{i}(\lambda)) = n$
+- $\lambda I-A$ 的多项式一定是 $n$ 次多项式，其秩一定是 $n$ 
+设 $d_{i}(\lambda)$ 中有 $p$ 个非常数的不变因子，记为 $h_{1}(\lambda),\cdots ,h_{p}(\lambda)$，其中 $n_{i} = \mathcal{D}(h_{i}(\lambda))$，则不变因子中恰好有 $(n_{1}-1)+(n_{2}-1)+\cdots + (n_{p}-1)$ 个为 1. 一次，它的 Smith 型可以被化成一个更加特殊的情形：$\mathrm{diag}(1,1,1,\cdots,h_{1}(\lambda);1,1,1,\cdots,h_{2}(\lambda);\cdots )$ 就是在每一个多项式的不变因子后面跟上相应数量的 1.
+
+
+
+
