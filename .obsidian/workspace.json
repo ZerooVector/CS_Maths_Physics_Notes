@@ -11,48 +11,28 @@
             "id": "7e22c120d1ba6e99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e3b48ce0d617e6a6",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e2d5bc406879f5bf",
+            "id": "ac53618b3fad8dd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9f4afa123587758",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
+                "file": "Optimization method and Ops Rsch/Simplex Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -118,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
+                "file": "Optimization method and Ops Rsch/Simplex Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
+                "file": "Optimization method and Ops Rsch/Simplex Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md"
+                "file": "Optimization method and Ops Rsch/Simplex Algorithm.md"
               }
             }
           },
@@ -183,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,18 +182,24 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a9f4afa123587758",
+  "active": "ac53618b3fad8dd3",
   "lastOpenFiles": [
-    "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
+    "Miscellaneous/Today's Weather.md",
+    "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
+    "Optimization method and Ops Rsch/Simplex Algorithm.md",
+    "Attachments/Pasted image 20230309155722.png",
+    "Attachments/Pasted image 20230309154323.png",
+    "Attachments/Simplex Algorithm 2023-03-09 15.19.36.excalidraw.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
     "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
     "Machine_Learning_and_Data_Science/SQL Public.md",
     "Machine_Learning_and_Data_Science/Chapter 4 SQL CREATE TABLE.md",
     "Machine_Learning_and_Data_Science/Chapter 5 SQL SELECT.md",
-    "Miscellaneous/Today's Weather.md",
     "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
     "Digital_circuit/K-Map.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Digital_circuit/Index of digital circuit.md",
     "Matrix_Analysis/Ep.9.md",
     "Attachments/782de3200f790d351b342530bf00ea4.jpg",
@@ -225,19 +213,12 @@
     "Attachments/Pasted image 20230308202841.png",
     "Attachments/Pasted image 20230308202635.png",
     "Attachments/Pasted image 20230308202448.png",
-    "Attachments/Pasted image 20230308195230.png",
     "Miscellaneous/test.md",
     "Matrix_Analysis/Ep.7 Lambda Matrix.md",
     "Matrix_Analysis/Lagrange Multiplier.md",
-    "Attachments/Pasted image 20230308133411.png",
     "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
     "Matrix_Analysis/Singular Value Decomposition(1).md",
     "Matrix_Analysis/Derivatives of Multivariable Functions.md",
-    "Matrix_Analysis/Singular Value Decomposition(2).md",
-    "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
-    "Machine_Learning_and_Data_Science/SQL Learn.md",
-    "Machine_Learning_and_Data_Science/Topic Modeling.md",
-    "Machine_Learning_and_Data_Science/Summary of LDA.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",

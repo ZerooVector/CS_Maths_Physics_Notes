@@ -9,6 +9,7 @@
 [[The general form of Opt Problem]]
 [[Convex Optimization without Constraints]]
 [[Linear Programming Model(LP)]]
+[[Simplex Algorithm]]
 
 
 
