@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "93d4f9bc6b6d5fe2",
+        "id": "fb92f60c376850b8",
         "type": "tabs",
         "children": [
           {
-            "id": "4682666d5453a656",
+            "id": "2899f8eee6df345e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7cc1fcc8d9d6df0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9564a57832149ab2",
+            "id": "161c68d0a40d2ac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/K-Map.md",
+                "file": "Machine_Learning_and_Data_Science/SQL Public.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/K-Map.md",
+                "file": "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/K-Map.md",
+                "file": "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/K-Map.md"
+                "file": "Optimization method and Ops Rsch/Linear Programming Model(LP).md"
               }
             }
           },
@@ -175,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,11 +180,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9564a57832149ab2",
+  "active": "2899f8eee6df345e",
   "lastOpenFiles": [
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Miscellaneous/Today's Weather.md",
+    "Machine_Learning_and_Data_Science/Chapter 4 SQL.md",
+    "Machine_Learning_and_Data_Science/SQL Public.md",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Digital_circuit/K-Map.md",
+    "Miscellaneous/Today's Weather.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Digital_circuit/Index of digital circuit.md",
     "Matrix_Analysis/Ep.9.md",
     "Attachments/782de3200f790d351b342530bf00ea4.jpg",
@@ -221,8 +212,6 @@
     "Matrix_Analysis/Singular Value Decomposition(2).md",
     "Matrix_Analysis/Eigen Value Decomposition(2) Some Applications.md",
     "Machine_Learning_and_Data_Science/SQL Learn.md",
-    "Machine_Learning_and_Data_Science/SQL Public.md",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Topic Modeling.md",
     "Machine_Learning_and_Data_Science/Summary of LDA.md",
     "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",

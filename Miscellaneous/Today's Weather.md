@@ -127,7 +127,7 @@ maxpos = 100
 minpos = 0
 color_series1 = sns.color_palette("YlGnBu", 120)
 color_series2 = sns.color_palette("Greys", 170)
-color1 = weather_hum.iloc[0,1]+10
+color1 = weather_hum.iloc[0,1]+0
 color2 = weather_hum.iloc[1,1]+20
 pat = [color_series1[int(color1)],color_series2[int(color2)]]
 sns.barplot(x = "value",y = "index",data = weather_hum,ax =ax2,palette=pat)

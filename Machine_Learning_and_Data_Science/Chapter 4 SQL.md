@@ -1,17 +1,24 @@
-```python
 
 
-a = [2,3,5,7]
-b = [1,3,7,9]
+##### 前置代码，请引入到任何学习使用 mySQL 的笔记本中，并首先执行一次
+```python 
+import pymysql
+database = pymysql.connect(host = 'localhost',user = 'root',password = '030329',database = "test_db")
+cursor = database.cursor() # 创建用于管理数据库的游标
 
-d = pd.read_csv("E:/obisdian_notebook/CS_Maths_Physics/Machine_Learning_and_Data_Science/tt.csv")
-print(d.head())
 ```
+
+##### 后置代码注射，请引入到任何学习使用 mySQL 的笔记本中
+```python{post}
+cursor.execute(sql)
+all_update = cursor.fetchall()
+for item in all_update:
+	print(item)
+```
+
 
 ## 模式的定义
-```python
-print(d.describe())
-```
+
 
 ## 表的定义
 
@@ -28,6 +35,11 @@ CREATE TABLE SST.Student -- 声明想要建立一张表
 	CONSTRAINT S_PK PRIMARY KEY (Sno) -- 定义表级约束
 );
 ```
+
+```python
+sql = "CREATE TABLE student(Sno CHAR(6) NOT NULL UNIQUE)"
+```
+
 
 我们可以指定参照约束，使得一张表参照另一张
 ```SQL
