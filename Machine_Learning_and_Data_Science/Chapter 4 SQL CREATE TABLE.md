@@ -37,7 +37,7 @@ CREATE TABLE SST.Student -- 声明想要建立一张表
 ```
 
 ```python
-sql = "CREATE TABLE student(Sno CHAR(6) NOT NULL UNIQUE)"
+sql = "CREATE TABLE student(Sno CHAR(6) NOT NULL UNIQUE, Sname CHAR(8),Sage INT,Ssex CHAR(2),Sdept CHAR(12),CONSTRAINT C1 CHECK (Ssex IN ('F','M')),CONSTRAINT S_PK PRIMARY KEY(Sno))"
 ```
 
 

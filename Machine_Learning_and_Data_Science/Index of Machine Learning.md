@@ -29,5 +29,6 @@ Goodmorning  SUNSHINE！—— [[Topic Modeling]]    [[Summary of LDA]]
 [[Chapter 1 Introduction to DataBase]]
 [[Chapter 2 Data Model]]
 [[Chapter 3 Relation DataBase]]
-[[Chapter 4 SQL]]
+[[Chapter 4 SQL CREATE TABLE]]
+[[Chapter 5 SQL SELECT]]
 
