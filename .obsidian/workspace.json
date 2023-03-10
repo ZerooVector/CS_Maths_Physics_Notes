@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "fd7905c8879908c9",
+            "id": "a70fc57852b2e7ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "a70fc57852b2e7ec",
+            "id": "f22f828f7fff9ad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.10.md",
-                "mode": "source",
+                "file": "Miscellaneous/Today's Weather.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -194,15 +194,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "fd7905c8879908c9",
+  "active": "a70fc57852b2e7ec",
   "lastOpenFiles": [
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.10.md",
+    "Miscellaneous/Today's Weather.md",
     "Matrix_Analysis/Ep.9 Eigen Matrix.md",
     "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
     "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
     "Optimization method and Ops Rsch/Inner Point Algorithm.md",
-    "Miscellaneous/Today's Weather.md",
     "Attachments/Pasted image 20230309173602.png",
     "Attachments/Pasted image 20230309173031.png",
     "Attachments/Pasted image 20230309171213.png",
