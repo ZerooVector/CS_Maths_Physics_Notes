@@ -13,19 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6394ff140894577f",
+            "id": "26b959947ef63c8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
+                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28924447f48ad443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af42f88b84a328ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Ep.5 Linear Mapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73f2248767c905b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Ep.4 Subspace.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -208,11 +244,14 @@
   },
   "active": "e086ff4a535ab473",
   "lastOpenFiles": [
+    "Matrix_Analysis/Ep.5 Linear Mapping.md",
+    "Attachments/Ep.5 Linear Mapping 2023-03-01 12.44.09.excalidraw.md",
+    "Matrix_Analysis/Ep.4 Subspace.md",
     "Miscellaneous/Today's Weather.md",
-    "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/陈薪宇讲线代  Ep.1.md",
     "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
     "Matrix_Analysis/Conic Sections.md",
     "Matrix_Analysis/Ep.10.md",
     "Matrix_Analysis/Ep.9 Eigen Matrix.md",
@@ -241,9 +280,6 @@
     "Digital_circuit/K-Map.md",
     "Digital_circuit/Index of digital circuit.md",
     "Matrix_Analysis/Ep.8 Smith Canonical Form.md",
-    "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
-    "Matrix_Analysis/Orthogonal Projection.md",
-    "Miscellaneous/test.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",
