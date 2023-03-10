@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6394ff140894577f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e086ff4a535ab473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/陈薪宇讲线代  Ep.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md",
+                "file": "Matrix_Analysis/陈薪宇讲线代  Ep.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md",
+                "file": "Matrix_Analysis/陈薪宇讲线代  Ep.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md"
+                "file": "Matrix_Analysis/陈薪宇讲线代  Ep.1.md"
               }
             }
           },
@@ -182,12 +206,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0cd22550f9738b82",
+  "active": "e086ff4a535ab473",
   "lastOpenFiles": [
-    "Matrix_Analysis/Conic Sections.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Matrix_Analysis/Ep.10.md",
     "Miscellaneous/Today's Weather.md",
+    "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
+    "Matrix_Analysis/陈薪宇讲线代  Ep.1.md",
+    "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Conic Sections.md",
+    "Matrix_Analysis/Ep.10.md",
     "Matrix_Analysis/Ep.9 Eigen Matrix.md",
     "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
     "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
@@ -217,9 +244,6 @@
     "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
     "Matrix_Analysis/Orthogonal Projection.md",
     "Miscellaneous/test.md",
-    "Matrix_Analysis/Ep.7 Lambda Matrix.md",
-    "Matrix_Analysis/Lagrange Multiplier.md",
-    "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",
