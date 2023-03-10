@@ -38,7 +38,7 @@ Syllabus:
 [[Derivatives of Multivariable Functions]]
 [[Lagrange Multiplier]]
 [[From Lines to Hyperplanes , Space Vector]]
-
+[[Conic Sections]]
 
 
 ## BIT Course
