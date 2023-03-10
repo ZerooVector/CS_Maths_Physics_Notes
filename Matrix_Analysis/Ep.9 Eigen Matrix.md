@@ -107,7 +107,7 @@ $$
 ##### Theorem 特征矩阵的 Smith 型
 - $\lambda I -A$ 的 Smith 型为 $\mathrm{diag}(d_{1}(\lambda),\cdots ,d_{n}(\lambda))$ ，其中 $\prod d_{i}(\lambda) = |\lambda I -A |$ ，且 $\sum \mathcal{D}(d_{i}(\lambda)) = n$
 - $\lambda I-A$ 的多项式一定是 $n$ 次多项式，其秩一定是 $n$ 
-设 $d_{i}(\lambda)$ 中有 $p$ 个非常数的不变因子，记为 $h_{1}(\lambda),\cdots ,h_{p}(\lambda)$，其中 $n_{i} = \mathcal{D}(h_{i}(\lambda))$，则不变因子中恰好有 $(n_{1}-1)+(n_{2}-1)+\cdots + (n_{p}-1)$ 个为 1. 一次，它的 Smith 型可以被化成一个更加特殊的情形：$\mathrm{diag}(1,1,1,\cdots,h_{1}(\lambda);1,1,1,\cdots,h_{2}(\lambda);\cdots )$ 就是在每一个多项式的不变因子后面跟上相应数量的 1.
+设 $d_{i}(\lambda)$ 中有 $p$ 个非常数的不变因子，记为 $h_{1}(\lambda),\cdots ,h_{p}(\lambda)$，其中 $n_{i} = \mathcal{D}(h_{i}(\lambda))$，则不变因子中恰好有 $(n_{1}-1)+(n_{2}-1)+\cdots + (n_{p}-1)$ 个为 1. 一次，它的 Smith 型可以被化成一个更加特殊的情形：$\mathrm{diag}(1,1,1,\cdots,h_{1}(\lambda);1,1,1,\cdots,h_{2}(\lambda);\cdots )$ 就是在每一个多项式的不变因子前面跟上相应数量的 1.
 
 
 

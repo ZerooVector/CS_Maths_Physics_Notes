@@ -4,47 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "3e019b58e7702705",
+        "id": "fd2dfaea1a036c95",
         "type": "tabs",
         "children": [
           {
-            "id": "7e22c120d1ba6e99",
+            "id": "f88121b5598274b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3ae9cb1b4af189f8",
+            "id": "fd7905c8879908c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimization method and Ops Rsch/Inner Point Algorithm.md",
+                "file": "Matrix_Analysis/Ep.10.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "895e50c148c194c5",
+            "id": "a70fc57852b2e7ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md",
-                "mode": "preview",
+                "file": "Matrix_Analysis/Ep.10.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md",
+                "file": "Matrix_Analysis/Ep.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md",
+                "file": "Matrix_Analysis/Ep.10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Today's Weather.md"
+                "file": "Matrix_Analysis/Ep.10.md"
               }
             }
           },
@@ -175,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,13 +194,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "895e50c148c194c5",
+  "active": "fd7905c8879908c9",
   "lastOpenFiles": [
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Ep.10.md",
+    "Matrix_Analysis/Ep.9 Eigen Matrix.md",
+    "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
+    "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
     "Optimization method and Ops Rsch/Inner Point Algorithm.md",
     "Miscellaneous/Today's Weather.md",
     "Attachments/Pasted image 20230309173602.png",
     "Attachments/Pasted image 20230309173031.png",
-    "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
     "Attachments/Pasted image 20230309171213.png",
     "Optimization method and Ops Rsch/Simplex Algorithm.md",
     "Attachments/Pasted image 20230309165747.png",
@@ -209,18 +215,15 @@
     "Attachments/Pasted image 20230309162726.png",
     "Attachments/Pasted image 20230309161227.png",
     "Attachments/Simplex Algorithm 2023-03-09 15.19.36.excalidraw.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
-    "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
     "Machine_Learning_and_Data_Science/SQL Public.md",
     "Machine_Learning_and_Data_Science/Chapter 4 SQL CREATE TABLE.md",
     "Machine_Learning_and_Data_Science/Chapter 5 SQL SELECT.md",
     "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
     "Digital_circuit/K-Map.md",
     "Digital_circuit/Index of digital circuit.md",
-    "Matrix_Analysis/Ep.9.md",
     "Matrix_Analysis/Ep.8 Smith Canonical Form.md",
     "Matrix_Analysis/From Lines to Hyperplanes , Space Vector.md",
     "Matrix_Analysis/Orthogonal Projection.md",
