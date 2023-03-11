@@ -39,6 +39,7 @@ Syllabus:
 [[Lagrange Multiplier]]
 [[From Lines to Hyperplanes , Space Vector]]
 [[Conic Sections]]
+[[Surfaces and Positive Definiteness]]
 
 
 ## BIT Course

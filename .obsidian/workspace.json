@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "72c35852937d1c73",
+            "id": "866fdd3908baff6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Conic Sections.md",
+                "file": "Matrix_Analysis/Surfaces and Positive Definiteness.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Conic Sections.md",
+                "file": "Matrix_Analysis/Surfaces and Positive Definiteness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Conic Sections.md",
+                "file": "Matrix_Analysis/Surfaces and Positive Definiteness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Conic Sections.md"
+                "file": "Matrix_Analysis/Surfaces and Positive Definiteness.md"
               }
             }
           },
@@ -194,13 +194,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "72c35852937d1c73",
+  "active": "866fdd3908baff6c",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230311150500.png",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Surfaces and Positive Definiteness.md",
     "Miscellaneous/Today's Weather.md",
     "Matrix_Analysis/Conic Sections.md",
+    "Attachments/Pasted image 20230311155923.png",
+    "Attachments/Pasted image 20230311154536.png",
+    "Attachments/Pasted image 20230311150500.png",
     "Attachments/Pasted image 20230311145201.png",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.5 Linear Mapping.md",
     "Matrix_Analysis/Ep.4 Subspace.md",
     "Matrix_Analysis/陈薪宇讲线代  Ep.1.md",
@@ -220,9 +223,6 @@
     "Attachments/Pasted image 20230309165747.png",
     "Attachments/Pasted image 20230309164915.png",
     "Attachments/Pasted image 20230309164815.png",
-    "Attachments/Pasted image 20230309163738.png",
-    "Attachments/Pasted image 20230309163655.png",
-    "Attachments/Pasted image 20230309162726.png",
     "Attachments/Simplex Algorithm 2023-03-09 15.19.36.excalidraw.md",
     "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
