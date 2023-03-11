@@ -41,7 +41,7 @@ Syllabus:
 [[Conic Sections]]
 [[Surfaces and Positive Definiteness]]
 [[Statistics x Linear Algebra]]
-
+[[Four Vector Spaces of Data]]
 
 ## BIT Course
 这是 BIT 人工智能学院开设的一门课
