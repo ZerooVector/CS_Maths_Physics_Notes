@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "866fdd3908baff6c",
+            "id": "fffef92f2dd65688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Surfaces and Positive Definiteness.md",
+                "file": "Matrix_Analysis/Statistics x Linear Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Surfaces and Positive Definiteness.md",
+                "file": "Matrix_Analysis/Statistics x Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Surfaces and Positive Definiteness.md",
+                "file": "Matrix_Analysis/Statistics x Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Surfaces and Positive Definiteness.md"
+                "file": "Matrix_Analysis/Statistics x Linear Algebra.md"
               }
             }
           },
@@ -194,13 +194,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "866fdd3908baff6c",
+  "active": "fffef92f2dd65688",
   "lastOpenFiles": [
-    "Miscellaneous/Today's Weather.md",
-    "Matrix_Analysis/Surfaces and Positive Definiteness.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Matrix_Analysis/Lagrange Multiplier.md",
+    "Matrix_Analysis/Derivatives of Multivariable Functions.md",
+    "Matrix_Analysis/Statistics x Linear Algebra.md",
+    "Miscellaneous/Today's Weather.md",
+    "Attachments/Pasted image 20230311200054.png",
+    "Attachments/Pasted image 20230311195550.png",
+    "Attachments/Pasted image 20230311195328.png",
     "Matrix_Analysis/Conic Sections.md",
+    "Matrix_Analysis/Surfaces and Positive Definiteness.md",
+    "Attachments/Pasted image 20230311194435.png",
+    "Matrix_Analysis/Lagrange Multiplier.md",
     "Attachments/Pasted image 20230311155923.png",
     "Attachments/Pasted image 20230311154536.png",
     "Attachments/Pasted image 20230311150500.png",
@@ -219,19 +225,13 @@
     "Optimization method and Ops Rsch/Inner Point Algorithm.md",
     "Attachments/Pasted image 20230309173602.png",
     "Attachments/Pasted image 20230309173031.png",
-    "Attachments/Pasted image 20230309171213.png",
     "Optimization method and Ops Rsch/Simplex Algorithm.md",
-    "Attachments/Pasted image 20230309165747.png",
-    "Attachments/Pasted image 20230309164915.png",
-    "Attachments/Pasted image 20230309164815.png",
     "Attachments/Simplex Algorithm 2023-03-09 15.19.36.excalidraw.md",
     "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Chapter 3 Relation DataBase.md",
     "Machine_Learning_and_Data_Science/SQL Public.md",
     "Machine_Learning_and_Data_Science/Chapter 4 SQL CREATE TABLE.md",
-    "Machine_Learning_and_Data_Science/Chapter 5 SQL SELECT.md",
-    "Optimization method and Ops Rsch/Linear Programming Model(LP).md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",

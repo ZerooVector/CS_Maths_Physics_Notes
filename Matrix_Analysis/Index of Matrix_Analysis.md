@@ -40,6 +40,7 @@ Syllabus:
 [[From Lines to Hyperplanes , Space Vector]]
 [[Conic Sections]]
 [[Surfaces and Positive Definiteness]]
+[[Statistics x Linear Algebra]]
 
 
 ## BIT Course
