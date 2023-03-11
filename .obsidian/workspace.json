@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd2dfaea1a036c95",
+        "id": "94a84d07bf0bb51c",
         "type": "tabs",
         "children": [
           {
-            "id": "f88121b5598274b8",
+            "id": "d4dbd526f9186cd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9b78afbe0e2cf382",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Four Vector Spaces of Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8e9107afad2213e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Singular Value Decomposition(2).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "656c632be1133d45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Lagrange Multiplier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d4424c0217598d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miscellaneous/Today's Weather.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Four Vector Spaces of Data.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Four Vector Spaces of Data.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Four Vector Spaces of Data.md"
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
               }
             }
           },
@@ -218,28 +169,28 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9b78afbe0e2cf382",
+  "active": "d4dbd526f9186cd0",
   "lastOpenFiles": [
+    "Miscellaneous/Today's Weather.md",
+    "Matrix_Analysis/Ep.10.md",
+    "Matrix_Analysis/Lagrange Multiplier.md",
+    "Matrix_Analysis/Four Vector Spaces of Data.md",
+    "Attachments/Pasted image 20230312003322.png",
+    "Attachments/Pasted image 20230312003242.png",
+    "Attachments/Pasted image 20230312003127.png",
+    "Matrix_Analysis/Singular Value Decomposition(2).md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Attachments/Pasted image 20230312001913.png",
+    "Attachments/Pasted image 20230312001540.png",
     "Attachments/Pasted image 20230312000951.png",
     "Attachments/Pasted image 20230311235350.png",
     "Attachments/Pasted image 20230311235206.png",
-    "Matrix_Analysis/Four Vector Spaces of Data.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Matrix_Analysis/Singular Value Decomposition(2).md",
-    "Matrix_Analysis/Lagrange Multiplier.md",
     "Matrix_Analysis/Statistics x Linear Algebra.md",
     "Attachments/Pasted image 20230311212944.png",
-    "Miscellaneous/Today's Weather.md",
     "Attachments/Pasted image 20230311210233.png",
-    "Attachments/Pasted image 20230311204710.png",
     "Matrix_Analysis/Derivatives of Multivariable Functions.md",
-    "Attachments/Pasted image 20230311200054.png",
-    "Attachments/Pasted image 20230311195550.png",
-    "Attachments/Pasted image 20230311195328.png",
     "Matrix_Analysis/Conic Sections.md",
     "Matrix_Analysis/Surfaces and Positive Definiteness.md",
-    "Attachments/Pasted image 20230311194435.png",
-    "Attachments/Pasted image 20230311155923.png",
     "Matrix_Analysis/Ep.5 Linear Mapping.md",
     "Matrix_Analysis/Ep.4 Subspace.md",
     "Matrix_Analysis/陈薪宇讲线代  Ep.1.md",
@@ -247,7 +198,6 @@
     "Attachments/Ep.5 Linear Mapping 2023-03-01 12.44.09.excalidraw.md",
     "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
     "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
-    "Matrix_Analysis/Ep.10.md",
     "Matrix_Analysis/Ep.9 Eigen Matrix.md",
     "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
     "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
