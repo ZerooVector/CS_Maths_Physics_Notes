@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+                "file": "Machine_Learning_and_Data_Science/Topic Modeling.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,9 +184,13 @@
   },
   "active": "dc61d5aacf2515bf",
   "lastOpenFiles": [
+    "Machine_Learning_and_Data_Science/Topic Modeling.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Summary of LDA.md",
+    "Attachments/Pasted image 20230312161440.png",
+    "Attachments/Pasted image 20230312161407.png",
     "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
+    "Machine_Learning_and_Data_Science/History of ML and AI.md",
     "Miscellaneous/Today's Weather.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
@@ -200,8 +204,6 @@
     "Attachments/Pasted image 20230312111148.png",
     "Matrix_Analysis/Four Vector Spaces of Data.md",
     "Attachments/Pasted image 20230312104251.png",
-    "Attachments/Pasted image 20230312103757.png",
-    "Attachments/Pasted image 20230312101258.png",
     "Matrix_Analysis/Ep.10.md",
     "Matrix_Analysis/Lagrange Multiplier.md",
     "Matrix_Analysis/Singular Value Decomposition(2).md",
@@ -217,9 +219,6 @@
     "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
     "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
     "Matrix_Analysis/Ep.9 Eigen Matrix.md",
-    "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
-    "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
-    "Optimization method and Ops Rsch/Inner Point Algorithm.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",
