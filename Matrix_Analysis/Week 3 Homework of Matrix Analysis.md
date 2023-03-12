@@ -39,3 +39,4 @@ $$
 
 ## 第二题
 ![[e8a1c3031a0477cff6c44be1fdb565d.jpg]]
+![[abf30063b8c9ec60bd1721fd7f66cc7.jpg]]

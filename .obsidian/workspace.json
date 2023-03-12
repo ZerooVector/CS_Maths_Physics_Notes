@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e55ff33f3db7ee7a",
+        "id": "2d8225ea802ef8ae",
         "type": "tabs",
         "children": [
           {
-            "id": "65d9d765f07b788f",
+            "id": "9ae09aa224aa2e76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bb0242a102a6bb8e",
+            "id": "2906663f2187b9ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Week 3 Homework of Matrix Analysis.md",
+                "file": "Machine_Learning_and_Data_Science/Data100 SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Week 3 Homework of Matrix Analysis.md",
+                "file": "Machine_Learning_and_Data_Science/Data100 SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Week 3 Homework of Matrix Analysis.md",
+                "file": "Machine_Learning_and_Data_Science/Data100 SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Week 3 Homework of Matrix Analysis.md"
+                "file": "Machine_Learning_and_Data_Science/Data100 SQL.md"
               }
             }
           },
@@ -182,13 +182,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bb0242a102a6bb8e",
+  "active": "2906663f2187b9ff",
   "lastOpenFiles": [
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/SQL Public.md",
+    "Machine_Learning_and_Data_Science/Data100 SQL.md",
+    "Miscellaneous/Today's Weather.md",
+    "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Week 3 Homework of Matrix Analysis.md",
+    "Attachments/abf30063b8c9ec60bd1721fd7f66cc7.jpg",
     "Attachments/e8a1c3031a0477cff6c44be1fdb565d.jpg",
     "PDF/Week 3 Homework of Matrix Analysis.pdf",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
-    "Matrix_Analysis/Week 3 Homework of Matrix Analysis.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Week 2 Homework of Matrix Decomposition.md",
     "Machine_Learning_and_Data_Science/Topic Modeling.md",
     "Machine_Learning_and_Data_Science/Summary of LDA.md",
@@ -203,12 +208,8 @@
     "Attachments/Pasted image 20230312172220.png",
     "Matrix_Analysis/Ep.10.md",
     "Matrix_Analysis/Ep.9 Eigen Matrix.md",
-    "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
-    "Attachments/Pasted image 20230312170801.png",
-    "Attachments/Pasted image 20230312161440.png",
     "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
     "Machine_Learning_and_Data_Science/History of ML and AI.md",
-    "Miscellaneous/Today's Weather.md",
     "Matrix_Analysis/Review of Matrix Decomposition.md",
     "Matrix_Analysis/Four Vector Spaces of Data.md",
     "Matrix_Analysis/Lagrange Multiplier.md",
@@ -221,7 +222,6 @@
     "Matrix_Analysis/Ep.4 Subspace.md",
     "Matrix_Analysis/陈薪宇讲线代  Ep.1.md",
     "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
-    "Attachments/Ep.5 Linear Mapping 2023-03-01 12.44.09.excalidraw.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",
