@@ -52,6 +52,7 @@ Syllabus:
 [[Week 1 Homework for Matrix Analysis]]
 [[Chapter 2 Matrix Decompose]]
 [[Week 2 Homework of Matrix Decomposition]]
+[[Week 3 Homework of Matrix Analysis]]
 
 
 ## HIT Course
