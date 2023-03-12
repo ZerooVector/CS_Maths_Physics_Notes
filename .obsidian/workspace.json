@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65d9d765f07b788f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -184,27 +196,30 @@
   },
   "active": "dc61d5aacf2515bf",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230312175217.png",
+    "Attachments/Pasted image 20230312174836.png",
+    "Attachments/Pasted image 20230312174649.png",
+    "Attachments/Pasted image 20230312173603.png",
+    "PDF/Summary of LDA.pdf",
     "Machine_Learning_and_Data_Science/Topic Modeling.md",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Summary of LDA.md",
+    "Attachments/Pasted image 20230312172220.png",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Ep.10.md",
+    "Matrix_Analysis/Ep.9 Eigen Matrix.md",
+    "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Attachments/Pasted image 20230312170801.png",
     "Attachments/Pasted image 20230312161440.png",
     "Attachments/Pasted image 20230312161407.png",
     "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
     "Machine_Learning_and_Data_Science/History of ML and AI.md",
     "Miscellaneous/Today's Weather.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
     "Attachments/Pasted image 20230312154942.png",
     "Attachments/Pasted image 20230312154935.png",
     "Attachments/Pasted image 20230312154541.png",
-    "Attachments/Pasted image 20230312121327.png",
-    "Attachments/Pasted image 20230312121044.png",
     "Matrix_Analysis/Review of Matrix Decomposition.md",
-    "Attachments/Pasted image 20230312111447.png",
-    "Attachments/Pasted image 20230312111148.png",
     "Matrix_Analysis/Four Vector Spaces of Data.md",
-    "Attachments/Pasted image 20230312104251.png",
-    "Matrix_Analysis/Ep.10.md",
     "Matrix_Analysis/Lagrange Multiplier.md",
     "Matrix_Analysis/Singular Value Decomposition(2).md",
     "Matrix_Analysis/Statistics x Linear Algebra.md",
@@ -218,7 +233,6 @@
     "Attachments/Ep.5 Linear Mapping 2023-03-01 12.44.09.excalidraw.md",
     "Matrix_Analysis/Ep.2 Vector in Linear Space.md",
     "Matrix_Analysis/Ep.1 Linear Space and Transformation.md",
-    "Matrix_Analysis/Ep.9 Eigen Matrix.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",
@@ -228,7 +242,6 @@
     "Machine_Learning_and_Data_Science/~建 Microsoft Excel 工作表.tmp",
     "Machine_Learning_and_Data_Science/新建 Microsoft Excel 工作表.xlsx",
     "Untitled.canvas",
-    "PDF/FL+KD.pdf",
-    "Research/FL+KD"
+    "PDF/FL+KD.pdf"
   ]
 }
