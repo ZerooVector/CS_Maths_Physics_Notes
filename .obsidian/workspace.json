@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "94a84d07bf0bb51c",
+        "id": "e55ff33f3db7ee7a",
         "type": "tabs",
         "children": [
           {
-            "id": "d4dbd526f9186cd0",
+            "id": "3ba4420a7a644c37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "884621dcb4bc12e7",
+            "id": "dc61d5aacf2515bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
+                "file": "Machine_Learning_and_Data_Science/Summary of LDA.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
+                "file": "Machine_Learning_and_Data_Science/Summary of LDA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
+                "file": "Machine_Learning_and_Data_Science/Summary of LDA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/From Matrix Analysis to Machine Learning.md"
+                "file": "Machine_Learning_and_Data_Science/Summary of LDA.md"
               }
             }
           },
@@ -182,12 +182,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "884621dcb4bc12e7",
+  "active": "dc61d5aacf2515bf",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230312121327.png",
-    "Attachments/Pasted image 20230312121044.png",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Summary of LDA.md",
+    "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
+    "Miscellaneous/Today's Weather.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
+    "Attachments/Pasted image 20230312154942.png",
+    "Attachments/Pasted image 20230312154935.png",
+    "Attachments/Pasted image 20230312154541.png",
+    "Attachments/Pasted image 20230312121327.png",
+    "Attachments/Pasted image 20230312121044.png",
     "Matrix_Analysis/Review of Matrix Decomposition.md",
     "Attachments/Pasted image 20230312111447.png",
     "Attachments/Pasted image 20230312111148.png",
@@ -195,11 +202,6 @@
     "Attachments/Pasted image 20230312104251.png",
     "Attachments/Pasted image 20230312103757.png",
     "Attachments/Pasted image 20230312101258.png",
-    "Attachments/Pasted image 20230312101255.png",
-    "Attachments/Pasted image 20230312100250.png",
-    "Attachments/Pasted image 20230312100239.png",
-    "Attachments/Pasted image 20230312095408.png",
-    "Miscellaneous/Today's Weather.md",
     "Matrix_Analysis/Ep.10.md",
     "Matrix_Analysis/Lagrange Multiplier.md",
     "Matrix_Analysis/Singular Value Decomposition(2).md",
@@ -218,8 +220,6 @@
     "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
     "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
     "Optimization method and Ops Rsch/Inner Point Algorithm.md",
-    "Optimization method and Ops Rsch/Simplex Algorithm.md",
-    "Attachments/Simplex Algorithm 2023-03-09 15.19.36.excalidraw.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",

@@ -16,7 +16,7 @@
 这是北理工开设的一门机器学习课程
 
 人工智能史话—— [[History of ML and AI]]
-分别计算男生、女生的身高—— [[Expectation Maximum Algorithm]]
+挖掘“隐藏“的真相—— [[Expectation Maximum Algorithm]]
 Goodmorning  SUNSHINE！—— [[Topic Modeling]]    [[Summary of LDA]]
 
 
