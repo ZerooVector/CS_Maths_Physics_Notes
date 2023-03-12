@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Review of Matrix Decomposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Review of Matrix Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Matrix_Analysis/Review of Matrix Decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md"
+                "file": "Matrix_Analysis/Review of Matrix Decomposition.md"
               }
             }
           },
@@ -171,6 +171,10 @@
   },
   "active": "d4dbd526f9186cd0",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230312095408.png",
+    "Attachments/Pasted image 20230312095315.png",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Review of Matrix Decomposition.md",
     "Miscellaneous/Today's Weather.md",
     "Matrix_Analysis/Ep.10.md",
     "Matrix_Analysis/Lagrange Multiplier.md",
@@ -179,7 +183,6 @@
     "Attachments/Pasted image 20230312003242.png",
     "Attachments/Pasted image 20230312003127.png",
     "Matrix_Analysis/Singular Value Decomposition(2).md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Attachments/Pasted image 20230312001913.png",
     "Attachments/Pasted image 20230312001540.png",
     "Attachments/Pasted image 20230312000951.png",
@@ -187,7 +190,6 @@
     "Attachments/Pasted image 20230311235206.png",
     "Matrix_Analysis/Statistics x Linear Algebra.md",
     "Attachments/Pasted image 20230311212944.png",
-    "Attachments/Pasted image 20230311210233.png",
     "Matrix_Analysis/Derivatives of Multivariable Functions.md",
     "Matrix_Analysis/Conic Sections.md",
     "Matrix_Analysis/Surfaces and Positive Definiteness.md",
@@ -205,7 +207,6 @@
     "Optimization method and Ops Rsch/Simplex Algorithm.md",
     "Attachments/Simplex Algorithm 2023-03-09 15.19.36.excalidraw.md",
     "Optimization method and Ops Rsch/Convex Optimization without Constraints.md",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",
