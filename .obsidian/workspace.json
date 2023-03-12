@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Review of Matrix Decomposition.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "884621dcb4bc12e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Review of Matrix Decomposition.md",
+                "file": "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Review of Matrix Decomposition.md",
+                "file": "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Review of Matrix Decomposition.md"
+                "file": "Matrix_Analysis/From Matrix Analysis to Machine Learning.md"
               }
             }
           },
@@ -169,11 +182,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d4dbd526f9186cd0",
+  "active": "884621dcb4bc12e7",
   "lastOpenFiles": [
     "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Matrix_Analysis/Four Vector Spaces of Data.md",
+    "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
     "Matrix_Analysis/Review of Matrix Decomposition.md",
+    "Attachments/Pasted image 20230312111447.png",
+    "Attachments/Pasted image 20230312111148.png",
+    "Matrix_Analysis/Four Vector Spaces of Data.md",
     "Attachments/Pasted image 20230312104251.png",
     "Attachments/Pasted image 20230312103757.png",
     "Attachments/Pasted image 20230312101258.png",
@@ -185,8 +201,6 @@
     "Miscellaneous/Today's Weather.md",
     "Matrix_Analysis/Ep.10.md",
     "Matrix_Analysis/Lagrange Multiplier.md",
-    "Attachments/Pasted image 20230312003322.png",
-    "Attachments/Pasted image 20230312003242.png",
     "Matrix_Analysis/Singular Value Decomposition(2).md",
     "Matrix_Analysis/Statistics x Linear Algebra.md",
     "Matrix_Analysis/Derivatives of Multivariable Functions.md",
