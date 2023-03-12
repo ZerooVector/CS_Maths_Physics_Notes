@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+                "file": "Machine_Learning_and_Data_Science/Data100 SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db662d8a38a168d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning_and_Data_Science/Small Practice 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Data100 SQL.md",
+                "file": "Machine_Learning_and_Data_Science/Small Practice 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Data100 SQL.md",
+                "file": "Machine_Learning_and_Data_Science/Small Practice 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Data100 SQL.md"
+                "file": "Machine_Learning_and_Data_Science/Small Practice 1.md"
               }
             }
           },
@@ -182,11 +194,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2906663f2187b9ff",
+  "active": "db662d8a38a168d2",
   "lastOpenFiles": [
+    "Machine_Learning_and_Data_Science/Data100 SQL.md",
+    "Machine_Learning_and_Data_Science/Small Practice 1.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/SQL Public.md",
-    "Machine_Learning_and_Data_Science/Data100 SQL.md",
     "Miscellaneous/Today's Weather.md",
     "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
@@ -221,7 +234,6 @@
     "Matrix_Analysis/Ep.5 Linear Mapping.md",
     "Matrix_Analysis/Ep.4 Subspace.md",
     "Matrix_Analysis/陈薪宇讲线代  Ep.1.md",
-    "Matrix_Analysis/Ep.6 Equivalent and Similar Matrix.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",
