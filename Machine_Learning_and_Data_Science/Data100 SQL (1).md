@@ -11,6 +11,7 @@ cursor = database.cursor() # 创建用于管理数据库的游标
 ```python{post}
 cursor.execute(sql)
 all_update = cursor.fetchall()
+database.commit()
 print("-----------FINISH------------")
 for item in all_update:
 	print(item)
@@ -252,9 +253,10 @@ GROUP By type
 
 
 ```python
-sql = '''
 
-'''
+cursor.close()
+database.close()
+
 ```
 
 

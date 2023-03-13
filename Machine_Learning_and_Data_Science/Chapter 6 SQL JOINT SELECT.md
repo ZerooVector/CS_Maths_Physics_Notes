@@ -29,6 +29,7 @@ WHERE Student.Sno = SC.Sno
 这个不会去除两列重复值中的一列
 
 ### 自然连接
+SQL 不支持自然连接，如果想要自然连接，你就自行调取相应的 columns
 ```python
 Sql = '''
 SELECT Student.Sno ,SC.Grade FROM STUDENT, SC
@@ -38,6 +39,7 @@ WHERE Student. Sno = SC. Sno
 
 ### 自身连接
 找到一门课的先修课的先修课——需要向前倒退两次
+这个是不是可以使用 `AS` 字段？
 ```python 
 sql = '''
 SELECT FIRST.Cno, SECOND.Cpno FROM Course FIRST Course SECOND

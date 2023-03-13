@@ -71,3 +71,4 @@ ALTER TABLE Student
 ```
 
 除了修改表之外，我们可以建立**索引**来提高查询的速度，使用 `CREATE [UNIQUE] [CLUSTER] INDEX <索引名> ON <表名> (<列名>[<次序>],...]` 来建立索引
+

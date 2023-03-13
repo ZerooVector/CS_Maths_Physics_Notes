@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2d8225ea802ef8ae",
+        "id": "6b1716caca10ede3",
         "type": "tabs",
         "children": [
           {
-            "id": "9ae09aa224aa2e76",
+            "id": "851e61e4b469a606",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+                "file": "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45c332ac9e888083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine_Learning_and_Data_Science/Data100 SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db662d8a38a168d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digital_circuit/Logic Algebra.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/Logic Algebra.md",
+                "file": "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/Logic Algebra.md",
+                "file": "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/Logic Algebra.md"
+                "file": "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md"
               }
             }
           },
@@ -193,17 +169,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "db662d8a38a168d2",
+  "active": "851e61e4b469a606",
   "lastOpenFiles": [
-    "Digital_circuit/Some Important Proofs in Logic Algebra.md",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Chapter 5 SQL SELECT.md",
+    "Machine_Learning_and_Data_Science/Chapter 4 SQL CREATE TABLE.md",
+    "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
+    "Machine_Learning_and_Data_Science/SQL Public.md",
+    "Machine_Learning_and_Data_Science/Data 100 SQL (2).md",
+    "Machine_Learning_and_Data_Science/Data100 SQL (1).md",
+    "Machine_Learning_and_Data_Science/Small Practice 1.md",
     "Digital_circuit/Logic Algebra.md",
+    "Digital_circuit/Some Important Proofs in Logic Algebra.md",
     "Digital_circuit/Index of digital circuit.md",
     "Digital_circuit/Complex Logic Gates and Functions.md",
     "Digital_circuit/Basic Appointment in Digital Circuit.md",
-    "Machine_Learning_and_Data_Science/Small Practice 1.md",
-    "Machine_Learning_and_Data_Science/Data100 SQL.md",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
-    "Machine_Learning_and_Data_Science/SQL Public.md",
     "Miscellaneous/Today's Weather.md",
     "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
@@ -229,10 +209,6 @@
     "Machine_Learning_and_Data_Science/History of ML and AI.md",
     "Matrix_Analysis/Review of Matrix Decomposition.md",
     "Matrix_Analysis/Four Vector Spaces of Data.md",
-    "Matrix_Analysis/Lagrange Multiplier.md",
-    "Matrix_Analysis/Singular Value Decomposition(2).md",
-    "Matrix_Analysis/Statistics x Linear Algebra.md",
-    "Matrix_Analysis/Derivatives of Multivariable Functions.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",

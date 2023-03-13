@@ -38,6 +38,7 @@
 [[Chapter 6 SQL JOINT SELECT]]
 
 
-
-[[Data100 SQL]]
+这是 UCB Data 100 中的一小部分
+[[Data100 SQL (1)]]
 [[Small Practice 1]]
+[[Data 100 SQL (2)]]
