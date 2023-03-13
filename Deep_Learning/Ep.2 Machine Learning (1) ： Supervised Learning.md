@@ -9,6 +9,8 @@ Unknown environments and system construction
 
 
 ## 监督学习要学什么？
+***表示、目标和优化***
+
 监督学习学的是函数：一共可能有三种函数：point set/explicit/implicit
 
 ->Save solutions to problems and retrieve them when encountering the same problem
@@ -188,11 +190,13 @@ $$
 - 如果只有部分变量被观测
 ![[Pasted image 20230306120746.png|400]]
 中间的灰色数据是无法直接得到的。我们设计一个算法：
-- 目标函数：利用极大似然估计，找到最合适的分布
+- 目标函数：利用极大似然估计（在**统计模型**中是常用的），找到最合适的分布
 $$
 P = \prod P_W
 $$
 取 log，进行连加，得到最大似然估计的目标函数，使用梯度的方法不断提升目标函数
 ![[Pasted image 20230306121448.png|500]]
+展开这个梯度：
+![[Pasted image 20230313100902.png|500]]
 
 

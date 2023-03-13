@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6b1716caca10ede3",
+        "id": "dc619503f3ad4136",
         "type": "tabs",
         "children": [
           {
-            "id": "851e61e4b469a606",
+            "id": "c51928cfdb78c452",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
+                "file": "Deep_Learning/Index of Deep Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ab207ea77a9658d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dba68b482a07d85a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep_Learning/Ep.3 Machine Learning (2)：Unsupervised Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
+                "file": "Deep_Learning/Ep.3 Machine Learning (2)：Unsupervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
+                "file": "Deep_Learning/Ep.3 Machine Learning (2)：Unsupervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md"
+                "file": "Deep_Learning/Ep.3 Machine Learning (2)：Unsupervised Learning.md"
               }
             }
           },
@@ -169,8 +194,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "851e61e4b469a606",
+  "active": "dba68b482a07d85a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230313105930.png",
+    "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
+    "Deep_Learning/Ep.3 Machine Learning (2)：Unsupervised Learning.md",
+    "Deep_Learning/Index of Deep Learning.md",
+    "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
+    "Attachments/Pasted image 20230313104041.png",
+    "Attachments/Pasted image 20230313100902.png",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Chapter 5 SQL SELECT.md",
     "Machine_Learning_and_Data_Science/Chapter 4 SQL CREATE TABLE.md",
@@ -200,15 +232,8 @@
     "Attachments/Pasted image 20230312175217.png",
     "Attachments/Pasted image 20230312174836.png",
     "Attachments/Pasted image 20230312174649.png",
-    "Attachments/Pasted image 20230312173603.png",
     "PDF/Summary of LDA.pdf",
-    "Attachments/Pasted image 20230312172220.png",
     "Matrix_Analysis/Ep.10.md",
-    "Matrix_Analysis/Ep.9 Eigen Matrix.md",
-    "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
-    "Machine_Learning_and_Data_Science/History of ML and AI.md",
-    "Matrix_Analysis/Review of Matrix Decomposition.md",
-    "Matrix_Analysis/Four Vector Spaces of Data.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",
