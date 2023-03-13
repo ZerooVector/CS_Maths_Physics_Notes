@@ -83,6 +83,7 @@ $$
 \langle  \sum_{i=1}^{s} \alpha_{i}k_{i} ,\sum_{j=1}^{t} \beta_{j}l_{j} \rangle = [\bar k_{1},\bar k_{2},\cdots ,\bar k_{s}] [\langle  \alpha_{i},\beta_{i} \rangle] [l_{1},l_{2},\cdots ,l_{t}]^{T} 
 $$
 注意，中间的矩阵在数据科学上叫做 Gram Matrix，在物理上则被称作 Metric Tensor 
+以后看到 $x^{T}Ay$ 这种形式，就要怀疑是不是内积的一个矩阵表示。
 
 ##### Def  向量组的 Gram 矩阵/基的度规张量
 记 $\beta_{1},\beta_{2},\cdots ,\beta_{s}$ 是内积空间的一个向量组，那么矩阵
@@ -112,7 +113,21 @@ $$
 注意：性质 3 提供了判断抽象向量组线性无关的具体做法，尤其是对于函数空间中的向量
 
 ##### Example 几何空间化为内积空间
-在几何空间中定义内积
+在几何空间中定义内积：
+$$
+\langle  \alpha ,\beta  \rangle =||\alpha|| \cdot ||\beta || \cdot \cos \theta
+$$
+那么，这里 Gram 矩阵的含义：
+$$
+G = \begin{bmatrix} \langle  \alpha,\alpha \rangle & \langle  \alpha,\beta \rangle \\  \langle  \beta,\alpha \rangle  & \langle  \beta,\beta \rangle\end{bmatrix}
+$$
+其行列式：
+$$
+\det (G) = ||\alpha ||^{2}||\beta||^{2}(1-\cos ^{2} \theta) = ||\alpha||^{2}||\beta||^{2}\sin ^{2}\theta 
+$$
+对应于 $\alpha,\beta$ 张成的平行四边形面积的平方。这可以被推广到三维上。
+
+
 
 
 
