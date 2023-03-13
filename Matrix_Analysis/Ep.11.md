@@ -1,5 +1,6 @@
 #MA  
 
+## 内积和空间
 ##### Def 欧几里得空间 （Euclidean Space）
 设 $V$ 是 $\mathbb{R}$ 上的线性空间，映射 $\tau : V\times V \rightarrow \mathbb{R}$ 称作 $V$ 的一个内积 (Inner Product)，为了方便起见，记 $\tau (v_{1},v_{2})$ 为 $<v_{1},v_{2}>$，我们将其称为内积，当且仅当
 - 对称性：$<v_{1},v_{2}> = <v_{2},v_{1}>$
@@ -34,8 +35,41 @@ $$\langle  x, y \rangle = x^{T}y  = \sum_{i}x_{i}y_{i} $$
 ##### Example $\mathbb{R}^n$ 空间上的非标准内积
 我们仅仅以 $n=2$ 的情况来举例，考虑：
 $$
-\langle  x,y \rangle = x_{1}y_{1}+x_{1}y_{2}+x_{2}y_{1}+x_{2}y_{2}
+\langle  x,y \rangle = x_{1}y_{1}+ \frac{1}{2} x_{1}y_{2}+ \frac{1}{2} x_{2}y_{1}+x_{2}y_{2}
 $$
+验证：交换律是否得到满足：
+换位置：
+$$
+\langle  y,x \rangle = y_{1}x_{1}+ \frac{1}{2} y_{1}x_{2} + \frac{1}{2}y_{2}x_{1}+y_{2}x_{2}
+$$
+显然，交换律成立
+
+将 $x$ 固定：注意到：
+$$
+\langle  x,y \rangle = (x_{1} + \frac{1}{2} x_{2})y_{1}+\left(\frac{1}{2} x_{1}+x_{2}\right)y_{2}  = c_{1} y_{1}+c_{2}y_{2} 
+$$
+显然是线性的
+
+$x$ 与自身的内积：
+$$
+\langle  x,x \rangle = x_{1}^{2}+x_{1}x_{2}+x_{2}^{2}
+$$
+由于系数矩阵正定，所以这个结果肯定是>0 的。
+实际上，每一个正定的二次型都对应一个内积。
+
+##### Example 函数空间的内积
+考虑定义在 $[a,b]$ 区间，输出在 $\mathbb{R}^n$ 的函数，即函数空间 $\mathcal{F}(I,\mathbb{R}^{n})$ ，函数空间中的每一个元素都是 $F = [f_{1}(x),f_{2}(x),\cdots ,f_{n}(x)]$ ，那么，定义：内积：
+$$
+\langle  f ,g \rangle = \int_{a}^{b}f^{T}(t)g(t)dt
+$$
+
+## 复内积和酉空间（幺正空间）
+
+
+
+
+
+
 
 
 

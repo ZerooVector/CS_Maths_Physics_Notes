@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "58d3290171c36289",
+        "id": "b7730e7de430c890",
         "type": "tabs",
         "children": [
           {
-            "id": "f5b575683180b00a",
+            "id": "566c2a1bd1bb2b6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Index of RL.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c033564638e1e61b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning/Ep.4.md",
+                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9379363cc4e1318f",
+            "id": "2f2d12df37e7ba93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
+                "file": "Matrix_Analysis/Ep.11.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Ep.4.md",
+                "file": "Matrix_Analysis/Ep.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Ep.4.md",
+                "file": "Matrix_Analysis/Ep.11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Ep.4.md"
+                "file": "Matrix_Analysis/Ep.11.md"
               }
             }
           },
@@ -175,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,12 +182,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c033564638e1e61b",
+  "active": "2f2d12df37e7ba93",
   "lastOpenFiles": [
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Reinforcement Learning/Index of RL.md",
     "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
     "Reinforcement Learning/Ep.4.md",
-    "Reinforcement Learning/Index of RL.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.11.md",
     "Digital_circuit/Index of digital circuit.md",
     "Digital_circuit/数电难题集锦（1）.md",
