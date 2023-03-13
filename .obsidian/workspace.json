@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Small Practice 1.md",
+                "file": "Digital_circuit/Logic Algebra.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Small Practice 1.md",
+                "file": "Digital_circuit/Logic Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Small Practice 1.md",
+                "file": "Digital_circuit/Logic Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Small Practice 1.md"
+                "file": "Digital_circuit/Logic Algebra.md"
               }
             }
           },
@@ -196,9 +195,14 @@
   },
   "active": "db662d8a38a168d2",
   "lastOpenFiles": [
+    "Digital_circuit/Some Important Proofs in Logic Algebra.md",
+    "Digital_circuit/Logic Algebra.md",
+    "Digital_circuit/Index of digital circuit.md",
+    "Digital_circuit/Complex Logic Gates and Functions.md",
+    "Digital_circuit/Basic Appointment in Digital Circuit.md",
+    "Machine_Learning_and_Data_Science/Small Practice 1.md",
     "Machine_Learning_and_Data_Science/Data100 SQL.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
-    "Machine_Learning_and_Data_Science/Small Practice 1.md",
     "Machine_Learning_and_Data_Science/SQL Public.md",
     "Miscellaneous/Today's Weather.md",
     "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
@@ -229,11 +233,6 @@
     "Matrix_Analysis/Singular Value Decomposition(2).md",
     "Matrix_Analysis/Statistics x Linear Algebra.md",
     "Matrix_Analysis/Derivatives of Multivariable Functions.md",
-    "Matrix_Analysis/Conic Sections.md",
-    "Matrix_Analysis/Surfaces and Positive Definiteness.md",
-    "Matrix_Analysis/Ep.5 Linear Mapping.md",
-    "Matrix_Analysis/Ep.4 Subspace.md",
-    "Matrix_Analysis/陈薪宇讲线代  Ep.1.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",
