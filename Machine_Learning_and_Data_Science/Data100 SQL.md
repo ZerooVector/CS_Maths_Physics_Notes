@@ -1,4 +1,4 @@
-#MLorDS 
+E #MLorDS 
 ##### 前置代码，请引入到任何学习使用 mySQL 的笔记本中，并首先执行一次
 ```python 
 import pymysql
