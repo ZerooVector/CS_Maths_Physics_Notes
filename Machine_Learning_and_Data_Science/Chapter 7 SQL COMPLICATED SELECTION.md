@@ -132,44 +132,75 @@ WHERE y.Sno = x.Sno AND y.Cno = '100001'
 '''
 ```
 
+### 实现全称量词 FORALL 
 
+查询选修了全部课程的学生姓名，也就是对于目标的学生，**不存在**一门课**没有被选中**
+```sQL
+SELECT Sname --选择一个学生
+FROM Student --应该从学生表里面选
+WHERE NOT EXISTS --对于这个学生，以下条件不能被满足 （由于下一层是找课程，因此限制条件就是下面描述的这种课不能被选出来）（三层合起来，意思就是“这个学生不可以有没选的课”）
+	(
+	SELECT * 
+	FROM Course --找到课程
+	WHERE NOT EXISTS --这门课不能满足下面的条件（这里合起来，表达的就是“第二层中查找的课程是这个学生没有选择的课程”）
+		(
+		SELECT *
+		FROM SC 
+		WHERE Sno = Student.Sno AND Cno = Course.Cno  --条件是“这个学生选了这门课“”
+		)
+	)
+```
 
+## 集合查询
+SQL 的集合查询支持 `UNION`，对于 `INTERSECT` 和 `MINUS` 必须手动实现
 
+### UNION
 ```python
 sql = '''
-
+SELECT * 
+FROM student 
+WHERE Sdept = 'CS'
+UNION 
+SELECT * 
+FROM student
+WHERE Sage < 19
 '''
 ```
 
-
-
-
+### INTERSECT 
+交操作可以使用 `AND` 或者子查询实现。
+例如，查询同时选修课程 1，又选修了课程 2 的学生
 ```python
 sql = '''
+SELECT * 
+FROM SC AS x
+WHERE x.Cno = '100001' AND x.Sno IN
+(SELECT Sno 
+FROM SC AS y
+WHERE y.Cno = '100002')
+'''
+```
+如果交操作同时落在两个属性上，那么你可以用 `OR`，否则，你只能用子查询
 
+
+### EXCEPT
+差操作一般使用子查询实现。
+```python
+sql = '''
+SELECT  Sno 
+FROM SC
+WHERE Cno = '100001'
+AND Sno NOT IN 
+(
+SELECT Sno 
+FROM SC 
+WHERE Cno = '100002'
+)
 '''
 ```
 
-
-
-
-```python
-sql = '''
-
-'''
-```
-
-
-
-
-```python
-sql = '''
-
-'''
-```
-
-
-
+### 集合操作的排序
+对于集合操作进行排序时，只能将 `ORDER BY` 语句放在最末尾，不能在中间排序
 
 ```python
 sql = '''

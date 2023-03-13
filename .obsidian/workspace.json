@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "ba28c5fdc6b521ea",
+            "id": "834f27a59ed71785",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
-                "mode": "preview",
+                "file": "Machine_Learning_and_Data_Science/Chapter 8 SQL UPDATE INSERT DELETE.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 8 SQL UPDATE INSERT DELETE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 8 SQL UPDATE INSERT DELETE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md"
+                "file": "Machine_Learning_and_Data_Science/Chapter 8 SQL UPDATE INSERT DELETE.md"
               }
             }
           },
@@ -182,11 +182,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ba28c5fdc6b521ea",
+  "active": "834f27a59ed71785",
   "lastOpenFiles": [
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
-    "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
+    "Machine_Learning_and_Data_Science/Chapter 8 SQL UPDATE INSERT DELETE.md",
     "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
+    "Machine_Learning_and_Data_Science/Gaussian Discriminant Analysis.md",
+    "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
     "Machine_Learning_and_Data_Science/Data 100 SQL (2).md",
     "Attachments/Pasted image 20230313134549.png",
     "Machine_Learning_and_Data_Science/SQL Public.md",
@@ -216,12 +218,10 @@
     "PDF/Week 3 Homework of Matrix Analysis.pdf",
     "Matrix_Analysis/Week 2 Homework of Matrix Decomposition.md",
     "Machine_Learning_and_Data_Science/Topic Modeling.md",
-    "Machine_Learning_and_Data_Science/Summary of LDA.md",
     "Attachments/Pasted image 20230312182106.png",
     "Attachments/Pasted image 20230312182041.png",
     "Attachments/Pasted image 20230312181142.png",
     "PDF/Summary of LDA.pdf",
-    "Matrix_Analysis/Ep.10.md",
     "PDF/Index of RL.pdf",
     "PDF/Ep.3 Single Agent Deep RL.pdf",
     "PDF/Chapter 4 SQL.pdf",
