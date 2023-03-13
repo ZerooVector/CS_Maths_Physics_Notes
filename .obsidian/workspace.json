@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7d10dea6567d3463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "834f27a59ed71785",
             "type": "leaf",
             "state": {
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 8 SQL UPDATE INSERT DELETE.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 8 SQL UPDATE INSERT DELETE.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 8 SQL UPDATE INSERT DELETE.md"
+                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md"
               }
             }
           },
@@ -182,7 +194,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "834f27a59ed71785",
+  "active": "7d10dea6567d3463",
   "lastOpenFiles": [
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Chapter 8 SQL UPDATE INSERT DELETE.md",

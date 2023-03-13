@@ -151,6 +151,11 @@ WHERE NOT EXISTS --对于这个学生，以下条件不能被满足 （由于下
 	)
 ```
 
+
+
+
+
+
 ## 集合查询
 SQL 的集合查询支持 `UNION`，对于 `INTERSECT` 和 `MINUS` 必须手动实现
 
