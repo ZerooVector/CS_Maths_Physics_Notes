@@ -1,6 +1,6 @@
 #MA  
 
-## 内积和空间
+## 内积和欧几里得空间
 ##### Def 欧几里得空间 （Euclidean Space）
 设 $V$ 是 $\mathbb{R}$ 上的线性空间，映射 $\tau : V\times V \rightarrow \mathbb{R}$ 称作 $V$ 的一个内积 (Inner Product)，为了方便起见，记 $\tau (v_{1},v_{2})$ 为 $<v_{1},v_{2}>$，我们将其称为内积，当且仅当
 - 对称性：$<v_{1},v_{2}> = <v_{2},v_{1}>$
@@ -63,7 +63,62 @@ $$
 \langle  f ,g \rangle = \int_{a}^{b}f^{T}(t)g(t)dt
 $$
 
-## 复内积和酉空间（幺正空间）
+## 复内积和酉空间（幺正空间, Unitary Space）
+
+在这一部分中，我们将研究复数域上的线性空间，在这样的空间上，内积是 $\tau : V\times V \rightarrow C$ 的映射，复内积和实内积满足几乎相同的要求，唯一的不同是，交换顺序将得到复内积的共轭。定义了复数内积的空间被称为复内积空间，有限维的复内积空间称为幺正空间。
+
+##### Theorem 复内积对第一个变元是共轭线性的
+$$
+\langle  v_{1}k+v_{2}l , u \rangle = \bar  k \langle  v_{1},u \rangle + \bar l \langle  v_{2},u \rangle
+$$
+这个定理可以通过计算 $(\langle  u,v_{1}k+v_{2}l\rangle)'$ 来得到。注意：**复内积只是对第一个变量是共轭线性的，对第二个变量是完全线性的！** 
+
+##### Example 标准幺正空间上的内积
+$$
+\langle  x,y \rangle = \bar x^{T}y
+$$
+
+##### Theorem 线性组合内积的矩阵表示
+$$
+\langle  \sum_{i=1}^{s} \alpha_{i}k_{i} ,\sum_{j=1}^{t} \beta_{j}l_{j} \rangle = [\bar k_{1},\bar k_{2},\cdots ,\bar k_{s}] [\langle  \alpha_{i},\beta_{i} \rangle] [l_{1},l_{2},\cdots ,l_{t}]^{T} 
+$$
+注意，中间的矩阵在数据科学上叫做 Gram Matrix，在物理上则被称作 Metric Tensor 
+
+##### Def  向量组的 Gram 矩阵/基的度规张量
+记 $\beta_{1},\beta_{2},\cdots ,\beta_{s}$ 是内积空间的一个向量组，那么矩阵
+$$
+G(\beta_{1},\cdots ,\beta_{s}) = [\langle  \beta_{i},\beta_{j} \rangle]
+$$
+称为向量组 $\beta_{i}$ 的 Gram 矩阵。基向量组的 Gram 矩阵则被称为这组基的度规张量
+根据前面的例子，只要知道了一个向量组的 Gram 矩阵，由该向量组张成的子空间中任意两个向量的内积都可以确定。知道了基向量的度规张量，实际上我们可以求出空间中线元的表示。
+因此，空间中的内积由度规唯一决定。
+
+##### Theorem Gram 矩阵的性质
+- Hermite 性：$\bar G^{T} = G$ 
+- 非负定性：$\forall z \in \mathbb{C}^{s},\bar z^{T}Gz \ge 0$ 
+- $G$ 正定，等价于 $\beta_{i}$ 线性无关
+- $G$ 的秩与向量组 $\beta$ 的秩相等
+
+##### PF 
+(1) $G$ 的 $i$ 行 $j$ 列元素为 $\langle  \beta_{i},\beta_{j} \rangle$ ，$G^{H}$ 的 $i$ 行 $j$ 列元素则是 $(\langle  \beta_{j},\beta_{i} \rangle)'$，由内积的性质，显然得证。
+(2) $G$ 的非负定性质由 $G$ 的对称性保证：
+$$z^{H}Gz = [\bar z_{1},\cdots ,\bar z_{s}]G[z_{1},\cdots ,z_{s}]^{T}$$
+根据上面的推导，这可以看作两个向量的内积：
+$$
+z^{H}Gz = \langle  \beta_{1}z_{1}+\beta_{2}z_{2},\cdots ,+\beta_{s}z_{s},\cdot  \rangle
+$$
+这显然是大于 0 的。
+(3) 如果 $G$ 正定，那么对于任意的 $z$ 都有 $\sum_{i}\beta_{i}z_{i} \not = 0$，这就是 $\beta_{i}$ 线性无关的定义
+注意：性质 3 提供了判断抽象向量组线性无关的具体做法，尤其是对于函数空间中的向量
+
+##### Example 几何空间化为内积空间
+在几何空间中定义内积
+
+
+
+
+
+
 
 
 
