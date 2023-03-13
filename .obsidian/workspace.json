@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
+                "file": "Reinforcement Learning/Ep.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
+                "file": "Reinforcement Learning/Ep.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Ep.3 Single Agent Deep RL.md"
+                "file": "Reinforcement Learning/Ep.4.md"
               }
             }
           },
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,10 +192,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9379363cc4e1318f",
+  "active": "c033564638e1e61b",
   "lastOpenFiles": [
-    "Reinforcement Learning/Ep.4.md",
     "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
+    "Reinforcement Learning/Ep.4.md",
     "Reinforcement Learning/Index of RL.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.11.md",
