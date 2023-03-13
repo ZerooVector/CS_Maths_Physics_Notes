@@ -6,11 +6,13 @@ banner: "![[banner20.png]]"
 
 
 
-# INDEX
+## INDEX
 [[Basic Appointment in Digital Circuit]]
 [[Logic Algebra]]
 [[Some Important Proofs in Logic Algebra]]
 [[Complex Logic Gates and Functions]]
 [[K-Map]]
 
+## Some Interesting Problems
+[[数电难题集锦（1）]]
 

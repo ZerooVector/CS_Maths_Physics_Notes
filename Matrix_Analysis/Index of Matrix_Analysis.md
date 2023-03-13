@@ -66,7 +66,9 @@ Syllabus:
 [[Ep.7 Lambda Matrix]]
 [[Ep.8 Smith Canonical Form]]
 [[Ep.9 Eigen Matrix]] 
-[[Ep.10]]
+[[Ep.10 Jordan Canonical Form]]
+[[Ep.11]]
+
 
 ## PKU Course
 这是 PKU 丘维声的高等代数课程，（可能）是中国大陆最好的课程

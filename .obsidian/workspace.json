@@ -4,47 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "7cb29c1f2bd2cd3c",
+        "id": "58d3290171c36289",
         "type": "tabs",
         "children": [
           {
-            "id": "dcb9c3ba8808025e",
+            "id": "f5b575683180b00a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+                "file": "Reinforcement Learning/Index of RL.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c033564638e1e61b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning/Ep.4.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7d10dea6567d3463",
+            "id": "9379363cc4e1318f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "834f27a59ed71785",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 8 SQL UPDATE INSERT DELETE.md",
+                "file": "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
+                "file": "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
+                "file": "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md"
+                "file": "Reinforcement Learning/Ep.3 Single Agent Deep RL.md"
               }
             }
           },
@@ -194,10 +193,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7d10dea6567d3463",
+  "active": "9379363cc4e1318f",
   "lastOpenFiles": [
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Reinforcement Learning/Ep.4.md",
+    "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
+    "Reinforcement Learning/Index of RL.md",
+    "Matrix_Analysis/Index of Matrix_Analysis.md",
+    "Matrix_Analysis/Ep.11.md",
+    "Digital_circuit/Index of digital circuit.md",
+    "Digital_circuit/数电难题集锦（1）.md",
+    "Matrix_Analysis/Ep.10 Jordan Canonical Form.md",
     "Machine_Learning_and_Data_Science/Chapter 8 SQL UPDATE INSERT DELETE.md",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
     "Machine_Learning_and_Data_Science/Gaussian Discriminant Analysis.md",
     "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
@@ -218,18 +225,10 @@
     "Machine_Learning_and_Data_Science/Small Practice 1.md",
     "Digital_circuit/Logic Algebra.md",
     "Digital_circuit/Some Important Proofs in Logic Algebra.md",
-    "Digital_circuit/Index of digital circuit.md",
     "Digital_circuit/Complex Logic Gates and Functions.md",
-    "Digital_circuit/Basic Appointment in Digital Circuit.md",
-    "Miscellaneous/Today's Weather.md",
-    "Matrix_Analysis/From Matrix Analysis to Machine Learning.md",
-    "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "Matrix_Analysis/Week 3 Homework of Matrix Analysis.md",
     "Attachments/abf30063b8c9ec60bd1721fd7f66cc7.jpg",
     "Attachments/e8a1c3031a0477cff6c44be1fdb565d.jpg",
     "PDF/Week 3 Homework of Matrix Analysis.pdf",
-    "Matrix_Analysis/Week 2 Homework of Matrix Decomposition.md",
-    "Machine_Learning_and_Data_Science/Topic Modeling.md",
     "Attachments/Pasted image 20230312182106.png",
     "Attachments/Pasted image 20230312182041.png",
     "Attachments/Pasted image 20230312181142.png",
