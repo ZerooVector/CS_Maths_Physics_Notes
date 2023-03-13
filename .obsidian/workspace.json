@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "dc619503f3ad4136",
+        "id": "770d45b4d550e7f8",
         "type": "tabs",
         "children": [
           {
-            "id": "c51928cfdb78c452",
+            "id": "1f384eee3c2ac617",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep_Learning/Index of Deep Learning.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7ab207ea77a9658d",
+            "id": "95f10f69eb0074a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dba68b482a07d85a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep_Learning/Ep.3 Machine Learning (2)：Unsupervised Learning.md",
+                "file": "Machine_Learning_and_Data_Science/Data 100 SQL (2).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep_Learning/Ep.3 Machine Learning (2)：Unsupervised Learning.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep_Learning/Ep.3 Machine Learning (2)：Unsupervised Learning.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep_Learning/Ep.3 Machine Learning (2)：Unsupervised Learning.md"
+                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md"
               }
             }
           },
@@ -194,23 +181,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "dba68b482a07d85a",
+  "active": "1f384eee3c2ac617",
   "lastOpenFiles": [
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Data 100 SQL (2).md",
+    "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
+    "Machine_Learning_and_Data_Science/SQL Public.md",
+    "Machine_Learning_and_Data_Science/Chapter 4 SQL CREATE TABLE.md",
+    "Deep_Learning/Ep.3 Machine Learning (2)：Unsupervised Learning.md",
+    "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
+    "Machine_Learning_and_Data_Science/Data100 SQL (1).md",
+    "Machine_Learning_and_Data_Science/Chapter 5 SQL SELECT.md",
     "Deep_Learning/Index of Deep Learning.md",
     "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
-    "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
-    "Deep_Learning/Ep.3 Machine Learning (2)：Unsupervised Learning.md",
     "Attachments/Pasted image 20230313111008.png",
     "Attachments/Pasted image 20230313105930.png",
     "Attachments/Pasted image 20230313104041.png",
     "Attachments/Pasted image 20230313100902.png",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
-    "Machine_Learning_and_Data_Science/Chapter 5 SQL SELECT.md",
-    "Machine_Learning_and_Data_Science/Chapter 4 SQL CREATE TABLE.md",
-    "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
-    "Machine_Learning_and_Data_Science/SQL Public.md",
-    "Machine_Learning_and_Data_Science/Data 100 SQL (2).md",
-    "Machine_Learning_and_Data_Science/Data100 SQL (1).md",
     "Machine_Learning_and_Data_Science/Small Practice 1.md",
     "Digital_circuit/Logic Algebra.md",
     "Digital_circuit/Some Important Proofs in Logic Algebra.md",

@@ -12,6 +12,7 @@ cursor = database.cursor() # 创建用于管理数据库的游标
 ```python{post}
 cursor.execute(sql)
 all_update = cursor.fetchall()
+database.commit()
 print("-----------FINISH------------")
 for item in all_update:
 	print(item)
@@ -32,7 +33,7 @@ WHERE Student.Sno = SC.Sno
 SQL 不支持自然连接，如果想要自然连接，你就自行调取相应的 columns
 ```python
 Sql = '''
-SELECT Student.Sno ,SC.Grade FROM STUDENT, SC
+SELECT Student.Sno  FROM STUDENT
 WHERE Student. Sno = SC. Sno
 '''
 ```
