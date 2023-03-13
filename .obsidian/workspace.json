@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "770d45b4d550e7f8",
+        "id": "7cb29c1f2bd2cd3c",
         "type": "tabs",
         "children": [
           {
-            "id": "1f384eee3c2ac617",
+            "id": "dcb9c3ba8808025e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "95f10f69eb0074a4",
+            "id": "ba28c5fdc6b521ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Data 100 SQL (2).md",
-                "mode": "source",
+                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
+                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md"
+                "file": "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md"
               }
             }
           },
@@ -181,11 +182,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1f384eee3c2ac617",
+  "active": "ba28c5fdc6b521ea",
   "lastOpenFiles": [
     "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
-    "Machine_Learning_and_Data_Science/Data 100 SQL (2).md",
     "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
+    "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
+    "Machine_Learning_and_Data_Science/Data 100 SQL (2).md",
+    "Attachments/Pasted image 20230313134549.png",
     "Machine_Learning_and_Data_Science/SQL Public.md",
     "Machine_Learning_and_Data_Science/Chapter 4 SQL CREATE TABLE.md",
     "Deep_Learning/Ep.3 Machine Learning (2)：Unsupervised Learning.md",
@@ -217,7 +220,6 @@
     "Attachments/Pasted image 20230312182106.png",
     "Attachments/Pasted image 20230312182041.png",
     "Attachments/Pasted image 20230312181142.png",
-    "Attachments/Pasted image 20230312175217.png",
     "PDF/Summary of LDA.pdf",
     "Matrix_Analysis/Ep.10.md",
     "PDF/Index of RL.pdf",

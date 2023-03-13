@@ -32,24 +32,51 @@ WHERE Student.Sno = SC.Sno
 ### 自然连接
 SQL 不支持自然连接，如果想要自然连接，你就自行调取相应的 columns
 ```python
-Sql = '''
-SELECT Student.Sno  FROM STUDENT
-WHERE Student. Sno = SC. Sno
+sql = '''
+SELECT Student.Sno ,SC.grade FROM student,sc
+WHERE Student.Sno = SC.Sno
+
 '''
 ```
 
 ### 自身连接
 找到一门课的先修课的先修课——需要向前倒退两次
-这个是不是可以使用 `AS` 字段？
 ```python 
 sql = '''
-SELECT FIRST.Cno, SECOND.Cpno FROM Course FIRST Course SECOND
+SELECT FIRST.Cno, SECOND.Cpno 
+FROM Course AS FIRST Course AS SECOND
 WHERE First.Cpno = SECOND.Cno
 '''
 ```
 ### 内连接
 ```python
 sql = '''
-SELECT 
+
+'''
 ```
+
+### 外连接
+```python
+sql = '''
+SELECT 
+'''
+```
+
+
+### 复合条件连接
+```python
+sql = '''
+
+'''
+```
+
+复合条件可以用于实现多表连接
+```python
+sql = '''
+SELECT Student.Sno, Sname,Cname,Grade
+FROM Student, SC, Course 
+WHERE Student.Sno=SC.Sno and SC.Cno = Course.Cno
+'''
+```
+
 

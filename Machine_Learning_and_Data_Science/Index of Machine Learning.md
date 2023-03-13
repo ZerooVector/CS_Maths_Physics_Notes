@@ -36,7 +36,9 @@
 [[Chapter 4 SQL CREATE TABLE]]
 [[Chapter 5 SQL SELECT]]
 [[Chapter 6 SQL JOINT SELECT]]
-
+[[Chapter 7 SQL COMPLICATED SELECTION]]
+[[Chapter 8 SQL UPDATE INSERT DELETE]]
+[[Chapter 9]]
 
 这是 UCB Data 100 中的一小部分
 [[Data100 SQL (1)]]
