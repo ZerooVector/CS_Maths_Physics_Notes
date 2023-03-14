@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "fdfc1ef866411f8c",
+        "id": "69a9b88b61a5c989",
         "type": "tabs",
         "children": [
           {
-            "id": "9cafa1451ddb83c0",
+            "id": "6a010d57e82a1628",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/Index of digital circuit.md",
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "28d72b536bdbe1e5",
+            "id": "4b9c7639b38586bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/Combinational Circuit(1).md",
+                "file": "Machine_Learning_and_Data_Science/Topic Modeling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7da5c203a8e123df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning_and_Data_Science/Summary of LDA.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/Combinational Circuit(1).md",
+                "file": "Machine_Learning_and_Data_Science/Topic Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/Combinational Circuit(1).md",
+                "file": "Machine_Learning_and_Data_Science/Topic Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/Combinational Circuit(1).md"
+                "file": "Machine_Learning_and_Data_Science/Topic Modeling.md"
               }
             }
           },
@@ -182,24 +194,24 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "28d72b536bdbe1e5",
+  "active": "4b9c7639b38586bf",
   "lastOpenFiles": [
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Summary of LDA.md",
+    "Digital_circuit/Index of digital circuit.md",
+    "Digital_circuit/Combinational Circuit(1).md",
+    "Attachments/Pasted image 20230314143606.png",
     "Attachments/Pasted image 20230314143216.png",
     "Attachments/Pasted image 20230314142826.png",
     "Attachments/Pasted image 20230314142751.png",
     "Attachments/Pasted image 20230314142321.png",
     "Attachments/Pasted image 20230314142042.png",
-    "Digital_circuit/Index of digital circuit.md",
-    "Digital_circuit/Combinational Circuit(1).md",
     "Attachments/Pasted image 20230314141931.png",
     "Attachments/Pasted image 20230314141900.png",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Data 100 SQL (2).md",
     "Machine_Learning_and_Data_Science/Hierarchical Clustering and Spectral Clustering.md",
     "Attachments/Pasted image 20230314124151.png",
     "Attachments/Pasted image 20230314100016.png",
-    "Attachments/Pasted image 20230314095732.png",
-    "Attachments/Pasted image 20230314095343.png",
     "Matrix_Analysis/Ep.11 Introduction of Inner Product.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.12.md",
