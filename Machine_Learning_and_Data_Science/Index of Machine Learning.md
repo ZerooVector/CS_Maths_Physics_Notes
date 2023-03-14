@@ -10,7 +10,7 @@
 [[Naive Bayes Classifier(1)  Math Basis]]
 [[Naive Bayes Classifier(2) Basic Application]]
 [[Gaussian Discriminant Analysis]] 
-
+[[Hierarchical Clustering and Spectral Clustering]]
 
 ## ML2
 这是北理工开设的一门机器学习课程

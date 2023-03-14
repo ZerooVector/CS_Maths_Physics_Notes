@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b7730e7de430c890",
+        "id": "4cac3187d22406a5",
         "type": "tabs",
         "children": [
           {
-            "id": "566c2a1bd1bb2b6b",
+            "id": "5cc5ccbc2bc5e1a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Index of Matrix_Analysis.md",
+                "file": "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "10936f0faa96e130",
+            "id": "60653a68fdd8ccaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix_Analysis/Ep.12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f2d12df37e7ba93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix_Analysis/Ep.11 Introduction of Inner Product.md",
+                "file": "Machine_Learning_and_Data_Science/Hierarchical Clustering and Spectral Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix_Analysis/Ep.12.md",
+                "file": "Machine_Learning_and_Data_Science/Hierarchical Clustering and Spectral Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix_Analysis/Ep.12.md",
+                "file": "Machine_Learning_and_Data_Science/Hierarchical Clustering and Spectral Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix_Analysis/Ep.12.md"
+                "file": "Machine_Learning_and_Data_Science/Hierarchical Clustering and Spectral Clustering.md"
               }
             }
           },
@@ -194,11 +182,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "10936f0faa96e130",
+  "active": "60653a68fdd8ccaf",
   "lastOpenFiles": [
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Hierarchical Clustering and Spectral Clustering.md",
+    "Matrix_Analysis/Ep.11 Introduction of Inner Product.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.12.md",
-    "Matrix_Analysis/Ep.11 Introduction of Inner Product.md",
     "Reinforcement Learning/Index of RL.md",
     "Reinforcement Learning/Ep.3 Single Agent Deep RL.md",
     "Reinforcement Learning/Ep.4.md",
@@ -206,7 +196,6 @@
     "Digital_circuit/数电难题集锦（1）.md",
     "Matrix_Analysis/Ep.10 Jordan Canonical Form.md",
     "Machine_Learning_and_Data_Science/Chapter 8 SQL UPDATE INSERT DELETE.md",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
     "Machine_Learning_and_Data_Science/Chapter 7 SQL COMPLICATED SELECTION.md",
     "Machine_Learning_and_Data_Science/Gaussian Discriminant Analysis.md",
     "Machine_Learning_and_Data_Science/Chapter 6 SQL JOINT SELECT.md",
@@ -226,7 +215,6 @@
     "Attachments/Pasted image 20230313100902.png",
     "Machine_Learning_and_Data_Science/Small Practice 1.md",
     "Digital_circuit/Logic Algebra.md",
-    "Digital_circuit/Some Important Proofs in Logic Algebra.md",
     "Attachments/abf30063b8c9ec60bd1721fd7f66cc7.jpg",
     "Attachments/e8a1c3031a0477cff6c44be1fdb565d.jpg",
     "PDF/Week 3 Homework of Matrix Analysis.pdf",

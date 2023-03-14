@@ -45,7 +45,7 @@ $$
 也就是说，向量长度的第五条是由内积的性质保证的。
 只要你把长度定义成内积开根号，第五条就满足。
 
-（4）我们给出退化版的证明：假定 $\langle  \alpha,\beta \rangle$ 是实数，C-S 不等式等价于
+（4）我们首先给出退化版的证明：假定 $\langle  \alpha,\beta \rangle$ 是实数，C-S 不等式等价于
 $$
 (2\langle  \alpha,\beta \rangle)^{2} \le  4||\alpha||^{2}\ ||\beta||^{2}
 $$
@@ -70,4 +70,6 @@ $$
 $$
 \langle  \alpha,\beta \rangle \exp(-i \theta) = |\langle  \alpha,\beta \rangle| = \langle  \alpha\exp (i \theta),\beta \rangle
 $$
-这样的内积也是实数。利用刚刚证明的结论，$\langle  \alpha',\beta \rangle \le ||\alpha'||\ ||\beta||$ ，又注意到：$|\langle  \alpha',\beta \rangle| = |\alpha\exp |$ 
+这样的内积也是实数。利用刚刚证明的结论，$\langle  \alpha',\beta \rangle \le ||\alpha'||\ ||\beta||$ ，又注意到：$|\langle  \alpha',\beta \rangle| = |\langle  \alpha\exp (i \theta),\beta \rangle| = |\langle  \alpha,\beta \rangle|$ ，而且 $||\alpha'||\ ||\beta||  = ||\alpha|| \ ||\beta||$，因此对于这种内积不是实数的情况也是成立的。
+
+
