@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "60653a68fdd8ccaf",
+            "id": "a3057c3cc3cc56ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Hierarchical Clustering and Spectral Clustering.md",
+                "file": "Machine_Learning_and_Data_Science/Data 100 SQL (2).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Hierarchical Clustering and Spectral Clustering.md",
+                "file": "Machine_Learning_and_Data_Science/Data 100 SQL (2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Hierarchical Clustering and Spectral Clustering.md",
+                "file": "Machine_Learning_and_Data_Science/Data 100 SQL (2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine_Learning_and_Data_Science/Hierarchical Clustering and Spectral Clustering.md"
+                "file": "Machine_Learning_and_Data_Science/Data 100 SQL (2).md"
               }
             }
           },
@@ -182,16 +182,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "60653a68fdd8ccaf",
+  "active": "a3057c3cc3cc56ef",
   "lastOpenFiles": [
+    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
+    "Machine_Learning_and_Data_Science/Hierarchical Clustering and Spectral Clustering.md",
+    "Attachments/Pasted image 20230314124151.png",
     "Attachments/Pasted image 20230314100016.png",
     "Attachments/Pasted image 20230314095732.png",
     "Attachments/Pasted image 20230314095343.png",
     "Attachments/Pasted image 20230314095126.png",
     "Attachments/Pasted image 20230314094642.png",
     "Attachments/Pasted image 20230314094525.png",
-    "Machine_Learning_and_Data_Science/Index of Machine Learning.md",
-    "Machine_Learning_and_Data_Science/Hierarchical Clustering and Spectral Clustering.md",
     "Matrix_Analysis/Ep.11 Introduction of Inner Product.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Matrix_Analysis/Ep.12.md",
@@ -217,8 +218,6 @@
     "Deep_Learning/Ep.2 Machine Learning (1) ： Supervised Learning.md",
     "Attachments/Pasted image 20230313111008.png",
     "Attachments/Pasted image 20230313105930.png",
-    "Attachments/Pasted image 20230313104041.png",
-    "Attachments/Pasted image 20230313100902.png",
     "Machine_Learning_and_Data_Science/Small Practice 1.md",
     "PDF/Week 3 Homework of Matrix Analysis.pdf",
     "PDF/Summary of LDA.pdf",
