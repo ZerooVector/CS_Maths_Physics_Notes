@@ -1,0 +1,114 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#MLorDS",
+      "color": {
+        "a": 1,
+        "rgb": 14839826
+      }
+    },
+    {
+      "query": "tag:#MCM",
+      "color": {
+        "a": 1,
+        "rgb": 5723991
+      }
+    },
+    {
+      "query": "tag:#Algo",
+      "color": {
+        "a": 1,
+        "rgb": 14720297
+      }
+    },
+    {
+      "query": "tag:#MA",
+      "color": {
+        "a": 1,
+        "rgb": 6674285
+      }
+    },
+    {
+      "query": "tag:#Python",
+      "color": {
+        "a": 1,
+        "rgb": 15725334
+      }
+    },
+    {
+      "query": "tag:#RL",
+      "color": {
+        "a": 1,
+        "rgb": 15053610
+      }
+    },
+    {
+      "query": "tag:#DCorMCU",
+      "color": {
+        "a": 1,
+        "rgb": 14533932
+      }
+    },
+    {
+      "query": "tag:#OPTandOR",
+      "color": {
+        "a": 1,
+        "rgb": 2154431
+      }
+    },
+    {
+      "query": "tag:#DL",
+      "color": {
+        "a": 1,
+        "rgb": 15026980
+      }
+    },
+    {
+      "query": "tag:#Research",
+      "color": {
+        "a": 1,
+        "rgb": 15817563
+      }
+    },
+    {
+      "query": "tag:#Functional",
+      "color": {
+        "a": 1,
+        "rgb": 15921906
+      }
+    },
+    {
+      "query": "tag:#SP",
+      "color": {
+        "a": 1,
+        "rgb": 60219
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.1229381443299,
+  "lineSizeMultiplier": 1.02190721649485,
+  "collapse-forces": true,
+  "centerStrength": 0.456185567010309,
+  "repelStrength": 9.38144329896907,
+  "linkStrength": 1,
+  "linkDistance": 255,
+  "scale": 0.862595060904695,
+  "close": true
+}

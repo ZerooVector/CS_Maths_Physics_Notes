@@ -1,0 +1,13 @@
+{
+  "obsidian-excalidraw-plugin:excalidraw-autocreate": [],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed": [],
+  "quick-latex:addAlignBlock": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ]
+}
