@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "Digital_circuit/Index of digital circuit.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "Digital_circuit/Index of digital circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "Digital_circuit/Index of digital circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md"
+                "file": "Digital_circuit/Index of digital circuit.md"
               }
             }
           },
@@ -180,8 +180,12 @@
   },
   "active": "80e88fe26b59a2dd",
   "lastOpenFiles": [
-    "CS_Maths_Physics_Notes",
+    "Digital_circuit/FF(1).md",
+    "Digital_circuit/Index of digital circuit.md",
+    "Digital_circuit/Temporal Logic(2).md",
+    "Digital_circuit/TLC Design.md",
     "Miscellaneous/Notes Summary Center.md",
+    "CS_Maths_Physics_Notes",
     "Deep_Learning/Index of Deep Learning.md",
     "Deep_Learning/Ep.7 Evolutionary Computation.md",
     "Attachments/Pasted image 20230508121640.png",
@@ -213,9 +217,6 @@
     "Machine_Learning_and_Data_Science/Chapter 7 SQL Complecated Selections.md",
     "Machine_Learning_and_Data_Science/Chapter 5 SQL SELECT.md",
     "MCM_ICM/生产烯烃.md",
-    "MCM_ICM/古玻璃识别.md",
-    "Deep_Learning/Ep.5 Symbolic AI.md",
-    "Matrix_Analysis/矩阵分析模拟试题（自制）.md",
     "PDF/矩阵分析模拟试题（自制）.pdf",
     "PDF/Part 1 Homework.pdf",
     "PDF/机场打车.pdf",
@@ -225,7 +226,6 @@
     "PDF/Ep.4 Deep Learning(1)：.pdf",
     "PDF/SQL念咒指南.pdf",
     "PDF/Week 4 Homework of Matrix Analysis.pdf",
-    "PDF/How to Chat with GPT.pdf",
     "Untitled.canvas"
   ]
 }
