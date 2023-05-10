@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/Index of digital circuit.md",
+                "file": "MCM_ICM/古玻璃识别.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/Index of digital circuit.md",
+                "file": "MCM_ICM/古玻璃识别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/Index of digital circuit.md",
+                "file": "MCM_ICM/古玻璃识别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/Index of digital circuit.md"
+                "file": "MCM_ICM/古玻璃识别.md"
               }
             }
           },
@@ -180,11 +180,15 @@
   },
   "active": "80e88fe26b59a2dd",
   "lastOpenFiles": [
-    "Digital_circuit/FF(1).md",
+    "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
+    "MCM_ICM/古玻璃识别.md",
+    "Miscellaneous/Notes Summary Center.md",
+    "MCM_ICM/机场打车.md",
+    "MCM_ICM/2022 A Power Profile of a Cyclist.md",
     "Digital_circuit/Index of digital circuit.md",
+    "Digital_circuit/FF(1).md",
     "Digital_circuit/Temporal Logic(2).md",
     "Digital_circuit/TLC Design.md",
-    "Miscellaneous/Notes Summary Center.md",
     "CS_Maths_Physics_Notes",
     "Deep_Learning/Index of Deep Learning.md",
     "Deep_Learning/Ep.7 Evolutionary Computation.md",
@@ -196,8 +200,6 @@
     "Attachments/Pasted image 20230508112132.png",
     "Attachments/Pasted image 20230508111938.png",
     "Deep_Learning/Ep.6 Knowledge and Reasoning.md",
-    "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
-    "MCM_ICM/机场打车.md",
     "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
     "Optimization method and Ops Rsch/Swarm Intelligence.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
@@ -215,8 +217,6 @@
     "Machine_Learning_and_Data_Science/Chapter 9 SQL VIEW, GRANT, REVOKE.md",
     "Machine_Learning_and_Data_Science/Chapter 8 SQL UPDATE INSERT DELETE.md",
     "Machine_Learning_and_Data_Science/Chapter 7 SQL Complecated Selections.md",
-    "Machine_Learning_and_Data_Science/Chapter 5 SQL SELECT.md",
-    "MCM_ICM/生产烯烃.md",
     "PDF/矩阵分析模拟试题（自制）.pdf",
     "PDF/Part 1 Homework.pdf",
     "PDF/机场打车.pdf",
