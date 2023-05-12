@@ -19,28 +19,14 @@
             "id": "ea1db25c60bd8575",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "105161cd977f4ca4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCM_ICM/2023 校赛试题集中点评.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.2.8"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCM_ICM/2023 校赛试题集中点评.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCM_ICM/2023 校赛试题集中点评.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MCM_ICM/2023 校赛试题集中点评.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,11 +181,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "105161cd977f4ca4",
+  "active": "ea1db25c60bd8575",
   "lastOpenFiles": [
+    "Miscellaneous/Notes Summary Center.md",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "MCM_ICM/2023 校赛试题集中点评.md",
-    "Miscellaneous/Notes Summary Center.md",
     "Digital_circuit/Index of digital circuit.md",
     "Digital_circuit/数字电路模拟试题.md",
     "PDF/数字电路模拟试题.pdf",
