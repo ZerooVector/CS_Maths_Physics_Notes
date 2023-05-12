@@ -21,19 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/Index of digital circuit.md",
+                "file": "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "df93110e4ba02dee",
+            "id": "105161cd977f4ca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital_circuit/数字电路模拟试题.md",
+                "file": "MCM_ICM/2023 校赛试题集中点评.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/数字电路模拟试题.md",
+                "file": "MCM_ICM/2023 校赛试题集中点评.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/数字电路模拟试题.md",
+                "file": "MCM_ICM/2023 校赛试题集中点评.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/数字电路模拟试题.md"
+                "file": "MCM_ICM/2023 校赛试题集中点评.md"
               }
             }
           },
@@ -199,8 +199,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "df93110e4ba02dee",
+  "active": "105161cd977f4ca4",
   "lastOpenFiles": [
+    "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
+    "MCM_ICM/2023 校赛试题集中点评.md",
+    "Miscellaneous/Notes Summary Center.md",
+    "Digital_circuit/Index of digital circuit.md",
+    "Digital_circuit/数字电路模拟试题.md",
     "PDF/数字电路模拟试题.pdf",
     "Attachments/Pasted image 20230512112354.png",
     "Attachments/Pasted image 20230512112315.png",
@@ -212,13 +217,9 @@
     "Attachments/Pasted image 20230512111814.png",
     "Attachments/Pasted image 20230512111733.png",
     "Attachments/Pasted image 20230512111534.png",
-    "Digital_circuit/Index of digital circuit.md",
     "Digital_circuit/FF(1).md",
     "Digital_circuit/TLC Design.md",
     "Digital_circuit/Temporal Logic(2).md",
-    "Digital_circuit/数字电路模拟试题.md",
-    "Miscellaneous/Notes Summary Center.md",
-    "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "MCM_ICM/古玻璃识别.md",
     "MCM_ICM/机场打车.md",
     "MCM_ICM/2022 A Power Profile of a Cyclist.md",
@@ -246,7 +247,6 @@
     "PDF/北京理工大学智能系第一届背书大赛·模拟题.pdf",
     "PDF/Ep.4 Deep Learning(1)：.pdf",
     "PDF/SQL念咒指南.pdf",
-    "PDF/Week 4 Homework of Matrix Analysis.pdf",
     "Untitled.canvas"
   ]
 }
