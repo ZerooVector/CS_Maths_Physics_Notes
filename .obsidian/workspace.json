@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e3321373dddf8567",
+        "id": "59f16954beb94107",
         "type": "tabs",
         "children": [
           {
-            "id": "80e88fe26b59a2dd",
+            "id": "3b746c17bd11ec95",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea1db25c60bd8575",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCM_ICM/古玻璃识别.md",
+                "file": "Miscellaneous/Notes Summary Center.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCM_ICM/古玻璃识别.md",
+                "file": "Miscellaneous/Notes Summary Center.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCM_ICM/古玻璃识别.md",
+                "file": "Miscellaneous/Notes Summary Center.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCM_ICM/古玻璃识别.md"
+                "file": "Miscellaneous/Notes Summary Center.md"
               }
             }
           },
@@ -178,11 +187,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "80e88fe26b59a2dd",
+  "active": "ea1db25c60bd8575",
   "lastOpenFiles": [
+    "Miscellaneous/Notes Summary Center.md",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "MCM_ICM/古玻璃识别.md",
-    "Miscellaneous/Notes Summary Center.md",
     "MCM_ICM/机场打车.md",
     "MCM_ICM/2022 A Power Profile of a Cyclist.md",
     "Digital_circuit/Index of digital circuit.md",
