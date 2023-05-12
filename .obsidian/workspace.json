@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "Digital_circuit/Index of digital circuit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df93110e4ba02dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital_circuit/数字电路模拟试题.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "Digital_circuit/数字电路模拟试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "Digital_circuit/数字电路模拟试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md"
+                "file": "Digital_circuit/数字电路模拟试题.md"
               }
             }
           },
@@ -187,17 +199,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ea1db25c60bd8575",
+  "active": "df93110e4ba02dee",
   "lastOpenFiles": [
+    "Digital_circuit/Index of digital circuit.md",
+    "Digital_circuit/FF(1).md",
+    "Digital_circuit/TLC Design.md",
+    "Digital_circuit/Temporal Logic(2).md",
+    "Digital_circuit/数字电路模拟试题.md",
     "Miscellaneous/Notes Summary Center.md",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "MCM_ICM/古玻璃识别.md",
     "MCM_ICM/机场打车.md",
     "MCM_ICM/2022 A Power Profile of a Cyclist.md",
-    "Digital_circuit/Index of digital circuit.md",
-    "Digital_circuit/FF(1).md",
-    "Digital_circuit/Temporal Logic(2).md",
-    "Digital_circuit/TLC Design.md",
     "CS_Maths_Physics_Notes",
     "Deep_Learning/Index of Deep Learning.md",
     "Deep_Learning/Ep.7 Evolutionary Computation.md",
@@ -225,7 +238,6 @@
     "Machine_Learning_and_Data_Science/Chapter 12  SQL Constraints and TRIGGER.md",
     "Machine_Learning_and_Data_Science/Chapter 9 SQL VIEW, GRANT, REVOKE.md",
     "Machine_Learning_and_Data_Science/Chapter 8 SQL UPDATE INSERT DELETE.md",
-    "Machine_Learning_and_Data_Science/Chapter 7 SQL Complecated Selections.md",
     "PDF/矩阵分析模拟试题（自制）.pdf",
     "PDF/Part 1 Homework.pdf",
     "PDF/机场打车.pdf",
