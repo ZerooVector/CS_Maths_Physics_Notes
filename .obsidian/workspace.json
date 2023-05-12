@@ -19,14 +19,28 @@
             "id": "ea1db25c60bd8575",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "Digital_circuit/Index of digital circuit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07d6909907be20e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital_circuit/数字电路模拟试题.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digital_circuit/数字电路模拟试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Digital_circuit/数字电路模拟试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Digital_circuit/数字电路模拟试题.md"
+              }
             }
           },
           {
@@ -181,12 +199,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ea1db25c60bd8575",
+  "active": "07d6909907be20e9",
   "lastOpenFiles": [
+    "Digital_circuit/Index of digital circuit.md",
     "Miscellaneous/Notes Summary Center.md",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "MCM_ICM/2023 校赛试题集中点评.md",
-    "Digital_circuit/Index of digital circuit.md",
     "Digital_circuit/数字电路模拟试题.md",
     "PDF/数字电路模拟试题.pdf",
     "Attachments/Pasted image 20230512112354.png",
