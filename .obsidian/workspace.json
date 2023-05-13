@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fce741f8c1165349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital_circuit/数字电路模拟试题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39643cfe5a0de0cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital_circuit/数字电路模拟题2.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital_circuit/Index of digital circuit.md",
+                "file": "Digital_circuit/数字电路模拟题2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital_circuit/Index of digital circuit.md",
+                "file": "Digital_circuit/数字电路模拟题2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital_circuit/Index of digital circuit.md"
+                "file": "Digital_circuit/数字电路模拟题2.md"
               }
             }
           },
@@ -178,11 +203,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3b746c17bd11ec95",
+  "active": "39643cfe5a0de0cc",
   "lastOpenFiles": [
-    "Miscellaneous/Notes Summary Center.md",
-    "Digital_circuit/Index of digital circuit.md",
+    "PDF/数字电路模拟题2.pdf",
+    "Attachments/Pasted image 20230513185058.png",
     "Digital_circuit/数字电路模拟试题.md",
+    "Digital_circuit/数字电路模拟题2.md",
+    "Attachments/Pasted image 20230513185046.png",
+    "Attachments/Pasted image 20230513185029.png",
+    "Attachments/Pasted image 20230513184933.png",
+    "Digital_circuit/Index of digital circuit.md",
+    "Attachments/Pasted image 20230513184727.png",
+    "Miscellaneous/Notes Summary Center.md",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "MCM_ICM/2023 校赛试题集中点评.md",
     "PDF/数字电路模拟试题.pdf",
@@ -191,11 +223,6 @@
     "Attachments/Pasted image 20230512112249.png",
     "Attachments/Pasted image 20230512112223.png",
     "Attachments/Pasted image 20230512112055.png",
-    "Attachments/Pasted image 20230512111947.png",
-    "Attachments/Pasted image 20230512111919.png",
-    "Attachments/Pasted image 20230512111814.png",
-    "Attachments/Pasted image 20230512111733.png",
-    "Attachments/Pasted image 20230512111534.png",
     "Digital_circuit/FF(1).md",
     "Digital_circuit/TLC Design.md",
     "Digital_circuit/Temporal Logic(2).md",
@@ -216,8 +243,6 @@
     "Econometrics/Singal Var Ordinary Least Squre.md",
     "Stochastic_Process/Ep.2 Poisson Process, Queuing Theory.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning and Data Science.md",
-    "Machine_Learning_and_Data_Science/Chapter 12  SQL Constraints and TRIGGER.md",
-    "Machine_Learning_and_Data_Science/Chapter 9 SQL VIEW, GRANT, REVOKE.md",
     "PDF/矩阵分析模拟试题（自制）.pdf",
     "PDF/Part 1 Homework.pdf",
     "PDF/机场打车.pdf",
