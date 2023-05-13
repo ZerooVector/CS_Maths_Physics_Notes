@@ -11,24 +11,15 @@
             "id": "3b746c17bd11ec95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ea1db25c60bd8575",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep_Learning/Index of Deep Learning.md",
+                "file": "Digital_circuit/Index of digital circuit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep_Learning/Index of Deep Learning.md",
+                "file": "Digital_circuit/Index of digital circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep_Learning/Index of Deep Learning.md",
+                "file": "Digital_circuit/Index of digital circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep_Learning/Index of Deep Learning.md"
+                "file": "Digital_circuit/Index of digital circuit.md"
               }
             }
           },
@@ -187,7 +178,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ea1db25c60bd8575",
+  "active": "3b746c17bd11ec95",
   "lastOpenFiles": [
     "Miscellaneous/Notes Summary Center.md",
     "Digital_circuit/Index of digital circuit.md",
