@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "Stochastic_Process/Index of Stochastic Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "Stochastic_Process/Index of Stochastic Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "Stochastic_Process/Index of Stochastic Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md"
+                "file": "Stochastic_Process/Index of Stochastic Process.md"
               }
             }
           },
@@ -180,6 +180,9 @@
   },
   "active": "d1bbabd9b43bd58f",
   "lastOpenFiles": [
+    "Stochastic_Process/Ep.2 Poisson Process, Queuing Theory.md",
+    "Stochastic_Process/Index of Stochastic Process.md",
+    "Miscellaneous/Notes Summary Center.md",
     "PDF/数字电路模拟题2.pdf",
     "Attachments/Pasted image 20230513185058.png",
     "Digital_circuit/数字电路模拟试题.md",
@@ -189,7 +192,6 @@
     "Attachments/Pasted image 20230513184933.png",
     "Digital_circuit/Index of digital circuit.md",
     "Attachments/Pasted image 20230513184727.png",
-    "Miscellaneous/Notes Summary Center.md",
     "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
     "MCM_ICM/2023 校赛试题集中点评.md",
     "PDF/数字电路模拟试题.pdf",
@@ -212,11 +214,9 @@
     "Optimization method and Ops Rsch/Swarm Intelligence.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Optimization method and Ops Rsch/Multi Objective Optimization.md",
-    "Stochastic_Process/Index of Stochastic Process.md",
     "Econometrics/Multi Vars OLS.md",
     "Econometrics/DID (Differences in Difference).md",
     "Econometrics/Singal Var Ordinary Least Squre.md",
-    "Stochastic_Process/Ep.2 Poisson Process, Queuing Theory.md",
     "Machine_Learning_and_Data_Science/Index of Machine Learning and Data Science.md",
     "PDF/矩阵分析模拟试题（自制）.pdf",
     "PDF/Part 1 Homework.pdf",
@@ -225,7 +225,6 @@
     "Untitled",
     "PDF/北京理工大学智能系第一届背书大赛·模拟题.pdf",
     "PDF/Ep.4 Deep Learning(1)：.pdf",
-    "PDF/SQL念咒指南.pdf",
     "Untitled.canvas"
   ]
 }
