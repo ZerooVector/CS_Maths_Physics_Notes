@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff0232e820151265",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6322991948585433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/Index of English Words Bank.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic_Process/Index of Stochastic Process.md",
+                "file": "Miscellaneous/Index of English Words Bank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic_Process/Index of Stochastic Process.md",
+                "file": "Miscellaneous/Index of English Words Bank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic_Process/Index of Stochastic Process.md"
+                "file": "Miscellaneous/Index of English Words Bank.md"
               }
             }
           },
@@ -178,11 +199,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d1bbabd9b43bd58f",
+  "active": "6322991948585433",
   "lastOpenFiles": [
-    "Stochastic_Process/Ep.2 Poisson Process, Queuing Theory.md",
+    "Miscellaneous/Index of English Words Bank.md",
     "Stochastic_Process/Index of Stochastic Process.md",
     "Miscellaneous/Notes Summary Center.md",
+    "Stochastic_Process/Ep.2 Poisson Process, Queuing Theory.md",
     "PDF/数字电路模拟题2.pdf",
     "Attachments/Pasted image 20230513185058.png",
     "Digital_circuit/数字电路模拟试题.md",

@@ -38,6 +38,10 @@
 
 
 
+## 其他笔记
+- 英语积累本-> [[Index of English Words Bank]]
+
+
 
 
 

@@ -92,10 +92,10 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:English",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 10685402
       }
     }
   ],
@@ -109,6 +109,6 @@
   "repelStrength": 9.38144329896907,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.862595060904695,
-  "close": true
+  "scale": 0.5645916464129195,
+  "close": false
 }
