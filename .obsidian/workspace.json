@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic_Process/概率论复习-作业.md",
+                "file": "Deep_Learning/Ep.7 Evolutionary Computation.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic_Process/概率论复习-作业.md",
+                "file": "Deep_Learning/Ep.7 Evolutionary Computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic_Process/概率论复习-作业.md",
+                "file": "Deep_Learning/Ep.7 Evolutionary Computation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic_Process/概率论复习-作业.md"
+                "file": "Deep_Learning/Ep.7 Evolutionary Computation.md"
               }
             }
           },
@@ -180,9 +180,11 @@
   },
   "active": "cf42fc2422f1e7ee",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230515102131.png",
+    "Deep_Learning/Index of Deep Learning.md",
+    "Miscellaneous/Notes Summary Center.md",
     "Stochastic_Process/Index of Stochastic Process.md",
     "Stochastic_Process/概率论复习-作业.md",
-    "Miscellaneous/Notes Summary Center.md",
     "Miscellaneous/Index of English Words Bank.md",
     "Miscellaneous/奇葩英语单词本(1).md",
     "Miscellaneous/六级积累单词本.md",
@@ -211,14 +213,12 @@
     "MCM_ICM/机场打车.md",
     "MCM_ICM/2022 A Power Profile of a Cyclist.md",
     "CS_Maths_Physics_Notes",
-    "Deep_Learning/Index of Deep Learning.md",
     "Deep_Learning/Ep.7 Evolutionary Computation.md",
     "Deep_Learning/Ep.6 Knowledge and Reasoning.md",
     "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
     "Optimization method and Ops Rsch/Swarm Intelligence.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Optimization method and Ops Rsch/Multi Objective Optimization.md",
-    "Econometrics/Multi Vars OLS.md",
     "PDF/矩阵分析模拟试题（自制）.pdf",
     "PDF/Part 1 Homework.pdf",
     "PDF/机场打车.pdf",
