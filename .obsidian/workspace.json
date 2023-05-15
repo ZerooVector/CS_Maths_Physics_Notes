@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd953394d2d7f532",
+        "id": "6f1136b59f6ee399",
         "type": "tabs",
         "children": [
           {
-            "id": "cf42fc2422f1e7ee",
+            "id": "936067ee19096886",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,11 +178,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cf42fc2422f1e7ee",
+  "active": "936067ee19096886",
   "lastOpenFiles": [
+    "Miscellaneous/奇葩英语单词本(1).md",
+    "Miscellaneous/Index of English Words Bank.md",
+    "Miscellaneous/Notes Summary Center.md",
     "Stochastic_Process/Index of Stochastic Process.md",
     "Stochastic_Process/概率论复习-作业.md",
-    "Miscellaneous/Notes Summary Center.md",
     "Deep_Learning/Index of Deep Learning.md",
     "Deep_Learning/大作业实现时间表和任务规划.md",
     "PDF/大作业实现时间表和任务规划.pdf",
@@ -192,8 +194,6 @@
     "Attachments/Pasted image 20230515105350.png",
     "Attachments/Pasted image 20230515102946.png",
     "Attachments/Pasted image 20230515102131.png",
-    "Miscellaneous/Index of English Words Bank.md",
-    "Miscellaneous/奇葩英语单词本(1).md",
     "Miscellaneous/六级积累单词本.md",
     "Stochastic_Process/Ep.2 Poisson Process, Queuing Theory.md",
     "PDF/数字电路模拟题2.pdf",
