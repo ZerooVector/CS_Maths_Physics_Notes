@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "af6874a3899f9c5e",
+        "id": "cd953394d2d7f532",
         "type": "tabs",
         "children": [
           {
-            "id": "d1bbabd9b43bd58f",
+            "id": "cf42fc2422f1e7ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic_Process/Index of Stochastic Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff0232e820151265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miscellaneous/奇葩英语单词本(1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6322991948585433",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miscellaneous/Index of English Words Bank.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6278b142d9d1fd0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miscellaneous/六级积累单词本.md",
+                "file": "Stochastic_Process/概率论复习-作业.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/奇葩英语单词本(1).md",
+                "file": "Stochastic_Process/概率论复习-作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/奇葩英语单词本(1).md",
+                "file": "Stochastic_Process/概率论复习-作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/奇葩英语单词本(1).md"
+                "file": "Stochastic_Process/概率论复习-作业.md"
               }
             }
           },
@@ -215,13 +178,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ff0232e820151265",
+  "active": "cf42fc2422f1e7ee",
   "lastOpenFiles": [
-    "Miscellaneous/六级积累单词本.md",
     "Stochastic_Process/Index of Stochastic Process.md",
-    "Miscellaneous/奇葩英语单词本(1).md",
-    "Miscellaneous/Index of English Words Bank.md",
+    "Stochastic_Process/概率论复习-作业.md",
     "Miscellaneous/Notes Summary Center.md",
+    "Miscellaneous/Index of English Words Bank.md",
+    "Miscellaneous/奇葩英语单词本(1).md",
+    "Miscellaneous/六级积累单词本.md",
     "Stochastic_Process/Ep.2 Poisson Process, Queuing Theory.md",
     "PDF/数字电路模拟题2.pdf",
     "Attachments/Pasted image 20230513185058.png",
@@ -255,7 +219,6 @@
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Optimization method and Ops Rsch/Multi Objective Optimization.md",
     "Econometrics/Multi Vars OLS.md",
-    "Econometrics/DID (Differences in Difference).md",
     "PDF/矩阵分析模拟试题（自制）.pdf",
     "PDF/Part 1 Homework.pdf",
     "PDF/机场打车.pdf",

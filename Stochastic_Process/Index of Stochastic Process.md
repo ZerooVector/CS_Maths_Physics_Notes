@@ -25,6 +25,9 @@ Ref：应用随机过程与概率模型导论
 
 ## Chapter 1 :Preliminaries
 [[Ep.1 Preliminaries, Probabilities]]
+[[概率论复习-作业]]
+
+
 [[Ep.2 Poisson Process, Queuing Theory]]
 
 
