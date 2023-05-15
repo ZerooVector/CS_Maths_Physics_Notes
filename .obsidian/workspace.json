@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic_Process/概率论复习-作业.md",
+                "file": "Miscellaneous/Notes Summary Center.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic_Process/概率论复习-作业.md",
+                "file": "Miscellaneous/Notes Summary Center.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic_Process/概率论复习-作业.md",
+                "file": "Miscellaneous/Notes Summary Center.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic_Process/概率论复习-作业.md"
+                "file": "Miscellaneous/Notes Summary Center.md"
               }
             }
           },
@@ -181,11 +181,11 @@
   "active": "cf42fc2422f1e7ee",
   "lastOpenFiles": [
     "Stochastic_Process/Index of Stochastic Process.md",
+    "Stochastic_Process/概率论复习-作业.md",
     "Miscellaneous/Notes Summary Center.md",
     "Deep_Learning/Index of Deep Learning.md",
     "Deep_Learning/大作业实现时间表和任务规划.md",
     "PDF/大作业实现时间表和任务规划.pdf",
-    "Stochastic_Process/概率论复习-作业.md",
     "Deep_Learning/Ep.7 Evolutionary Computation.md",
     "Attachments/Pasted image 20230515120448.png",
     "Attachments/Pasted image 20230515112617.png",
