@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep_Learning/Index of Deep Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6635fe2d81e9e647",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep_Learning/大作业实现时间表和任务规划.md",
+                "file": "Stochastic_Process/概率论复习-作业.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep_Learning/大作业实现时间表和任务规划.md",
+                "file": "Stochastic_Process/概率论复习-作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep_Learning/大作业实现时间表和任务规划.md",
+                "file": "Stochastic_Process/概率论复习-作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep_Learning/大作业实现时间表和任务规划.md"
+                "file": "Stochastic_Process/概率论复习-作业.md"
               }
             }
           },
@@ -191,13 +178,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6635fe2d81e9e647",
+  "active": "cf42fc2422f1e7ee",
   "lastOpenFiles": [
-    "PDF/大作业实现时间表和任务规划.pdf",
+    "Stochastic_Process/Index of Stochastic Process.md",
+    "Miscellaneous/Notes Summary Center.md",
     "Deep_Learning/Index of Deep Learning.md",
     "Deep_Learning/大作业实现时间表和任务规划.md",
-    "Miscellaneous/Notes Summary Center.md",
-    "Stochastic_Process/Index of Stochastic Process.md",
+    "PDF/大作业实现时间表和任务规划.pdf",
     "Stochastic_Process/概率论复习-作业.md",
     "Deep_Learning/Ep.7 Evolutionary Computation.md",
     "Attachments/Pasted image 20230515120448.png",
@@ -238,7 +225,6 @@
     "PDF/Ep.1 Preliminaries, Probabilities.pdf",
     "Untitled",
     "PDF/北京理工大学智能系第一届背书大赛·模拟题.pdf",
-    "PDF/Ep.4 Deep Learning(1)：.pdf",
     "Untitled.canvas"
   ]
 }
