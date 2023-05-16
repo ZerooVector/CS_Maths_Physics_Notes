@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "Stochastic_Process/Index of Stochastic Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "Stochastic_Process/Index of Stochastic Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "Stochastic_Process/Index of Stochastic Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md"
+                "file": "Stochastic_Process/Index of Stochastic Process.md"
               }
             }
           },
@@ -180,11 +180,13 @@
   },
   "active": "d2391a0422838fd3",
   "lastOpenFiles": [
+    "Stochastic_Process/Ep.2 Poisson Process, Queuing Theory.md",
+    "Stochastic_Process/Index of Stochastic Process.md",
+    "Stochastic_Process/Ep.1 Preliminaries, Probabilities.md",
+    "Stochastic_Process/概率论复习-作业.md",
+    "Miscellaneous/Notes Summary Center.md",
     "Miscellaneous/奇葩英语单词本(1).md",
     "Miscellaneous/Index of English Words Bank.md",
-    "Miscellaneous/Notes Summary Center.md",
-    "Stochastic_Process/Index of Stochastic Process.md",
-    "Stochastic_Process/概率论复习-作业.md",
     "Deep_Learning/Index of Deep Learning.md",
     "Deep_Learning/大作业实现时间表和任务规划.md",
     "PDF/大作业实现时间表和任务规划.pdf",
@@ -195,7 +197,6 @@
     "Attachments/Pasted image 20230515102946.png",
     "Attachments/Pasted image 20230515102131.png",
     "Miscellaneous/六级积累单词本.md",
-    "Stochastic_Process/Ep.2 Poisson Process, Queuing Theory.md",
     "PDF/数字电路模拟题2.pdf",
     "Attachments/Pasted image 20230513185058.png",
     "Digital_circuit/数字电路模拟试题.md",
