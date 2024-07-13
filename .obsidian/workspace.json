@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -216,9 +215,9 @@
   "active": "a32af9c407e0a98c",
   "lastOpenFiles": [
     "ElectroDynamics/Index of Electro Dynamics.md",
+    "ElectroDynamics/17、18：毕奥-萨伐尔定律，磁场的散度和旋度.md",
     "README.md",
     "Miscellaneous/Notes Summary Center.md",
-    "ElectroDynamics/17、18：毕奥-萨伐尔定律，磁场的散度和旋度.md",
     "ElectroDynamics/16：洛伦兹力.md",
     "ElectroDynamics/15：多极展开.md",
     "ElectroDynamics/7，8：静电场的散度和旋度.md",
