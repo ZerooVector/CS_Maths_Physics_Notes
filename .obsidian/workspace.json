@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "9ac9ae88b6fa0225",
+        "id": "dc5f18947a98e33a",
         "type": "tabs",
         "children": [
           {
-            "id": "d2391a0422838fd3",
+            "id": "33bb20b1ed94ff67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/奇葩英语单词本(1).md",
+                "file": "Miscellaneous/Notes Summary Center.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3d36ad53161db45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ElectroDynamics/Index of Electro Dynamics.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a32af9c407e0a98c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ElectroDynamics/17、18：毕奥-萨伐尔定律，磁场的散度和旋度.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DifferentialGeometry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -94,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/奇葩英语单词本(1).md",
+                "file": "Miscellaneous/Notes Summary Center.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/奇葩英语单词本(1).md",
+                "file": "Miscellaneous/Notes Summary Center.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/奇葩英语单词本(1).md"
+                "file": "Miscellaneous/Notes Summary Center.md"
               }
             }
           },
@@ -153,13 +176,33 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "1fb60950585d45b3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "94fafd5933fc01d3",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
+    "width": 376.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -175,57 +218,59 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "canvas:Create new canvas": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "copilot:Copilot Chat": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "d2391a0422838fd3",
+  "active": "33bb20b1ed94ff67",
   "lastOpenFiles": [
-    "Miscellaneous/Index of English Words Bank.md",
+    "ElectroDynamics/17、18：毕奥-萨伐尔定律，磁场的散度和旋度.md",
+    "ElectroDynamics/Index of Electro Dynamics.md",
+    "ElectroDynamics/16：洛伦兹力.md",
+    "ElectroDynamics/15：多极展开.md",
+    "ElectroDynamics/7，8：静电场的散度和旋度.md",
     "Miscellaneous/Notes Summary Center.md",
     "Stochastic_Process/Index of Stochastic Process.md",
-    "Stochastic_Process/Ep.2 Poisson Process, Queuing Theory.md",
-    "Stochastic_Process/Ep.1 Preliminaries, Probabilities.md",
-    "Stochastic_Process/概率论复习-作业.md",
-    "Miscellaneous/奇葩英语单词本(1).md",
-    "Deep_Learning/Index of Deep Learning.md",
-    "Deep_Learning/大作业实现时间表和任务规划.md",
-    "PDF/大作业实现时间表和任务规划.pdf",
-    "Deep_Learning/Ep.7 Evolutionary Computation.md",
-    "Attachments/Pasted image 20230515120448.png",
-    "Attachments/Pasted image 20230515112617.png",
-    "Attachments/Pasted image 20230515105350.png",
-    "Attachments/Pasted image 20230515102946.png",
-    "Attachments/Pasted image 20230515102131.png",
-    "Miscellaneous/六级积累单词本.md",
-    "PDF/数字电路模拟题2.pdf",
-    "Attachments/Pasted image 20230513185058.png",
-    "Digital_circuit/数字电路模拟试题.md",
-    "Digital_circuit/数字电路模拟题2.md",
-    "Attachments/Pasted image 20230513185046.png",
-    "Attachments/Pasted image 20230513185029.png",
-    "Attachments/Pasted image 20230513184933.png",
-    "Digital_circuit/Index of digital circuit.md",
-    "Attachments/Pasted image 20230513184727.png",
-    "MCM_ICM/MCM ICM CUMCM 试题汇集总站.md",
-    "MCM_ICM/2023 校赛试题集中点评.md",
-    "PDF/数字电路模拟试题.pdf",
-    "Digital_circuit/FF(1).md",
-    "Digital_circuit/TLC Design.md",
-    "Digital_circuit/Temporal Logic(2).md",
-    "MCM_ICM/古玻璃识别.md",
-    "MCM_ICM/机场打车.md",
-    "MCM_ICM/2022 A Power Profile of a Cyclist.md",
-    "CS_Maths_Physics_Notes",
-    "Deep_Learning/Ep.6 Knowledge and Reasoning.md",
-    "Optimization method and Ops Rsch/Index of Optimization method and Ops Rsch.md",
-    "Optimization method and Ops Rsch/Swarm Intelligence.md",
+    "Stochastic_Process/Ep.11 Brownian Motion.md",
+    "ElectroDynamics/13，14：镜像法与分离变量法.md",
+    "Stochastic_Process/Ep.6 Stochatic Calculus.md",
+    "Stochastic_Process/Ep.3 Frequency Domain Analysis.md",
+    "Stochastic_Process/Ep.2 Time Domain Analysis.md",
+    "Stochastic_Process/Ep.1 Intro to Stochastic Process.md",
+    "Differential Geometry/Index of Differential Geometry.md",
+    "General Reletivity/Index of GR.md",
+    "ElectroDynamics/11：导体.md",
+    "ElectroDynamics/12：拉普拉斯方程.md",
+    "Stochastic_Process/Ep.10 Gaussian Process - 4.md",
+    "Stochastic_Process/Ep.5 Multivariate Correlation.md",
+    "Differential Geometry/Chapter 15 ：形状导数.md",
+    "Stochastic_Process/Ep.16 Markov Process -2.md",
+    "Stochastic_Process/Ep.15 Markov Process -1.md",
     "Matrix_Analysis/Index of Matrix_Analysis.md",
-    "PDF/矩阵分析模拟试题（自制）.pdf",
-    "PDF/Part 1 Homework.pdf",
-    "PDF/机场打车.pdf",
-    "PDF/Ep.1 Preliminaries, Probabilities.pdf",
-    "Untitled",
-    "PDF/北京理工大学智能系第一届背书大赛·模拟题.pdf",
+    "Classical Mechanics/Index of Classical Mechanics.md",
+    "Classical Mechanics/28：求解哈密顿正则方程的哈密顿-雅可比方法.md",
+    "Classical Mechanics/14：参数共振.md",
+    "Attachments/Pasted image 20240527172730.png",
+    "Attachments/Pasted image 20240527171121.png",
+    "Attachments/Pasted image 20240527165945.png",
+    "Attachments/Pasted image 20240527163258.png",
+    "Attachments/Pasted image 20240521135440.png",
+    "Attachments/Pasted image 20240520160517.png",
+    "Attachments/Pasted image 20240520155347.png",
+    "Attachments/Pasted image 20240519221653.png",
+    "Attachments/Pasted image 20240519215540.png",
+    "Attachments/Pasted image 20240519180154.png",
+    "Differential Geometry",
+    "Untitled/Untitled",
+    "Miscellaneous/PatchTST.pdf",
+    "ElectroDynamics",
+    "copilot-conversations",
+    "General Reletivity",
+    "Classical Mechanics",
+    "Traditional Computer Science",
+    "Template Folder",
+    "MicroEconomics",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,17 @@
+.obsidian-banner-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: var(--banner-height);
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.obsidian-banner{
+    position: relative;
+}
+
+.markdown-preview-view:has(.obsidian-banner-wrapper) {
+    padding-top: calc(var(--banner-height) + var(--file-margins));
+}

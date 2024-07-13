@@ -84,7 +84,7 @@ Description\ Length = Size\ of \ Hypothesis + Additional\ Cost
 $$
 ![[Pasted image 20230306103743.png]]
 我们需要对决策树的函数本身和不能被决策树解释的变量进行编码。编码的规则是：对树进行 DFS，“1”表示找到非叶节点，“0”表示找到叶节点，“P”代表分类为正，“N”表示分类为负，然后我们可以对这个字符串进行编码：
-“1 Outlook 0 P 1 Humidity 0 N 0 P 1 Windy 0 N 0 P 1 Temperature 0 N 0 N 0 P“（这个字符串是从左侧比较复杂的树中提取得到的）
+“1 Outlook 0 P 1 Humidity 0 N 0 P 1 Windy 0 N 0 P 1 Temperature 0 N； 0 N 0 P“（这个字符串是从左侧比较复杂的树中提取得到的）
 
 这里，“1”和“0”各需要 1bit 进行编码，“N”和“P”也个需要 1bit 进行编码，"Outlook"需要 $\log_2 4$ bit,"Humidity"需要 $\log_2 3$ bit，以此类推，所需要的编码长度是 24.585bit
 

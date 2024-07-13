@@ -1,0 +1,22 @@
+/* fixes bugs */
+.is-mobile .obsidian-banner-wrapper.with-banner:not(.in-internal-embed) {
+    width: 100%;
+    height: calc(var(--banners-mobile-height) - 80px) !important;
+    margin: 0;
+}
+
+.obsidian-banner-wrapper.with-banner:not(.in-internal-embed) {
+    width: 100%;
+    height: calc(var(--banners-height) - 80px) !important;
+}
+
+/* fix top in minimal theme */
+.view-content > .markdown-source-view.mod-cm6 > .cm-editor > .cm-scroller {
+    padding: 0; 
+}
+
+/* suggestion for styling */
+.inline-title {
+    position: relative;
+    z-index: 2;
+}

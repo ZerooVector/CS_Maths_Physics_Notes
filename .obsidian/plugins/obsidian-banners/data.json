@@ -1,10 +1,10 @@
 {
-  "height": null,
+  "height": 300,
   "style": "gradient",
   "showInInternalEmbed": true,
   "internalEmbedHeight": null,
-  "showInPreviewEmbed": true,
-  "previewEmbedHeight": null,
+  "showInPreviewEmbed": false,
+  "previewEmbedHeight": 400,
   "frontmatterField": null,
   "bannerDragModifier": "none",
   "iconHorizontalAlignment": "left",
@@ -13,7 +13,7 @@
   "iconVerticalTransform": null,
   "useTwemoji": true,
   "showPreviewInLocalModal": true,
-  "localSuggestionsLimit": 30,
+  "localSuggestionsLimit": null,
   "bannersFolder": null,
   "allowMobileDrag": false
 }

@@ -1,0 +1,11 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-dark-sky",
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@brightness-4-bg": 1.5,
+  "blue-topaz-theme@@accent-strong@@dark": "#FFC46C",
+  "blue-topaz-theme@@accent-em@@dark": "#BCEA38",
+  "blue-topaz-theme@@strong-em-color-1@@dark": "#66C8FF",
+  "blue-topaz-theme@@strong-em-color-2@@dark": "#7AFFFE"
+}

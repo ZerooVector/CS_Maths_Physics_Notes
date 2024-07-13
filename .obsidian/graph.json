@@ -8,98 +8,105 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#MLorDS",
+      "query": "tag:#StochasticProcess  ",
       "color": {
         "a": 1,
-        "rgb": 14839826
+        "rgb": 5431466
       }
     },
     {
-      "query": "tag:#MCM",
+      "query": "tag:#Classcal_Mechanics  ",
       "color": {
         "a": 1,
-        "rgb": 5723991
+        "rgb": 5413856
       }
     },
     {
-      "query": "tag:#Algo",
+      "query": "tag:#ElectroDynamics  ",
       "color": {
         "a": 1,
-        "rgb": 14720297
+        "rgb": 5413856
       }
     },
     {
-      "query": "tag:#MA",
+      "query": "tag:#MA  ",
       "color": {
         "a": 1,
-        "rgb": 6674285
+        "rgb": 5431466
       }
     },
     {
-      "query": "tag:#Python",
+      "query": "tag:#MCM  ",
       "color": {
         "a": 1,
-        "rgb": 15725334
+        "rgb": 7831164
       }
     },
     {
-      "query": "tag:#RL",
+      "query": "tag:#Quantum_Mechanics  ",
       "color": {
         "a": 1,
-        "rgb": 15053610
+        "rgb": 5413856
       }
     },
     {
-      "query": "tag:#DCorMCU",
+      "query": "tag:#RL  ",
       "color": {
         "a": 1,
-        "rgb": 14533932
+        "rgb": 14259510
       }
     },
     {
-      "query": "tag:#OPTandOR",
+      "query": "tag:#NLP  ",
       "color": {
         "a": 1,
-        "rgb": 2154431
+        "rgb": 14259510
       }
     },
     {
-      "query": "tag:#DL",
+      "query": "tag:#MLorDS  ",
       "color": {
         "a": 1,
-        "rgb": 15026980
+        "rgb": 14259510
       }
     },
     {
-      "query": "tag:#Research",
+      "query": "tag:#ML/DS  ",
       "color": {
         "a": 1,
-        "rgb": 15817563
+        "rgb": 14259510
       }
     },
     {
-      "query": "tag:#Functional",
+      "query": "tag:#DL  ",
       "color": {
         "a": 1,
-        "rgb": 15921906
+        "rgb": 14259510
       }
     },
     {
-      "query": "tag:#SP",
+      "query": "tag:#DCorMCU  ",
       "color": {
         "a": 1,
-        "rgb": 60219
+        "rgb": 12014043
       }
     },
     {
-      "query": "tag:English",
+      "query": "tag:#TraditionalComputerScience  ",
       "color": {
         "a": 1,
-        "rgb": 10685402
+        "rgb": 12014043
+      }
+    },
+    {
+      "query": "tag:#OPTandOR  ",
+      "color": {
+        "a": 1,
+        "rgb": 14259510
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.1229381443299,
@@ -109,6 +116,6 @@
   "repelStrength": 9.38144329896907,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.6133419942259859,
-  "close": false
+  "scale": 0.22034190212176855,
+  "close": true
 }

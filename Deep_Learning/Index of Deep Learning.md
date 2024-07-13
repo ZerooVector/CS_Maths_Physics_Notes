@@ -18,9 +18,14 @@
 [[Ep.5 Symbolic AI]]
 [[Ep.6 Knowledge and Reasoning]]
 [[Ep.7 Evolutionary Computation]]
+[[Ep.8 Swarm Intelligence]]
+[[Ep.9 Reinforcement Learning]]
 
 
 ### Homework
 [[Part 1 Homework]]
+[[Part 2 Homework]]
+
 
 [[大作业实现时间表和任务规划]]
+[[谷歌足球模拟器使用教程]]

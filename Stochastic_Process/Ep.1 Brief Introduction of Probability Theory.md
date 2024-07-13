@@ -1,4 +1,4 @@
-#SP
+#StochasticProcess  
 
 ## 样本空间、事件和概率
 

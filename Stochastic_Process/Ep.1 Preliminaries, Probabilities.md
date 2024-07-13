@@ -1,4 +1,4 @@
-#SP 
+#StochasticProcess  
 
 ## Probability 
 ### 概率的连续性

@@ -10,5 +10,7 @@
   "tabSize": 4,
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "visible"
 }
