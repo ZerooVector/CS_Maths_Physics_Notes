@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33bb20b1ed94ff67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c3d36ad53161db45",
             "type": "leaf",
             "state": {
@@ -43,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "428277d9ef015b52",
@@ -117,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ElectroDynamics/17、18：毕奥-萨伐尔定律，磁场的散度和旋度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ElectroDynamics/17、18：毕奥-萨伐尔定律，磁场的散度和旋度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ElectroDynamics/17、18：毕奥-萨伐尔定律，磁场的散度和旋度.md"
               }
             }
           },
@@ -223,11 +213,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33bb20b1ed94ff67",
+  "active": "a32af9c407e0a98c",
   "lastOpenFiles": [
+    "ElectroDynamics/Index of Electro Dynamics.md",
+    "README.md",
     "Miscellaneous/Notes Summary Center.md",
     "ElectroDynamics/17、18：毕奥-萨伐尔定律，磁场的散度和旋度.md",
-    "ElectroDynamics/Index of Electro Dynamics.md",
     "ElectroDynamics/16：洛伦兹力.md",
     "ElectroDynamics/15：多极展开.md",
     "ElectroDynamics/7，8：静电场的散度和旋度.md",
@@ -250,7 +241,6 @@
     "Matrix_Analysis/Index of Matrix_Analysis.md",
     "Classical Mechanics/Index of Classical Mechanics.md",
     "Classical Mechanics/28：求解哈密顿正则方程的哈密顿-雅可比方法.md",
-    "Classical Mechanics/14：参数共振.md",
     "Attachments/Pasted image 20240527172730.png",
     "Attachments/Pasted image 20240527171121.png",
     "Attachments/Pasted image 20240527165945.png",
