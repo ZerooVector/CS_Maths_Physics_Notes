@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md"
+                "file": "README.md"
               }
             }
           },
@@ -225,12 +225,12 @@
   },
   "active": "33bb20b1ed94ff67",
   "lastOpenFiles": [
+    "Miscellaneous/Notes Summary Center.md",
     "ElectroDynamics/17、18：毕奥-萨伐尔定律，磁场的散度和旋度.md",
     "ElectroDynamics/Index of Electro Dynamics.md",
     "ElectroDynamics/16：洛伦兹力.md",
     "ElectroDynamics/15：多极展开.md",
     "ElectroDynamics/7，8：静电场的散度和旋度.md",
-    "Miscellaneous/Notes Summary Center.md",
     "Stochastic_Process/Index of Stochastic Process.md",
     "Stochastic_Process/Ep.11 Brownian Motion.md",
     "ElectroDynamics/13，14：镜像法与分离变量法.md",
