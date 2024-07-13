@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "dc5f18947a98e33a",
+        "id": "446f8f3453226b3e",
         "type": "tabs",
         "children": [
           {
-            "id": "c3d36ad53161db45",
+            "id": "003b8e26a22fdb9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/Notes Summary Center.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac3f1f7d50814aae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +32,7 @@
             }
           },
           {
-            "id": "a32af9c407e0a98c",
+            "id": "d2260258e635f164",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,12 +224,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a32af9c407e0a98c",
+  "active": "d2260258e635f164",
   "lastOpenFiles": [
     "ElectroDynamics/Index of Electro Dynamics.md",
+    "Miscellaneous/Notes Summary Center.md",
     "ElectroDynamics/17、18：毕奥-萨伐尔定律，磁场的散度和旋度.md",
     "README.md",
-    "Miscellaneous/Notes Summary Center.md",
     "ElectroDynamics/16：洛伦兹力.md",
     "ElectroDynamics/15：多极展开.md",
     "ElectroDynamics/7，8：静电场的散度和旋度.md",
