@@ -35,6 +35,7 @@ banner: "![[banner6.png]]"
 
 ## Chapter 7 : Electrodynamics
 [[20：电动势]]
+[[21：电磁感应]]
 
 
 
