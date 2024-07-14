@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55a1d80b24a88da0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ElectroDynamics/24：电磁场的动量和角动量.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md",
+                "file": "ElectroDynamics/24：电磁场的动量和角动量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md",
+                "file": "ElectroDynamics/24：电磁场的动量和角动量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md"
+                "file": "ElectroDynamics/24：电磁场的动量和角动量.md"
               }
             }
           },
@@ -213,10 +225,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76ac410f2fec17b6",
+  "active": "55a1d80b24a88da0",
   "lastOpenFiles": [
-    "ElectroDynamics/22：麦克斯韦方程组.md",
     "ElectroDynamics/Index of Electro Dynamics.md",
+    "ElectroDynamics/24：电磁场的动量和角动量.md",
+    "ElectroDynamics/22：麦克斯韦方程组.md",
+    "ElectroDynamics/23：电磁场的能量和能流密度.md",
     "ElectroDynamics/21：电磁感应.md",
     "ElectroDynamics/20：电动势.md",
     "ElectroDynamics/19：磁矢势.md",
@@ -239,8 +253,6 @@
     "ElectroDynamics/12：拉普拉斯方程.md",
     "Stochastic_Process/Ep.10 Gaussian Process - 4.md",
     "Stochastic_Process/Ep.5 Multivariate Correlation.md",
-    "Differential Geometry/Chapter 15 ：形状导数.md",
-    "Stochastic_Process/Ep.16 Markov Process -2.md",
     "Attachments/Pasted image 20240527172730.png",
     "Attachments/Pasted image 20240527171121.png",
     "Attachments/Pasted image 20240527165945.png",
