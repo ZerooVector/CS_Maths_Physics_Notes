@@ -29,6 +29,8 @@ banner: "![[banner6.png]]"
 ## Chapter 5 : Magnetostatistics
 [[16：洛伦兹力]]
 [[17、18：毕奥-萨伐尔定律，磁场的散度和旋度]]
+[[19：磁矢势]]
+
 
 
 
