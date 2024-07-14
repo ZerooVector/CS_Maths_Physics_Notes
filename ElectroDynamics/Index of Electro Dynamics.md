@@ -36,7 +36,7 @@ banner: "![[banner6.png]]"
 ## Chapter 7 : Electrodynamics
 [[20：电动势]]
 [[21：电磁感应]]
-
+[[22：麦克斯韦方程组]]
 
 
 
