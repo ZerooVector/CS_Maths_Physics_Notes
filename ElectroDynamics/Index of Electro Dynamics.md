@@ -25,11 +25,16 @@ banner: "![[banner6.png]]"
 
 ## Chapter 4 : Electric Fields in Matter 
 
-
 ## Chapter 5 : Magnetostatistics
 [[16：洛伦兹力]]
 [[17、18：毕奥-萨伐尔定律，磁场的散度和旋度]]
 [[19：磁矢势]]
+
+
+## Chapter 6 : Magnetic Fields in Matter
+
+## Chapter 7 : Electrodynamics
+[[20：电动势]]
 
 
 
