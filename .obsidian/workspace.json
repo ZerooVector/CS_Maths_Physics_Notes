@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bacd7d3cc3aedec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ElectroDynamics/Index of Electro Dynamics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ElectroDynamics/Index of Electro Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ElectroDynamics/Index of Electro Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ElectroDynamics/Index of Electro Dynamics.md"
+              }
             }
           },
           {
@@ -196,8 +213,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "afd6297cec4a2f5a",
+  "active": "bacd7d3cc3aedec5",
   "lastOpenFiles": [
+    "Miscellaneous/Notes Summary Center.md",
     "ElectroDynamics/Index of Electro Dynamics.md",
     "ElectroDynamics/电动力学PART 0：电动力学的数学基础.md",
     "PDF/电动力学PART 0：电动力学的数学基础.pdf",
@@ -213,7 +231,6 @@
     "ElectroDynamics/21：电磁感应.md",
     "ElectroDynamics/20：电动势.md",
     "ElectroDynamics/19：磁矢势.md",
-    "Miscellaneous/Notes Summary Center.md",
     "ElectroDynamics/17、18：毕奥-萨伐尔定律，磁场的散度和旋度.md",
     "README.md",
     "ElectroDynamics/16：洛伦兹力.md",

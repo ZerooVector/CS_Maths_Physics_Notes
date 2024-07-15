@@ -43,7 +43,8 @@ banner: "![[banner6.png]]"
 [[24：电磁场的动量和角动量]]
 
 ## Chapter 9 : Electromagnetic Wave 
-
+[[25：一维波的描述]]
+[[]]
 
 
 
