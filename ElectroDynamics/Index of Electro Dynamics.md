@@ -45,6 +45,7 @@ banner: "![[banner6.png]]"
 ## Chapter 9 : Electromagnetic Wave 
 [[25：一维波的描述]]
 [[26：真空中的电磁波]]
+[[27：介质中的电磁波]]
 
 
 
