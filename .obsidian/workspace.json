@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c782a59daf0cca60",
+        "id": "f32827ad40ef9cd9",
         "type": "tabs",
         "children": [
           {
-            "id": "c5d26e1cb90865b5",
+            "id": "afd6297cec4a2f5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "76ac410f2fec17b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,11 +196,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76ac410f2fec17b6",
+  "active": "afd6297cec4a2f5a",
   "lastOpenFiles": [
+    "ElectroDynamics/Index of Electro Dynamics.md",
     "ElectroDynamics/电动力学PART 0：电动力学的数学基础.md",
     "PDF/电动力学PART 0：电动力学的数学基础.pdf",
-    "ElectroDynamics/Index of Electro Dynamics.md",
     "ElectroDynamics/6：矢量场理论.md",
     "ElectroDynamics/5：Delta函数.md",
     "ElectroDynamics/4：曲面坐标系.md",
