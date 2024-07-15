@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md",
+                "file": "ElectroDynamics/25：一维波的描述.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md",
+                "file": "ElectroDynamics/25：一维波的描述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md",
+                "file": "ElectroDynamics/25：一维波的描述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md"
+                "file": "ElectroDynamics/25：一维波的描述.md"
               }
             }
           },
@@ -215,8 +215,9 @@
   },
   "active": "bacd7d3cc3aedec5",
   "lastOpenFiles": [
-    "Miscellaneous/Notes Summary Center.md",
     "ElectroDynamics/Index of Electro Dynamics.md",
+    "ElectroDynamics/25：一维波的描述.md",
+    "Miscellaneous/Notes Summary Center.md",
     "ElectroDynamics/电动力学PART 0：电动力学的数学基础.md",
     "PDF/电动力学PART 0：电动力学的数学基础.pdf",
     "ElectroDynamics/6：矢量场理论.md",
