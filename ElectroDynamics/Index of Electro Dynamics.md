@@ -52,6 +52,7 @@ banner: "![[banner6.png]]"
 ## Chapter 10 Potentials and Fields
 [[30：库伦规范和洛伦兹规范]]
 [[31：推迟势]] 
+[[32：运动粒子的电磁场]]
 
 
 
