@@ -49,9 +49,11 @@ banner: "![[banner6.png]]"
 [[28：吸收与色散]]
 [[29：波导]]
 
-## Potentials and Fields
+## Chapter 10 Potentials and Fields
 [[30：库伦规范和洛伦兹规范]]
 [[31：推迟势]] 
+
+
 
 ### 笔记合集
 这里是笔记合集，是会放在个人网站上的版本。
