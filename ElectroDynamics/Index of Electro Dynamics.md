@@ -49,10 +49,15 @@ banner: "![[banner6.png]]"
 [[28：吸收与色散]]
 [[29：波导]]
 
-## Chapter 10 Potentials and Fields
+## Chapter 10 : Potentials and Fields
 [[30：库伦规范和洛伦兹规范]]
 [[31：推迟势]] 
 [[32：运动粒子的电磁场]]
+
+## Chapter 11 : Radiation
+[[33：偶极辐射]]
+
+
 
 
 
