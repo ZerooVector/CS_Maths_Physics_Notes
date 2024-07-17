@@ -58,6 +58,8 @@ banner: "![[banner6.png]]"
 [[33：偶极辐射]]
 [[34：运动的点电荷的辐射]]
 
+## Chapter 12 : Electrodynamics and Relativity 
+
 
 
 

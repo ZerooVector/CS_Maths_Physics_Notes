@@ -30,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "802d3d1a9f1b1353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ElectroDynamics/33：偶极辐射.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "450b10de466a0c3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ElectroDynamics/34：运动的点电荷的辐射.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ElectroDynamics/34：运动的点电荷的辐射.md",
+                "file": "ElectroDynamics/Index of Electro Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ElectroDynamics/34：运动的点电荷的辐射.md",
+                "file": "ElectroDynamics/Index of Electro Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ElectroDynamics/34：运动的点电荷的辐射.md"
+                "file": "ElectroDynamics/Index of Electro Dynamics.md"
               }
             }
           },
@@ -237,12 +213,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "450b10de466a0c3d",
+  "active": "415992d13a8dc00b",
   "lastOpenFiles": [
     "ElectroDynamics/33：偶极辐射.md",
+    "ElectroDynamics/34：运动的点电荷的辐射.md",
     "ElectroDynamics/Index of Electro Dynamics.md",
     "ElectroDynamics/32：运动粒子的电磁场.md",
-    "ElectroDynamics/34：运动的点电荷的辐射.md",
     "Miscellaneous/Notes Summary Center.md",
     "ElectroDynamics/31：推迟势.md",
     "ElectroDynamics/30：库伦规范和洛伦兹规范.md",
