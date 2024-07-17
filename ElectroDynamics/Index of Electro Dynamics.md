@@ -59,6 +59,7 @@ banner: "![[banner6.png]]"
 [[34：运动的点电荷的辐射]]
 
 ## Chapter 12 : Electrodynamics and Relativity 
+[[35：狭义相对论简介]]
 
 
 
