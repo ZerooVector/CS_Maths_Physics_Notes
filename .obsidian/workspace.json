@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ElectroDynamics/34：运动的点电荷的辐射.md",
+                "file": "ElectroDynamics/Index of Electro Dynamics.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "450b10de466a0c3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ElectroDynamics/34：运动的点电荷的辐射.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,12 +237,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "415992d13a8dc00b",
+  "active": "450b10de466a0c3d",
   "lastOpenFiles": [
-    "ElectroDynamics/Index of Electro Dynamics.md",
-    "ElectroDynamics/34：运动的点电荷的辐射.md",
     "ElectroDynamics/33：偶极辐射.md",
+    "ElectroDynamics/Index of Electro Dynamics.md",
     "ElectroDynamics/32：运动粒子的电磁场.md",
+    "ElectroDynamics/34：运动的点电荷的辐射.md",
+    "Miscellaneous/Notes Summary Center.md",
     "ElectroDynamics/31：推迟势.md",
     "ElectroDynamics/30：库伦规范和洛伦兹规范.md",
     "ElectroDynamics/19：磁矢势.md",
@@ -239,7 +252,6 @@
     "ElectroDynamics/27：介质中的电磁波.md",
     "ElectroDynamics/26：真空中的电磁波.md",
     "ElectroDynamics/24：电磁场的动量和角动量.md",
-    "Miscellaneous/Notes Summary Center.md",
     "ElectroDynamics/25：一维波的描述.md",
     "ElectroDynamics/电动力学PART 0：电动力学的数学基础.md",
     "PDF/电动力学PART 0：电动力学的数学基础.pdf",
