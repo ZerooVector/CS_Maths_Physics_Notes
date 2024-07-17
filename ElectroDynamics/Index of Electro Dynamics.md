@@ -56,6 +56,8 @@ banner: "![[banner6.png]]"
 
 ## Chapter 11 : Radiation
 [[33：偶极辐射]]
+[[34：运动的点电荷的辐射]]
+
 
 
 

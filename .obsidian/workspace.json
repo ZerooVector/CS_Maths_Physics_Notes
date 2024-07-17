@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ElectroDynamics/33：偶极辐射.md",
+                "file": "ElectroDynamics/Index of Electro Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ElectroDynamics/33：偶极辐射.md",
+                "file": "ElectroDynamics/Index of Electro Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ElectroDynamics/33：偶极辐射.md"
+                "file": "ElectroDynamics/Index of Electro Dynamics.md"
               }
             }
           },
@@ -225,10 +225,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "802d3d1a9f1b1353",
+  "active": "415992d13a8dc00b",
   "lastOpenFiles": [
-    "ElectroDynamics/Index of Electro Dynamics.md",
     "ElectroDynamics/33：偶极辐射.md",
+    "ElectroDynamics/Index of Electro Dynamics.md",
     "ElectroDynamics/32：运动粒子的电磁场.md",
     "ElectroDynamics/31：推迟势.md",
     "ElectroDynamics/30：库伦规范和洛伦兹规范.md",
