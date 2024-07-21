@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afd6297cec4a2f5a",
+            "id": "d43becade9d71d94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "81e0102ce0b68f1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md",
+                "file": "Miscellaneous/Notes Summary Center.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md",
+                "file": "Miscellaneous/Notes Summary Center.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ElectroDynamics/Index of Electro Dynamics.md"
+                "file": "Miscellaneous/Notes Summary Center.md"
               }
             }
           },
@@ -213,7 +200,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81e0102ce0b68f1c",
+  "active": "d43becade9d71d94",
   "lastOpenFiles": [
     "ElectroDynamics/电动力学PART 5.md",
     "ElectroDynamics/Index of Electro Dynamics.md",
