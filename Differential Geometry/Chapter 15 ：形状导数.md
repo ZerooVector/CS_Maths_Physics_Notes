@@ -76,6 +76,17 @@ $$
 也就是说，$\kappa(\hat v)$ 的模长是 $S(\hat v)$ 在 $\hat v$ 方向上的投影长度。
 ![[Pasted image 20240527172730.png|600]]
 
+证明：假设质点以单位速度 $\hat v$ 沿着法截痕运动，则容易注意到 $\hat v  \cdot n  = 0$ 恒成立，那么：
+$$
+0 = \nabla_{\hat v} (\hat v  \cdot n) = \hat v  \cdot \nabla_{\hat v} n  + n  \cdot \nabla_{\hat v} \hat v  = - \hat v \cdot S(\hat v) + \kappa(\hat v)
+$$
+注意，这里 $\nabla_{\hat v} \hat v = \kappa (\hat v ) n$ 是质点的向心加速度。或者利用欧拉曲率公式也能证明这个结论。根据上面得到的几何意义以及使用矩阵表达线性映射的方法，我们立刻得到：
+$$
+S = \begin{bmatrix}E_{1} \cdot S(E_{1}) & E_{1} \cdot S(E_{2})  \\ E_{2} \cdot S(E_{1})  & E_{2} \cdot S(E_{2})\end{bmatrix}
+$$
+显然我们可以看出几何意义：$S$ 的第一列是 $S(E_{1})$，代表 $S$ 沿着 $E_{1}$ 移动时法向量的变化情况，$E_{1} \cdot S(E_{1})$ 代表的是法向量转向 $E_{1}$ 的速度有多快，而 $E_{2} \cdot S(E_{1})$ 则代表着法向量转向垂直于 $E_{1}$ 的方向的速度有多快。
+
+
 
 
 
