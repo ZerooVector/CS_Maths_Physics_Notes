@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "392bcac53fc50de1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Differential Geometry/Index of Differential Geometry.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd9f431562d34204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Differential Geometry/Chapter 14 ：尖刺的曲率.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13bb1ce117104e74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Differential Geometry/Chapter 15 ：形状导数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "Differential Geometry/Chapter 15 ：形状导数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
+                "file": "Differential Geometry/Chapter 15 ：形状导数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md"
+                "file": "Differential Geometry/Chapter 15 ：形状导数.md"
               }
             }
           },
@@ -200,8 +237,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b359898656bc71f7",
+  "active": "13bb1ce117104e74",
   "lastOpenFiles": [
+    "Differential Geometry/Chapter 14 ：尖刺的曲率.md",
+    "Differential Geometry/Index of Differential Geometry.md",
+    "Differential Geometry/Chapter 15 ：形状导数.md",
     "Miscellaneous/Notes Summary Center.md",
     "ElectroDynamics/电动力学PART 5.md",
     "ElectroDynamics/Index of Electro Dynamics.md",
@@ -231,8 +271,6 @@
     "ElectroDynamics/25：一维波的描述.md",
     "ElectroDynamics/24：电磁场的动量和角动量.md",
     "ElectroDynamics/23：电磁场的能量和能流密度.md",
-    "ElectroDynamics/22：麦克斯韦方程组.md",
-    "ElectroDynamics/21：电磁感应.md",
     "PDF/电动力学PART 0：电动力学的数学基础.pdf",
     "Attachments/Pasted image 20240527172730.png",
     "Attachments/Pasted image 20240527171121.png",
