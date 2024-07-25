@@ -86,7 +86,8 @@ Cheating Sheet for Obsidian-> [[大黑曜石制造者]]
 - 经典力学（超级难版）-> [[Index of Classical Mechanics]]
 - 广义相对论-> [[Index of GR]]
 - 电动力学-> [[Index of Electro Dynamics]]
-- 微分几何->
+- 数学物理大合集-> [[Mathematical Physics by S.H.]]
+- 
 
 
 ## 打工人的快乐生活
