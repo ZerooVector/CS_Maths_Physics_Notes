@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "667dea7a73646a8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Differential Geometry/Chapter 16 ：全局高斯-博内定理的介绍.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1616f852ee6303c1",
             "type": "leaf",
             "state": {
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/3-1：From Vector Space to Algebra.md",
+                "file": "Differential Geometry/Chapter 16 ：全局高斯-博内定理的介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/3-1：From Vector Space to Algebra.md",
+                "file": "Differential Geometry/Chapter 16 ：全局高斯-博内定理的介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/3-1：From Vector Space to Algebra.md"
+                "file": "Differential Geometry/Chapter 16 ：全局高斯-博内定理的介绍.md"
               }
             }
           },
@@ -249,11 +261,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1616f852ee6303c1",
+  "active": "667dea7a73646a8b",
   "lastOpenFiles": [
-    "Miscellaneous/Mathematical Physics by S.H..md",
+    "PDF/Chapter 16 ：全局高斯-博内定理的介绍.pdf",
     "Differential Geometry/Index of Differential Geometry.md",
     "Miscellaneous/3-1：From Vector Space to Algebra.md",
+    "PDF/3-1：From Vector Space to Algebra.pdf",
+    "Miscellaneous/Mathematical Physics by S.H..md",
     "Miscellaneous/大黑曜石制造者.md",
     "Miscellaneous/Notes Summary Center.md",
     "Differential Geometry/Chapter 16 ：全局高斯-博内定理的介绍.md",
@@ -284,7 +298,6 @@
     "ElectroDynamics/35：狭义相对论简介.md",
     "ElectroDynamics/34：运动的点电荷的辐射.md",
     "ElectroDynamics/33：偶极辐射.md",
-    "ElectroDynamics/32：运动粒子的电磁场.md",
     "PDF/电动力学PART 0：电动力学的数学基础.pdf",
     "Attachments/Pasted image 20240527172730.png",
     "Attachments/Pasted image 20240527171121.png",
@@ -296,7 +309,6 @@
     "Attachments/Pasted image 20240519221653.png",
     "Differential Geometry",
     "Untitled/Untitled",
-    "Miscellaneous/PatchTST.pdf",
     "Untitled.canvas"
   ]
 }
