@@ -18,7 +18,7 @@ $$
 
 如果 $A,B$ 是 $\mathcal{A}$ 的子集，那么 $AB$ 表示：
 $$
-Ab = \left\{x \in A | x = \sum_{k} a_{k}b_{k} ,a_{k} \in A , b_{k} \in B\right\}
+AB = \left\{x \in \mathcal{A} | x = \sum_{k} a_{k}b_{k} ,a_{k} \in A , b_{k} \in B\right\}
 $$
 我们将 $\mathcal{A}^{2}$ 称为 $\mathcal{A}$ 的诱导代数。
 
@@ -65,7 +65,37 @@ $$
 
 若 $\mathcal{A}$ 是可交换的代数，则 $\mathcal{A}$ 的生成元 $S$ 定义为这样的子集：$\mathcal{A}$ 中的全部元素可以由 $S$ 中元素之积的线性组合表出。例如，$(\mathbb{R}^{3} ,\times)$ 的一个生成元是 $\{\hat e_{x} , \hat e_{y}\}$。
 
-类比从一个线性空间到另一个线性空间的线性映射，我们可以定义代数的同态。
+类比从一个线性空间到另一个线性空间的线性映射，我们可以定义代数的同态。设 $\mathcal{A}$ 和 $\mathcal{B}$ 是代数，那么线性映射 $\phi:\mathcal{A} \rightarrow \mathcal{B}$ 若满足 $\phi (\mathcal{A}\mathcal{B}) = \phi (\mathcal{A}) \phi(\mathcal{B})$，则被称为是一个同态。一个代数自身到自身的同态称为自同态。
+>[!note] 
+>如果 $\mathcal{A}$ 和 $\mathcal{B}$ 是代数，设 $\{e_{i}\}$ 是 $\mathcal{A}$ 的一组基，那么 $\phi$ 是同态，当且仅当 $\phi (e_{i}e_{j}) = \phi (e_{i}) \phi(e_{j})$
+
+证明是简单的，设 $a = \sum_{i} \alpha_{i}  e_{i} , b = \sum_{j} \beta_{j} e_{j}$，直接计算即可证明。
+
+若 $\mathcal{A},\mathcal{B}$ 都是有单位元的代数，同态 $\phi:  \mathcal{A} \rightarrow \mathcal{B}$ 有性质 $\phi (1_{A}) = 1_{B}$，那么称 $\phi$ 是单位的。
+
+>[!note] 
+>若 $\mathcal{A,B}$ 是有单位元的代数，且同态 $\phi:\mathcal{A} \rightarrow \mathcal{B}$ 是满射，那么 $\phi$ 必然是单位的。
+
+这很好证明。首先，由于 $\phi$ 是满射，所以必然有 $\mathcal{A}$ 中的元素被映射到 $1_{B}$。其次，如果 $1_{A}$ 不被映射到 $1_{B}$，那么下式不成立：
+$$
+\phi(\alpha) = \phi(1 \alpha) = \phi(1) \phi(\alpha) = 1 \phi(\alpha)
+$$
+
+如果一个向量空间 $\mathcal{V}$ 上的自同态 $\omega$ 满足 $\omega^{2} = 1$，我们称 $\omega$ 是一个对合。（involution，内卷），它有性质 $\omega (a) = e$。这是因为，假设 $\omega (e) = a$，那么我们必须有 $\omega (a) = e$，从而：
+$$
+\omega(ea) = \omega(e) \omega(a) = \omega(e)e = \omega(e)
+$$
+在两侧再作用一次 $\omega$，我们得到 $ea = e$，从而 $a = e$。
+
+>[!note] 
+>设 $\mathcal{U},\mathcal{V}$ 是两个同构的向量空间，则 $\mathcal{L}(\mathcal{U}),\mathcal{L}(\mathcal{V})$ 是同构的代数。
+
+证明：设 $\phi: \mathcal{U}\rightarrow \mathcal{V}$ 是线性空间的同构，容易构造出代数同构映射：
+$$
+\psi(T) = \phi \circ T \circ  \phi^{-1}
+$$
+
+
 
 
 

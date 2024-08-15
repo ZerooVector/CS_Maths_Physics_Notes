@@ -67,7 +67,7 @@ Cheating Sheet for Obsidian-> [[大黑曜石制造者]]
 - 随机过程-> [[Index of Stochastic Process]]
 - 欢乐建模人-> [[MCM ICM CUMCM 试题汇集总站]]
 - 微分几何-> [[Index of Differential Geometry]]
-- 
+- 随机分析-> [[Index of Stochastic Analysis]]
 
 
 ## 超智能体 

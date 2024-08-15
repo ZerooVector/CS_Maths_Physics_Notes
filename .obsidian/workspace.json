@@ -4,35 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "4349b76aac377536",
+        "id": "590e4d173d86aa3f",
         "type": "tabs",
         "children": [
           {
-            "id": "b359898656bc71f7",
+            "id": "56580b31c3e37c9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Notes Summary Center.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aff9a3bbaec4dcf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miscellaneous/大黑曜石制造者.md",
+                "file": "Miscellaneous/3-5：Decomposition of Algebras.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "a7e700927a4e9b6e",
+            "id": "d56adf286f7f2ad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/3-1：From Vector Space to Algebra.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "529e648c91c86f7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stochastic Process/Index of Stochastic Analysis.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96dfec8284fb6ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantum Mechanics/Index of Quantum Mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39102e9520b7b076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantum Mechanics/4：观测与不确定性关系.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f40fa58cc76e90ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantum Mechanics/5：基底的变换.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8d1050a504de4e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,45 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "392bcac53fc50de1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Differential Geometry/Index of Differential Geometry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "667dea7a73646a8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Differential Geometry/Chapter 16 ：全局高斯-博内定理的介绍.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1616f852ee6303c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miscellaneous/3-1：From Vector Space to Algebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DifferentialGeometry",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Geometry/Chapter 16 ：全局高斯-博内定理的介绍.md",
+                "file": "Quantum Mechanics/Index of Quantum Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Geometry/Chapter 16 ：全局高斯-博内定理的介绍.md",
+                "file": "Quantum Mechanics/Index of Quantum Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differential Geometry/Chapter 16 ：全局高斯-博内定理的介绍.md"
+                "file": "Quantum Mechanics/Index of Quantum Mechanics.md"
               }
             }
           },
@@ -261,54 +274,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "667dea7a73646a8b",
+  "active": "96dfec8284fb6ca6",
   "lastOpenFiles": [
-    "PDF/Chapter 16 ：全局高斯-博内定理的介绍.pdf",
-    "Differential Geometry/Index of Differential Geometry.md",
-    "Miscellaneous/3-1：From Vector Space to Algebra.md",
-    "PDF/3-1：From Vector Space to Algebra.pdf",
+    "Quantum Mechanics/4：观测与不确定性关系.md",
+    "Quantum Mechanics/Index of Quantum Mechanics.md",
+    "Quantum Mechanics/5：基底的变换.md",
+    "PDF/5：基底的变换.pdf",
+    "Stochastic Process/Index of Stochastic Analysis.md",
+    "Quantum Mechanics/3：希尔伯特空间的基和具象化的矩阵表示.md",
+    "Attachments/Pasted image 20240814201443.png",
     "Miscellaneous/Mathematical Physics by S.H..md",
-    "Miscellaneous/大黑曜石制造者.md",
+    "Stochastic Process/20：滤流和停时.md",
+    "Miscellaneous/3-5：Decomposition of Algebras.md",
+    "Miscellaneous/3-1：From Vector Space to Algebra.md",
     "Miscellaneous/Notes Summary Center.md",
-    "Differential Geometry/Chapter 16 ：全局高斯-博内定理的介绍.md",
-    "Differential Geometry/Chapter 12 ：曲面的外在曲率.md",
-    "Attachments/Pasted image 20240725170700.png",
-    "Attachments/Pasted image 20240725165939.png",
-    "Differential Geometry/Chapter 13 ：高斯的绝妙定理.md",
-    "Differential Geometry/Chapter 15 ：形状导数.md",
-    "Differential Geometry/Chapter 11 ：测地曲率 测地线.md",
-    "Differential Geometry/Chapter 9 ：三维空间中的曲线.md",
-    "Differential Geometry/Chapter 10 ：曲面的主曲率.md",
-    "Differential Geometry/Chapter 14 ：尖刺的曲率.md",
-    "ElectroDynamics/电动力学PART 5.md",
-    "ElectroDynamics/Index of Electro Dynamics.md",
-    "ElectroDynamics/电动力学PART 6.md",
-    "PDF/电动力学PART 6.pdf",
-    "PDF/电动力学PART 5.pdf",
-    "ElectroDynamics/电动力学PART 4.md",
-    "PDF/电动力学PART 4.pdf",
-    "ElectroDynamics/电动力学PART 3.md",
-    "PDF/电动力学PART 3.pdf",
-    "ElectroDynamics/电动力学PART 2.md",
-    "PDF/电动力学PART 2.pdf",
-    "ElectroDynamics/电动力学PART 1.md",
-    "PDF/电动力学PART 1.pdf",
-    "ElectroDynamics/37：相对论电动力学.md",
-    "ElectroDynamics/36：相对论动力学.md",
-    "ElectroDynamics/35：狭义相对论简介.md",
-    "ElectroDynamics/34：运动的点电荷的辐射.md",
-    "ElectroDynamics/33：偶极辐射.md",
-    "PDF/电动力学PART 0：电动力学的数学基础.pdf",
-    "Attachments/Pasted image 20240527172730.png",
-    "Attachments/Pasted image 20240527171121.png",
-    "Attachments/Pasted image 20240527165945.png",
-    "Attachments/Pasted image 20240527163258.png",
-    "Attachments/Pasted image 20240521135440.png",
-    "Attachments/Pasted image 20240520160517.png",
-    "Attachments/Pasted image 20240520155347.png",
-    "Attachments/Pasted image 20240519221653.png",
-    "Differential Geometry",
-    "Untitled/Untitled",
+    "Stochastic Process/19：随机过程的公理化建立.md",
+    "Stochastic Process/24：布朗运动是高斯过程和马尔可夫过程.md",
+    "PDF/4：观测与不确定性关系.pdf",
+    "PDF/3：希尔伯特空间的基和具象化的矩阵表示.pdf",
+    "Miscellaneous/大黑曜石制造者.md",
+    "Quantum Mechanics/2：态矢量和算符.md",
+    "Quantum Mechanics/1：Stern-Gerlach实验.md",
+    "Miscellaneous/3-6：Polynomial Algebra.md",
+    "PDF/2：态矢量和算符.pdf",
+    "PDF/1：Stern-Gerlach实验.pdf",
+    "Attachments/Pasted image 20240811165017.png",
+    "Attachments/Pasted image 20240811164533.png",
+    "Attachments/Pasted image 20240811115044.png",
+    "Attachments/Pasted image 20240811113000.png",
+    "Differential Geometry/Index of Differential Geometry.md",
+    "Stochastic Process/27：维纳混沌展开.md",
+    "Stochastic Process/25：布朗运动的性质.md",
+    "Stochastic Process/26：有限制的布朗运动.md",
+    "Stochastic Process/21：马尔可夫过程.md",
+    "Stochastic Process/23：随机游走的极限是布朗运动.md",
+    "Stochastic Process/22：高斯过程.md",
+    "Stochastic Process/16：Metropolis 算法.md",
+    "Stochastic Process/18：模拟回火和模拟退火.md",
+    "Attachments/Pasted image 20240806165813.png",
+    "Attachments/Pasted image 20240805205753.png",
+    "Attachments/Pasted image 20240805095042.png",
+    "Attachments/Pasted image 20240803233454.png",
+    "Attachments/Pasted image 20240802211244.png",
+    "PDF/Chapter 27 ：度量曲率公式的几何证明.pdf",
+    "PDF/Chapter 26 ：GGB的第四个证明（利用和乐性）.pdf",
+    "PDF/3-4：Derivation of Algebra.pdf",
+    "PDF/3-5：Decomposition of Algebras.pdf",
+    "PDF/1：古典概型和几何概型.pdf",
     "Untitled.canvas"
   ]
 }

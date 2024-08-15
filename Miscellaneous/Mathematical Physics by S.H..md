@@ -5,7 +5,11 @@
 
 ## Chapter 3 : Algebras 
 [[3-1：From Vector Space to Algebra]]
-
+[[3-2：Ideals]]
+[[3-3：Total Matrix Algebra]]
+[[3-4：Derivation of Algebra]]
+[[3-5：Decomposition of Algebras]]
+[[3-6：Polynomial Algebra]]
 
 
 
