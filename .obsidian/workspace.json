@@ -8,37 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56580b31c3e37c9c",
+            "id": "cff4a452efb3a9da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/3-5：Decomposition of Algebras.md",
+                "file": "Miscellaneous/Notes Summary Center.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "d56adf286f7f2ad2",
+            "id": "dac3ab7057178e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/3-1：From Vector Space to Algebra.md",
+                "file": "Differential Geometry/Index of Differential Geometry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "005de559d11c434d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Differential Geometry/Chapter 30：广义相对论初步：从潮汐力开始.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "529e648c91c86f7c",
+            "id": "1d06fbc83499ed85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Process/Index of Stochastic Analysis.md",
+                "file": "Differential Geometry/Chapter 29：黎曼几何初步：高维流形上的平行移动.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b46e5a05c13b3c10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/Mathematical Physics by S.H..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c15174332ba1ebb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/4-1：Algebra of End(V).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -54,45 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "39102e9520b7b076",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantum Mechanics/4：观测与不确定性关系.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f40fa58cc76e90ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantum Mechanics/5：基底的变换.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8d1050a504de4e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miscellaneous/Mathematical Physics by S.H..md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "End",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Mechanics/Index of Quantum Mechanics.md",
+                "file": "Differential Geometry/Chapter 30：广义相对论初步：从潮汐力开始.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum Mechanics/Index of Quantum Mechanics.md",
+                "file": "Differential Geometry/Chapter 30：广义相对论初步：从潮汐力开始.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum Mechanics/Index of Quantum Mechanics.md"
+                "file": "Differential Geometry/Chapter 30：广义相对论初步：从潮汐力开始.md"
               }
             }
           },
@@ -274,53 +273,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96dfec8284fb6ca6",
+  "active": "005de559d11c434d",
   "lastOpenFiles": [
-    "Quantum Mechanics/4：观测与不确定性关系.md",
-    "Quantum Mechanics/Index of Quantum Mechanics.md",
-    "Quantum Mechanics/5：基底的变换.md",
-    "PDF/5：基底的变换.pdf",
-    "Stochastic Process/Index of Stochastic Analysis.md",
-    "Quantum Mechanics/3：希尔伯特空间的基和具象化的矩阵表示.md",
-    "Attachments/Pasted image 20240814201443.png",
+    "PDF/Chapter 30：广义相对论初步：从潮汐力开始.pdf",
+    "Differential Geometry/Chapter 29：黎曼几何初步：高维流形上的平行移动.md",
+    "Differential Geometry/Index of Differential Geometry.md",
+    "Differential Geometry/Chapter 30：广义相对论初步：从潮汐力开始.md",
+    "Attachments/Pasted image 20240819220821.png",
+    "Attachments/Pasted image 20240819213722.png",
+    "Attachments/Pasted image 20240819204635.png",
+    "Attachments/Pasted image 20240819203828.png",
+    "Attachments/Pasted image 20240819173037.png",
+    "Attachments/Pasted image 20240819172445.png",
+    "Differential Geometry/Chapter 28 ：曲率是相邻测地线之间的作用力.md",
+    "PDF/Chapter 29：黎曼几何初步：高维流形上的平行移动.pdf",
+    "Attachments/Pasted image 20240819155250.png",
+    "Attachments/Pasted image 20240819151112.png",
     "Miscellaneous/Mathematical Physics by S.H..md",
-    "Stochastic Process/20：滤流和停时.md",
+    "Attachments/Pasted image 20240819142757.png",
+    "Attachments/Pasted image 20240818211426.png",
+    "Miscellaneous/4-1：Algebra of End(V).md",
+    "Quantum Mechanics/Index of Quantum Mechanics.md",
+    "Miscellaneous/Notes Summary Center.md",
+    "Differential Geometry/Chapter 19 ：GGB的第三个证明（利用向量场）.md",
+    "Miscellaneous/3-4：Derivation of Algebra.md",
     "Miscellaneous/3-5：Decomposition of Algebras.md",
     "Miscellaneous/3-1：From Vector Space to Algebra.md",
-    "Miscellaneous/Notes Summary Center.md",
+    "Stochastic Process/Index of Stochastic Analysis.md",
+    "Quantum Mechanics/第一章：习题.md",
+    "Quantum Mechanics/7：动量和坐标表象下的波函数.md",
+    "PDF/7：动量和坐标表象下的波函数.pdf",
+    "Quantum Mechanics/4：观测与不确定性关系.md",
+    "Quantum Mechanics/3：希尔伯特空间的基和具象化的矩阵表示.md",
+    "Quantum Mechanics/2：态矢量和算符.md",
+    "Quantum Mechanics/6：连续基底.md",
+    "Quantum Mechanics/5：基底的变换.md",
+    "PDF/6：连续基底.pdf",
+    "PDF/5：基底的变换.pdf",
+    "Stochastic Process/20：滤流和停时.md",
     "Stochastic Process/19：随机过程的公理化建立.md",
     "Stochastic Process/24：布朗运动是高斯过程和马尔可夫过程.md",
     "PDF/4：观测与不确定性关系.pdf",
     "PDF/3：希尔伯特空间的基和具象化的矩阵表示.pdf",
     "Miscellaneous/大黑曜石制造者.md",
-    "Quantum Mechanics/2：态矢量和算符.md",
     "Quantum Mechanics/1：Stern-Gerlach实验.md",
-    "Miscellaneous/3-6：Polynomial Algebra.md",
     "PDF/2：态矢量和算符.pdf",
     "PDF/1：Stern-Gerlach实验.pdf",
-    "Attachments/Pasted image 20240811165017.png",
-    "Attachments/Pasted image 20240811164533.png",
-    "Attachments/Pasted image 20240811115044.png",
-    "Attachments/Pasted image 20240811113000.png",
-    "Differential Geometry/Index of Differential Geometry.md",
-    "Stochastic Process/27：维纳混沌展开.md",
-    "Stochastic Process/25：布朗运动的性质.md",
-    "Stochastic Process/26：有限制的布朗运动.md",
-    "Stochastic Process/21：马尔可夫过程.md",
-    "Stochastic Process/23：随机游走的极限是布朗运动.md",
-    "Stochastic Process/22：高斯过程.md",
-    "Stochastic Process/16：Metropolis 算法.md",
-    "Stochastic Process/18：模拟回火和模拟退火.md",
-    "Attachments/Pasted image 20240806165813.png",
-    "Attachments/Pasted image 20240805205753.png",
-    "Attachments/Pasted image 20240805095042.png",
-    "Attachments/Pasted image 20240803233454.png",
-    "Attachments/Pasted image 20240802211244.png",
     "PDF/Chapter 27 ：度量曲率公式的几何证明.pdf",
     "PDF/Chapter 26 ：GGB的第四个证明（利用和乐性）.pdf",
-    "PDF/3-4：Derivation of Algebra.pdf",
-    "PDF/3-5：Decomposition of Algebras.pdf",
-    "PDF/1：古典概型和几何概型.pdf",
     "Untitled.canvas"
   ]
 }

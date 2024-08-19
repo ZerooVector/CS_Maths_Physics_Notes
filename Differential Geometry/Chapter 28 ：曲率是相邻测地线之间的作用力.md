@@ -55,9 +55,9 @@ $$
 
 接下来再给出一个依赖于几何的证明。
 ![[Pasted image 20240731161145.png|400]]
-如图，我们找到两条测地线 $\mathcal{L}$ 和 $\mathcal{\tilde L}$，找到无限小的线段 $a \tilde a$ 使得它与两条测地线垂直。经过 $\delta t$ 时间后，两者的相对速度是 $\delta v  = \ddot \xi dt$。我们应该比较 $v(b)$ 和 $\tilde v(\tilde b)$，但是它们两个的差显然不是内蕴的。为了得到相对加速度的内蕴量度，我们需要沿着 $b \tilde b$ 平行移动 $v(b)$，从而得到相对加速度的内蕴量度：
+如图，我们找到两条测地线 $\mathcal{L}$ 和 $\mathcal{\tilde L}$，找到无限小的测地线段 $a \tilde a$ 使得它与两条测地线垂直。经过 $\delta t$ 时间后，两者的相对速度是 $\delta v  = \ddot \xi dt$。我们应该比较 $v(b)$ 和 $\tilde v(\tilde b)$，但是它们两个的差显然不是内蕴的。为了得到相对加速度的内蕴量度，我们需要沿着 $b \tilde b$ 平行移动 $v(b)$，从而得到相对加速度的内蕴量度：
 $$
-\ddot \xi di = \delta v  = \tilde v (\tilde b) - v_{\parallel}(b)
+\ddot \xi dt = \delta v  = \tilde v (\tilde b) - v_{\parallel}(b)
 $$
 设两个向量在 $\tilde b$ 点的夹角为 $\delta \psi$，那么显然有 $\delta v = \delta \psi$。很容易注意到的一点是：如果沿着 $\tilde b b a  \tilde a \tilde b$ 的方向平行移动 $v_{\parallel} (b)$，那么它转过的角度恰好是 $\delta \psi$，从而我们可以得到一连串的等式：
 $$
