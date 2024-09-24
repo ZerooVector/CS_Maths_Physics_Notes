@@ -13,4 +13,11 @@
 
 ## Chapter 4：Operator Algebra
 [[4-1：Algebra of End(V)]]
+[[4-2：Derivatives of Operators]]
+[[4-3：Conjugation of Operators]]
+[[4-4：Idempotents]]
+[[4-5：Representation of Algebras]]
+
+## Chapter 7：Hilbert Spaces
+[[7-1：The Question of Convergence]]
 

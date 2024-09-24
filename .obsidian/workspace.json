@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "590e4d173d86aa3f",
+        "id": "3d6238b1e33d7d85",
         "type": "tabs",
         "children": [
           {
-            "id": "cff4a452efb3a9da",
+            "id": "5feb32e9d1948c6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,72 +20,24 @@
             }
           },
           {
-            "id": "dac3ab7057178e20",
+            "id": "67e7293ce5b8c7d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Geometry/Index of Differential Geometry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "005de559d11c434d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Differential Geometry/Chapter 30：广义相对论初步：从潮汐力开始.md",
+                "file": "Machine_Learning_and_Data_Science/New Machine Learning Index.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "1d06fbc83499ed85",
+            "id": "6dc9be6080fe6225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Geometry/Chapter 29：黎曼几何初步：高维流形上的平行移动.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b46e5a05c13b3c10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miscellaneous/Mathematical Physics by S.H..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c15174332ba1ebb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miscellaneous/4-1：Algebra of End(V).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96dfec8284fb6ca6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantum Mechanics/Index of Quantum Mechanics.md",
+                "file": "Machine_Learning_and_Data_Science/变分自编码器简介.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Geometry/Chapter 30：广义相对论初步：从潮汐力开始.md",
+                "file": "Machine_Learning_and_Data_Science/变分自编码器简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Geometry/Chapter 30：广义相对论初步：从潮汐力开始.md",
+                "file": "Machine_Learning_and_Data_Science/变分自编码器简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differential Geometry/Chapter 30：广义相对论初步：从潮汐力开始.md"
+                "file": "Machine_Learning_and_Data_Science/变分自编码器简介.md"
               }
             }
           },
@@ -257,7 +209,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
@@ -265,62 +216,63 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "canvas:Create new canvas": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
       "copilot:Copilot Chat": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "005de559d11c434d",
+  "active": "6dc9be6080fe6225",
   "lastOpenFiles": [
-    "PDF/Chapter 30：广义相对论初步：从潮汐力开始.pdf",
-    "Differential Geometry/Chapter 29：黎曼几何初步：高维流形上的平行移动.md",
-    "Differential Geometry/Index of Differential Geometry.md",
-    "Differential Geometry/Chapter 30：广义相对论初步：从潮汐力开始.md",
-    "Attachments/Pasted image 20240819220821.png",
-    "Attachments/Pasted image 20240819213722.png",
-    "Attachments/Pasted image 20240819204635.png",
-    "Attachments/Pasted image 20240819203828.png",
-    "Attachments/Pasted image 20240819173037.png",
-    "Attachments/Pasted image 20240819172445.png",
-    "Differential Geometry/Chapter 28 ：曲率是相邻测地线之间的作用力.md",
-    "PDF/Chapter 29：黎曼几何初步：高维流形上的平行移动.pdf",
-    "Attachments/Pasted image 20240819155250.png",
-    "Attachments/Pasted image 20240819151112.png",
-    "Miscellaneous/Mathematical Physics by S.H..md",
-    "Attachments/Pasted image 20240819142757.png",
-    "Attachments/Pasted image 20240818211426.png",
-    "Miscellaneous/4-1：Algebra of End(V).md",
-    "Quantum Mechanics/Index of Quantum Mechanics.md",
+    "Machine_Learning_and_Data_Science/New Machine Learning Index.md",
     "Miscellaneous/Notes Summary Center.md",
-    "Differential Geometry/Chapter 19 ：GGB的第三个证明（利用向量场）.md",
-    "Miscellaneous/3-4：Derivation of Algebra.md",
-    "Miscellaneous/3-5：Decomposition of Algebras.md",
-    "Miscellaneous/3-1：From Vector Space to Algebra.md",
+    "Quantum Mechanics/20：轨道角动量和”方向表象“下的球谐函数.md",
+    "Quantum Mechanics/Index of Quantum Mechanics.md",
+    "ElectroDynamics/28：吸收与色散.md",
+    "ElectroDynamics/Index of Electro Dynamics.md",
+    "ElectroDynamics/27：介质中的电磁波.md",
+    "Machine_Learning_and_Data_Science/变分自编码器简介.md",
+    "Machine_Learning_and_Data_Science/变分推断简介.md",
+    "Miscellaneous/2023 新生赛答案.md",
+    "ElectroDynamics/15：多极展开.md",
+    "ElectroDynamics/33：偶极辐射.md",
+    "Quantum Mechanics/21：中心势场中薛定谔方程的解.md",
     "Stochastic Process/Index of Stochastic Analysis.md",
-    "Quantum Mechanics/第一章：习题.md",
-    "Quantum Mechanics/7：动量和坐标表象下的波函数.md",
-    "PDF/7：动量和坐标表象下的波函数.pdf",
-    "Quantum Mechanics/4：观测与不确定性关系.md",
-    "Quantum Mechanics/3：希尔伯特空间的基和具象化的矩阵表示.md",
-    "Quantum Mechanics/2：态矢量和算符.md",
-    "Quantum Mechanics/6：连续基底.md",
-    "Quantum Mechanics/5：基底的变换.md",
-    "PDF/6：连续基底.pdf",
-    "PDF/5：基底的变换.pdf",
-    "Stochastic Process/20：滤流和停时.md",
-    "Stochastic Process/19：随机过程的公理化建立.md",
-    "Stochastic Process/24：布朗运动是高斯过程和马尔可夫过程.md",
-    "PDF/4：观测与不确定性关系.pdf",
-    "PDF/3：希尔伯特空间的基和具象化的矩阵表示.pdf",
-    "Miscellaneous/大黑曜石制造者.md",
-    "Quantum Mechanics/1：Stern-Gerlach实验.md",
-    "PDF/2：态矢量和算符.pdf",
-    "PDF/1：Stern-Gerlach实验.pdf",
-    "PDF/Chapter 27 ：度量曲率公式的几何证明.pdf",
-    "PDF/Chapter 26 ：GGB的第四个证明（利用和乐性）.pdf",
+    "Differential Geometry/Index of Differential Geometry.md",
+    "Quantum Mechanics/12：波动方程的基本解.md",
+    "Quantum Mechanics/Ep.5 Fundamentals of Quantum Mechanics（2）.md",
+    "Machine_Learning_and_Data_Science/Something about Distance.md",
+    "Machine_Learning_and_Data_Science/K-nearest neighbors algorithm,k-NN.md",
+    "Machine_Learning_and_Data_Science/Index of Machine Learning and Data Science.md",
+    "Machine_Learning_and_Data_Science/History of ML and AI.md",
+    "Machine_Learning_and_Data_Science/Hierarchical Clustering and Spectral Clustering.md",
+    "Machine_Learning_and_Data_Science/Graphical Models.md",
+    "Machine_Learning_and_Data_Science/Gaussian Discriminant Analysis.md",
+    "Machine_Learning_and_Data_Science/Expectation Maximum Algorithm.md",
+    "Machine_Learning_and_Data_Science/Ep.15 Design of Database.md",
+    "Attachments/Pasted image 20240913140443.png",
+    "Attachments/Pasted image 20240912212500.png",
+    "Attachments/Pasted image 20240912211909.png",
+    "Attachments/Pasted image 20240912211309.png",
+    "Attachments/Pasted image 20240911190904.png",
+    "PDF/16：二维系统的旋转矩阵.pdf",
+    "PDF/15：旋转和角动量对易关系.pdf",
+    "Attachments/Pasted image 20240907165642.png",
+    "Attachments/Pasted image 20240907160051.png",
+    "16：1",
+    "PDF/14：势场和规范变换.pdf",
+    "Attachments/Pasted image 20240905154626.png",
+    "Attachments/Pasted image 20240905153809.png",
+    "Attachments/Pasted image 20240905153543.png",
+    "PDF/13：传播子与路径积分简介.pdf",
+    "PDF/12：波动方程的基本解.pdf",
+    "PDF/11：薛定谔波动方程.pdf",
+    "PDF/10：简谐振子.pdf",
+    "PDF/9：薛定谔绘景与海森堡绘景.pdf",
+    "PDF/Chapter 38：大结局：重走微分几何之路.pdf",
     "Untitled.canvas"
   ]
 }

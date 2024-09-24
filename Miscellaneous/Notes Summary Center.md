@@ -4,9 +4,8 @@ banner_y: 0.82665
 ---
 #Functional
 
-- ***“一个充满逻辑的大脑，就像是一把无柄的剑”，我们用这把剑杀死未知，同时我们也变得鲜血淋漓。然而，举起这把剑，是每个求知者的宿命。***
-- - ***The brain is not a container needs to be filled with knowledge, but a torch needs to be lighted***
-- - ***I will blaze the path of my own***
+
+
 ---
 ```contributionGraph
 title: 笔记创建数量
@@ -62,22 +61,14 @@ cellStyleRules:
 [[Today's Weather]]
 Cheating Sheet for Obsidian-> [[大黑曜石制造者]]
 ## 数学帝国
-- 矩阵分析-> [[Index of Matrix_Analysis]]
-- 优化和运筹-> [[Index of Optimization method and Ops Rsch]]
 - 随机过程-> [[Index of Stochastic Process]]
 - 欢乐建模人-> [[MCM ICM CUMCM 试题汇集总站]]
 - 微分几何-> [[Index of Differential Geometry]]
 - 随机分析-> [[Index of Stochastic Analysis]]
 
-
-## 超智能体 
-- 数据科学和机器学习-> [[Index of Machine Learning and Data Science]]
-- 深度学习-> [[Index of Deep Learning]]
-- 计算机视觉-> [[Index of CV]] 
-- 自然语言处理-> [[Index of NLP]]
-- 强化学习-> [[Index of RL]]
-- Python-> [[Index of Python]]
+## 超智能体
 - 现代控制简明理论-> [[Control Theory]]
+- 机器学习知识点合集-> [[New Machine Learning Index]]
 
 
 ## 物含妙理
@@ -93,12 +84,8 @@ Cheating Sheet for Obsidian-> [[大黑曜石制造者]]
 ## 打工人的快乐生活
 - 数字电路-> [[Index of digital circuit]]
 - 经典计算机科学-> [[Index of Traditional Computer Science]]
-- 一些研究的内容-> [[Research Index]]
 
 ## 其他笔记
-- 微观经济学导论-> [[Index of MicroEconomics]]
-- 英语积累本-> [[Index of English Words Bank]]
-- 2023 毛中特全复习-> [[【思政】2023毛中特]] [[【思政】2023毛中特模拟题]]
 - 2023 北京理工大学新生物理竞赛试题解答-> [[2023 新生赛答案]]
 
 
